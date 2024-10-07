@@ -1,0 +1,4441 @@
+Region label,Unit of measure,Commodity,Year,Value
+New South Wales,tonnes,Barley,1912,2900
+Victoria,tonnes,Barley,1912,23200
+Queensland,tonnes,Barley,1912,300
+South Australia,tonnes,Barley,1912,16000
+Western Australia,tonnes,Barley,1912,800
+Tasmania,tonnes,Barley,1912,3400
+Northern Territory,tonnes,Barley,1912,0
+Australian Capital Territory,tonnes,Barley,1912,0
+New South Wales,tonnes,Maize,1912,114500
+Victoria,tonnes,Maize,1912,20100
+Queensland,tonnes,Maize,1912,64100
+South Australia,tonnes,Maize,1912,0
+Western Australia,tonnes,Maize,1912,0
+Tasmania,tonnes,Maize,1912,0
+Northern Territory,tonnes,Maize,1912,0
+Australian Capital Territory,tonnes,Maize,1912,0
+New South Wales,tonnes,Oats,1912,21000
+Victoria,tonnes,Oats,1912,83200
+Queensland,tonnes,Oats,1912,100
+South Australia,tonnes,Oats,1912,24400
+Western Australia,tonnes,Oats,1912,17400
+Tasmania,tonnes,Oats,1912,27200
+Northern Territory,tonnes,Oats,1912,0
+Australian Capital Territory,tonnes,Oats,1912,0
+New South Wales,tonnes,Wheat,1912,682800
+Victoria,tonnes,Wheat,1912,568600
+Queensland,tonnes,Wheat,1912,7800
+South Australia,tonnes,Wheat,1912,553600
+Western Australia,tonnes,Wheat,1912,118600
+Tasmania,tonnes,Wheat,1912,17900
+Northern Territory,tonnes,Wheat,1912,0
+Australian Capital Territory,tonnes,Wheat,1912,0
+New South Wales,tonnes,Potatoes,1912,76400
+Victoria,tonnes,Potatoes,1912,121000
+Queensland,tonnes,Potatoes,1912,13300
+South Australia,tonnes,Potatoes,1912,23000
+Western Australia,tonnes,Potatoes,1912,9500
+Tasmania,tonnes,Potatoes,1912,63200
+Northern Territory,tonnes,Potatoes,1912,0
+Australian Capital Territory,tonnes,Potatoes,1912,0
+New South Wales,tonnes,Barley,1913,6600
+Victoria,tonnes,Barley,1913,39600
+Queensland,tonnes,Barley,1913,3300
+South Australia,tonnes,Barley,1913,29900
+Western Australia,tonnes,Barley,1913,2100
+Tasmania,tonnes,Barley,1913,6000
+Northern Territory,tonnes,Barley,1913,0
+Australian Capital Territory,tonnes,Barley,1913,0
+New South Wales,tonnes,Maize,1913,129900
+Victoria,tonnes,Maize,1913,18200
+Queensland,tonnes,Maize,1913,99500
+South Australia,tonnes,Maize,1913,0
+Western Australia,tonnes,Maize,1913,0
+Tasmania,tonnes,Maize,1913,0
+Northern Territory,tonnes,Maize,1913,0
+Australian Capital Territory,tonnes,Maize,1913,0
+New South Wales,tonnes,Oats,1913,30400
+Victoria,tonnes,Oats,1913,151000
+Queensland,tonnes,Oats,1913,1500
+South Australia,tonnes,Oats,1913,30300
+Western Australia,tonnes,Oats,1913,38100
+Tasmania,tonnes,Oats,1913,40900
+Northern Territory,tonnes,Oats,1913,0
+Australian Capital Territory,tonnes,Oats,1913,0
+New South Wales,tonnes,Wheat,1913,884200
+Victoria,tonnes,Wheat,1913,713700
+Queensland,tonnes,Wheat,1913,53700
+South Australia,tonnes,Wheat,1913,584700
+Western Australia,tonnes,Wheat,1913,249400
+Tasmania,tonnes,Wheat,1913,17100
+Northern Territory,tonnes,Wheat,1913,0
+Australian Capital Territory,tonnes,Wheat,1913,0
+New South Wales,tonnes,Potatoes,1913,93100
+Victoria,tonnes,Potatoes,1913,194200
+Queensland,tonnes,Potatoes,1913,16600
+South Australia,tonnes,Potatoes,1913,33600
+Western Australia,tonnes,Potatoes,1913,13800
+Tasmania,tonnes,Potatoes,1913,73700
+Northern Territory,tonnes,Potatoes,1913,0
+Australian Capital Territory,tonnes,Potatoes,1913,0
+New South Wales,tonnes,Barley,1914,6900
+Victoria,tonnes,Barley,1914,41100
+Queensland,tonnes,Barley,1914,2600
+South Australia,tonnes,Barley,1914,30300
+Western Australia,tonnes,Barley,1914,3800
+Tasmania,tonnes,Barley,1914,4300
+Northern Territory,tonnes,Barley,1914,0
+Australian Capital Territory,tonnes,Barley,1914,0
+New South Wales,tonnes,Maize,1914,113100
+Victoria,tonnes,Maize,1914,20300
+Queensland,tonnes,Maize,1914,108200
+South Australia,tonnes,Maize,1914,0
+Western Australia,tonnes,Maize,1914,0
+Tasmania,tonnes,Maize,1914,0
+Northern Territory,tonnes,Maize,1914,0
+Australian Capital Territory,tonnes,Maize,1914,0
+New South Wales,tonnes,Oats,1914,33300
+Victoria,tonnes,Oats,1914,161300
+Queensland,tonnes,Oats,1914,1000
+South Australia,tonnes,Oats,1914,21700
+Western Australia,tonnes,Oats,1914,30000
+Tasmania,tonnes,Oats,1914,28800
+Northern Territory,tonnes,Oats,1914,0
+Australian Capital Territory,tonnes,Oats,1914,0
+New South Wales,tonnes,Wheat,1914,1034700
+Victoria,tonnes,Wheat,1914,896400
+Queensland,tonnes,Wheat,1914,48100
+South Australia,tonnes,Wheat,1914,460700
+Western Australia,tonnes,Wheat,1914,362600
+Tasmania,tonnes,Wheat,1914,9500
+Northern Territory,tonnes,Wheat,1914,0
+Australian Capital Territory,tonnes,Wheat,1914,0
+New South Wales,tonnes,Potatoes,1914,108600
+Victoria,tonnes,Potatoes,1914,179400
+Queensland,tonnes,Potatoes,1914,16800
+South Australia,tonnes,Potatoes,1914,33500
+Western Australia,tonnes,Potatoes,1914,18100
+Tasmania,tonnes,Potatoes,1914,81700
+Northern Territory,tonnes,Potatoes,1914,0
+Australian Capital Territory,tonnes,Potatoes,1914,0
+New South Wales,tonnes,Barley,1915,1100
+Victoria,tonnes,Barley,1915,13600
+Queensland,tonnes,Barley,1915,2400
+South Australia,tonnes,Barley,1915,10200
+Western Australia,tonnes,Barley,1915,500
+Tasmania,tonnes,Barley,1915,2400
+Northern Territory,tonnes,Barley,1915,0
+Australian Capital Territory,tonnes,Barley,1915,0
+New South Wales,tonnes,Maize,1915,80600
+Victoria,tonnes,Maize,1915,25900
+Queensland,tonnes,Maize,1915,50900
+South Australia,tonnes,Maize,1915,0
+Western Australia,tonnes,Maize,1915,0
+Tasmania,tonnes,Maize,1915,0
+Northern Territory,tonnes,Maize,1915,0
+Australian Capital Territory,tonnes,Maize,1915,0
+New South Wales,tonnes,Oats,1915,9300
+Victoria,tonnes,Oats,1915,29200
+Queensland,tonnes,Oats,1915,800
+South Australia,tonnes,Oats,1915,6700
+Western Australia,tonnes,Oats,1915,8400
+Tasmania,tonnes,Oats,1915,24300
+Northern Territory,tonnes,Oats,1915,0
+Australian Capital Territory,tonnes,Oats,1915,0
+New South Wales,tonnes,Wheat,1915,349200
+Victoria,tonnes,Wheat,1915,107300
+Queensland,tonnes,Wheat,1915,43100
+South Australia,tonnes,Wheat,1915,95900
+Western Australia,tonnes,Wheat,1915,71400
+Tasmania,tonnes,Wheat,1915,10500
+Northern Territory,tonnes,Wheat,1915,0
+Australian Capital Territory,tonnes,Wheat,1915,0
+New South Wales,tonnes,Potatoes,1915,41400
+Victoria,tonnes,Potatoes,1915,192300
+Queensland,tonnes,Potatoes,1915,16300
+South Australia,tonnes,Potatoes,1915,18300
+Western Australia,tonnes,Potatoes,1915,15000
+Tasmania,tonnes,Potatoes,1915,80200
+Northern Territory,tonnes,Potatoes,1915,0
+Australian Capital Territory,tonnes,Potatoes,1915,0
+New South Wales,tonnes,Barley,1916,2600
+Victoria,tonnes,Barley,1916,39300
+Queensland,tonnes,Barley,1916,200
+South Australia,tonnes,Barley,1916,38500
+Western Australia,tonnes,Barley,1916,3000
+Tasmania,tonnes,Barley,1916,2600
+Northern Territory,tonnes,Barley,1916,0
+Australian Capital Territory,tonnes,Barley,1916,0
+New South Wales,tonnes,Maize,1916,95900
+Victoria,tonnes,Maize,1916,25400
+Queensland,tonnes,Maize,1916,76700
+South Australia,tonnes,Maize,1916,0
+Western Australia,tonnes,Maize,1916,0
+Tasmania,tonnes,Maize,1916,0
+Northern Territory,tonnes,Maize,1916,0
+Australian Capital Territory,tonnes,Maize,1916,0
+New South Wales,tonnes,Oats,1916,24400
+Victoria,tonnes,Oats,1916,169300
+Queensland,tonnes,Oats,1916,0
+South Australia,tonnes,Oats,1916,38600
+Western Australia,tonnes,Oats,1916,27800
+Tasmania,tonnes,Oats,1916,39600
+Northern Territory,tonnes,Oats,1916,0
+Australian Capital Territory,tonnes,Oats,1916,0
+New South Wales,tonnes,Wheat,1916,1817000
+Victoria,tonnes,Wheat,1916,1592700
+Queensland,tonnes,Wheat,1916,11300
+South Australia,tonnes,Wheat,1916,928500
+Western Australia,tonnes,Wheat,1916,496000
+Tasmania,tonnes,Wheat,1916,27000
+Northern Territory,tonnes,Wheat,1916,0
+Australian Capital Territory,tonnes,Wheat,1916,0
+New South Wales,tonnes,Potatoes,1916,45200
+Victoria,tonnes,Potatoes,1916,176600
+Queensland,tonnes,Potatoes,1916,7600
+South Australia,tonnes,Potatoes,1916,13200
+Western Australia,tonnes,Potatoes,1916,14300
+Tasmania,tonnes,Potatoes,1916,81200
+Northern Territory,tonnes,Potatoes,1916,0
+Australian Capital Territory,tonnes,Potatoes,1916,0
+New South Wales,tonnes,Barley,1917,1700
+Victoria,tonnes,Barley,1917,40800
+Queensland,tonnes,Barley,1917,5700
+South Australia,tonnes,Barley,1917,39400
+Western Australia,tonnes,Barley,1917,3000
+Tasmania,tonnes,Barley,1917,2000
+Northern Territory,tonnes,Barley,1917,0
+Australian Capital Territory,tonnes,Barley,1917,0
+New South Wales,tonnes,Maize,1917,110100
+Victoria,tonnes,Maize,1917,29800
+Queensland,tonnes,Maize,1917,106400
+South Australia,tonnes,Maize,1917,0
+Western Australia,tonnes,Maize,1917,0
+Tasmania,tonnes,Maize,1917,0
+Northern Territory,tonnes,Maize,1917,0
+Australian Capital Territory,tonnes,Maize,1917,0
+New South Wales,tonnes,Oats,1917,19700
+Victoria,tonnes,Oats,1917,150400
+Queensland,tonnes,Oats,1917,2000
+South Australia,tonnes,Oats,1917,33300
+Western Australia,tonnes,Oats,1917,30600
+Tasmania,tonnes,Oats,1917,18200
+Northern Territory,tonnes,Oats,1917,0
+Australian Capital Territory,tonnes,Oats,1917,0
+New South Wales,tonnes,Wheat,1917,996000
+Victoria,tonnes,Wheat,1917,1392400
+Queensland,tonnes,Wheat,1917,67000
+South Australia,tonnes,Wheat,1917,1244300
+Western Australia,tonnes,Wheat,1917,438000
+Tasmania,tonnes,Wheat,1917,9500
+Northern Territory,tonnes,Wheat,1917,0
+Australian Capital Territory,tonnes,Wheat,1917,0
+New South Wales,tonnes,Potatoes,1917,46100
+Victoria,tonnes,Potatoes,1917,191000
+Queensland,tonnes,Potatoes,1917,19800
+South Australia,tonnes,Potatoes,1917,20700
+Western Australia,tonnes,Potatoes,1917,16700
+Tasmania,tonnes,Potatoes,1917,68100
+Northern Territory,tonnes,Potatoes,1917,0
+Australian Capital Territory,tonnes,Potatoes,1917,0
+New South Wales,tonnes,Barley,1918,2200
+Victoria,tonnes,Barley,1918,44700
+Queensland,tonnes,Barley,1918,3300
+South Australia,tonnes,Barley,1918,37500
+Western Australia,tonnes,Barley,1918,800
+Tasmania,tonnes,Barley,1918,2200
+Northern Territory,tonnes,Barley,1918,0
+Australian Capital Territory,tonnes,Barley,1918,0
+New South Wales,tonnes,Maize,1918,88900
+Victoria,tonnes,Maize,1918,29300
+Queensland,tonnes,Maize,1918,104300
+South Australia,tonnes,Maize,1918,0
+Western Australia,tonnes,Maize,1918,0
+Tasmania,tonnes,Maize,1918,0
+Northern Territory,tonnes,Maize,1918,0
+Australian Capital Territory,tonnes,Maize,1918,0
+New South Wales,tonnes,Oats,1918,26400
+Victoria,tonnes,Oats,1918,111400
+Queensland,tonnes,Oats,1918,800
+South Australia,tonnes,Oats,1918,22600
+Western Australia,tonnes,Oats,1918,16400
+Tasmania,tonnes,Oats,1918,10300
+Northern Territory,tonnes,Oats,1918,0
+Australian Capital Territory,tonnes,Oats,1918,0
+New South Wales,tonnes,Wheat,1918,1026400
+Victoria,tonnes,Wheat,1918,1027000
+Queensland,tonnes,Wheat,1918,28200
+South Australia,tonnes,Wheat,1918,780400
+Western Australia,tonnes,Wheat,1918,253100
+Tasmania,tonnes,Wheat,1918,6900
+Northern Territory,tonnes,Wheat,1918,0
+Australian Capital Territory,tonnes,Wheat,1918,0
+New South Wales,tonnes,Potatoes,1918,50800
+Victoria,tonnes,Potatoes,1918,185100
+Queensland,tonnes,Potatoes,1918,22500
+South Australia,tonnes,Potatoes,1918,11500
+Western Australia,tonnes,Potatoes,1918,11500
+Tasmania,tonnes,Potatoes,1918,71600
+Northern Territory,tonnes,Potatoes,1918,0
+Australian Capital Territory,tonnes,Potatoes,1918,0
+New South Wales,tonnes,Barley,1919,2000
+Victoria,tonnes,Barley,1919,46000
+Queensland,tonnes,Barley,1919,200
+South Australia,tonnes,Barley,1919,54900
+Western Australia,tonnes,Barley,1919,1800
+Tasmania,tonnes,Barley,1919,3200
+Northern Territory,tonnes,Barley,1919,0
+Australian Capital Territory,tonnes,Barley,1919,0
+New South Wales,tonnes,Maize,1919,53100
+Victoria,tonnes,Maize,1919,18100
+Queensland,tonnes,Maize,1919,46500
+South Australia,tonnes,Maize,1919,0
+Western Australia,tonnes,Maize,1919,0
+Tasmania,tonnes,Maize,1919,0
+Northern Territory,tonnes,Maize,1919,0
+Australian Capital Territory,tonnes,Maize,1919,0
+New South Wales,tonnes,Oats,1919,23100
+Victoria,tonnes,Oats,1919,95700
+Queensland,tonnes,Oats,1919,100
+South Australia,tonnes,Oats,1919,27900
+Western Australia,tonnes,Oats,1919,27100
+Tasmania,tonnes,Oats,1919,15400
+Northern Territory,tonnes,Oats,1919,0
+Australian Capital Territory,tonnes,Oats,1919,0
+New South Wales,tonnes,Wheat,1919,498700
+Victoria,tonnes,Wheat,1919,686900
+Queensland,tonnes,Wheat,1919,2800
+South Australia,tonnes,Wheat,1919,623900
+Western Australia,tonnes,Wheat,1919,240600
+Tasmania,tonnes,Wheat,1919,5100
+Northern Territory,tonnes,Wheat,1919,0
+Australian Capital Territory,tonnes,Wheat,1919,0
+New South Wales,tonnes,Potatoes,1919,30800
+Victoria,tonnes,Potatoes,1919,139700
+Queensland,tonnes,Potatoes,1919,11300
+South Australia,tonnes,Potatoes,1919,13400
+Western Australia,tonnes,Potatoes,1919,11900
+Tasmania,tonnes,Potatoes,1919,57400
+Northern Territory,tonnes,Potatoes,1919,0
+Australian Capital Territory,tonnes,Potatoes,1919,0
+New South Wales,tonnes,Barley,1920,900
+Victoria,tonnes,Barley,1920,34700
+Queensland,tonnes,Barley,1920,800
+South Australia,tonnes,Barley,1920,55600
+Western Australia,tonnes,Barley,1920,2600
+Tasmania,tonnes,Barley,1920,2700
+Northern Territory,tonnes,Barley,1920,0
+Australian Capital Territory,tonnes,Barley,1920,0
+New South Wales,tonnes,Maize,1920,102900
+Victoria,tonnes,Maize,1920,22300
+Queensland,tonnes,Maize,1920,51100
+South Australia,tonnes,Maize,1920,0
+Western Australia,tonnes,Maize,1920,0
+Tasmania,tonnes,Maize,1920,0
+Northern Territory,tonnes,Maize,1920,0
+Australian Capital Territory,tonnes,Maize,1920,0
+New South Wales,tonnes,Oats,1920,10600
+Victoria,tonnes,Oats,1920,119800
+Queensland,tonnes,Oats,1920,100
+South Australia,tonnes,Oats,1920,29600
+Western Australia,tonnes,Oats,1920,45000
+Tasmania,tonnes,Oats,1920,22500
+Northern Territory,tonnes,Oats,1920,0
+Australian Capital Territory,tonnes,Oats,1920,0
+New South Wales,tonnes,Wheat,1920,119400
+Victoria,tonnes,Wheat,1920,404400
+Queensland,tonnes,Wheat,1920,8500
+South Australia,tonnes,Wheat,1920,407500
+Western Australia,tonnes,Wheat,1920,305300
+Tasmania,tonnes,Wheat,1920,5800
+Northern Territory,tonnes,Wheat,1920,0
+Australian Capital Territory,tonnes,Wheat,1920,0
+New South Wales,tonnes,Potatoes,1920,50800
+Victoria,tonnes,Potatoes,1920,148200
+Queensland,tonnes,Potatoes,1920,8000
+South Australia,tonnes,Potatoes,1920,11200
+Western Australia,tonnes,Potatoes,1920,13500
+Tasmania,tonnes,Potatoes,1920,67300
+Northern Territory,tonnes,Potatoes,1920,0
+Australian Capital Territory,tonnes,Potatoes,1920,0
+New South Wales,tonnes,Barley,1921,2800
+Victoria,tonnes,Barley,1921,56600
+Queensland,tonnes,Barley,1921,7200
+South Australia,tonnes,Barley,1921,89600
+Western Australia,tonnes,Barley,1921,2500
+Tasmania,tonnes,Barley,1921,3700
+Northern Territory,tonnes,Barley,1921,0
+Australian Capital Territory,tonnes,Barley,1921,0
+New South Wales,tonnes,Maize,1921,106100
+Victoria,tonnes,Maize,1921,27100
+Queensland,tonnes,Maize,1921,73900
+South Australia,tonnes,Maize,1921,0
+Western Australia,tonnes,Maize,1921,0
+Tasmania,tonnes,Maize,1921,0
+Northern Territory,tonnes,Maize,1921,0
+Australian Capital Territory,tonnes,Maize,1921,0
+New South Wales,tonnes,Oats,1921,29800
+Victoria,tonnes,Oats,1921,197900
+Queensland,tonnes,Oats,1921,1900
+South Australia,tonnes,Oats,1921,42200
+Western Australia,tonnes,Oats,1921,36600
+Tasmania,tonnes,Oats,1921,27500
+Northern Territory,tonnes,Oats,1921,0
+Australian Capital Territory,tonnes,Oats,1921,0
+New South Wales,tonnes,Wheat,1921,1513900
+Victoria,tonnes,Wheat,1921,1074200
+Queensland,tonnes,Wheat,1921,100800
+South Australia,tonnes,Wheat,1921,931800
+Western Australia,tonnes,Wheat,1921,333100
+Tasmania,tonnes,Wheat,1921,15400
+Northern Territory,tonnes,Wheat,1921,0
+Australian Capital Territory,tonnes,Wheat,1921,0
+New South Wales,tonnes,Potatoes,1921,64300
+Victoria,tonnes,Potatoes,1921,174400
+Queensland,tonnes,Potatoes,1921,19400
+South Australia,tonnes,Potatoes,1921,17300
+Western Australia,tonnes,Potatoes,1921,13600
+Tasmania,tonnes,Potatoes,1921,90100
+Northern Territory,tonnes,Potatoes,1921,0
+Australian Capital Territory,tonnes,Potatoes,1921,0
+New South Wales,tonnes,Barley,1922,1900
+Victoria,tonnes,Barley,1922,53000
+Queensland,tonnes,Barley,1922,3000
+South Australia,tonnes,Barley,1922,74400
+Western Australia,tonnes,Barley,1922,1900
+Tasmania,tonnes,Barley,1922,3800
+Northern Territory,tonnes,Barley,1922,0
+Australian Capital Territory,tonnes,Barley,1922,0
+New South Wales,tonnes,Maize,1922,101000
+Victoria,tonnes,Maize,1922,24200
+Queensland,tonnes,Maize,1922,81700
+South Australia,tonnes,Maize,1922,0
+Western Australia,tonnes,Maize,1922,0
+Tasmania,tonnes,Maize,1922,0
+Northern Territory,tonnes,Maize,1922,0
+Australian Capital Territory,tonnes,Maize,1922,0
+New South Wales,tonnes,Oats,1922,21200
+Victoria,tonnes,Oats,1922,110400
+Queensland,tonnes,Oats,1922,600
+South Australia,tonnes,Oats,1922,23500
+Western Australia,tonnes,Oats,1922,36600
+Tasmania,tonnes,Oats,1922,28100
+Northern Territory,tonnes,Oats,1922,0
+Australian Capital Territory,tonnes,Oats,1922,0
+New South Wales,tonnes,Wheat,1922,1163900
+Victoria,tonnes,Wheat,1922,1193900
+Queensland,tonnes,Wheat,1922,82300
+South Australia,tonnes,Wheat,1922,678500
+Western Australia,tonnes,Wheat,1922,378200
+Tasmania,tonnes,Wheat,1922,15700
+Northern Territory,tonnes,Wheat,1922,0
+Australian Capital Territory,tonnes,Wheat,1922,0
+New South Wales,tonnes,Potatoes,1922,58800
+Victoria,tonnes,Potatoes,1922,176400
+Queensland,tonnes,Potatoes,1922,17100
+South Australia,tonnes,Potatoes,1922,18900
+Western Australia,tonnes,Potatoes,1922,13800
+Tasmania,tonnes,Potatoes,1922,109400
+Northern Territory,tonnes,Potatoes,1922,0
+Australian Capital Territory,tonnes,Potatoes,1922,0
+New South Wales,tonnes,Barley,1923,1300
+Victoria,tonnes,Barley,1923,55400
+Queensland,tonnes,Barley,1923,2100
+South Australia,tonnes,Barley,1923,83900
+Western Australia,tonnes,Barley,1923,2400
+Tasmania,tonnes,Barley,1923,3500
+Northern Territory,tonnes,Barley,1923,0
+Australian Capital Territory,tonnes,Barley,1923,0
+New South Wales,tonnes,Maize,1923,83500
+Victoria,tonnes,Maize,1923,22400
+Queensland,tonnes,Maize,1923,51400
+South Australia,tonnes,Maize,1923,0
+Western Australia,tonnes,Maize,1923,0
+Tasmania,tonnes,Maize,1923,0
+Northern Territory,tonnes,Maize,1923,0
+Australian Capital Territory,tonnes,Maize,1923,0
+New South Wales,tonnes,Oats,1923,22700
+Victoria,tonnes,Oats,1923,146800
+Queensland,tonnes,Oats,1923,400
+South Australia,tonnes,Oats,1923,30400
+Western Australia,tonnes,Oats,1923,40900
+Tasmania,tonnes,Oats,1923,30500
+Northern Territory,tonnes,Oats,1923,0
+Australian Capital Territory,tonnes,Oats,1923,0
+New South Wales,tonnes,Wheat,1923,780200
+Victoria,tonnes,Wheat,1923,971500
+Queensland,tonnes,Wheat,1923,51100
+South Australia,tonnes,Wheat,1923,782900
+Western Australia,tonnes,Wheat,1923,376900
+Tasmania,tonnes,Wheat,1923,15500
+Northern Territory,tonnes,Wheat,1923,0
+Australian Capital Territory,tonnes,Wheat,1923,0
+New South Wales,tonnes,Potatoes,1923,36300
+Victoria,tonnes,Potatoes,1923,150700
+Queensland,tonnes,Potatoes,1923,10700
+South Australia,tonnes,Potatoes,1923,17600
+Western Australia,tonnes,Potatoes,1923,15400
+Tasmania,tonnes,Potatoes,1923,102800
+Northern Territory,tonnes,Potatoes,1923,0
+Australian Capital Territory,tonnes,Potatoes,1923,0
+New South Wales,tonnes,Barley,1924,1600
+Victoria,tonnes,Barley,1924,33000
+Queensland,tonnes,Barley,1924,100
+South Australia,tonnes,Barley,1924,73800
+Western Australia,tonnes,Barley,1924,2200
+Tasmania,tonnes,Barley,1924,2200
+Northern Territory,tonnes,Barley,1924,0
+Australian Capital Territory,tonnes,Barley,1924,0
+New South Wales,tonnes,Maize,1924,117400
+Victoria,tonnes,Maize,1924,37200
+Queensland,tonnes,Maize,1924,186200
+South Australia,tonnes,Maize,1924,0
+Western Australia,tonnes,Maize,1924,0
+Tasmania,tonnes,Maize,1924,0
+Northern Territory,tonnes,Maize,1924,0
+Australian Capital Territory,tonnes,Maize,1924,0
+New South Wales,tonnes,Oats,1924,28500
+Victoria,tonnes,Oats,1924,169900
+Queensland,tonnes,Oats,1924,0
+South Australia,tonnes,Oats,1924,39100
+Western Australia,tonnes,Oats,1924,51500
+Tasmania,tonnes,Oats,1924,24700
+Northern Territory,tonnes,Oats,1924,0
+Australian Capital Territory,tonnes,Oats,1924,0
+New South Wales,tonnes,Wheat,1924,902900
+Victoria,tonnes,Wheat,1924,1028600
+Queensland,tonnes,Wheat,1924,6600
+South Australia,tonnes,Wheat,1924,939800
+Western Australia,tonnes,Wheat,1924,514600
+Tasmania,tonnes,Wheat,1924,8300
+Northern Territory,tonnes,Wheat,1924,0
+Australian Capital Territory,tonnes,Wheat,1924,0
+New South Wales,tonnes,Potatoes,1924,62100
+Victoria,tonnes,Potatoes,1924,242300
+Queensland,tonnes,Potatoes,1924,9000
+South Australia,tonnes,Potatoes,1924,21700
+Western Australia,tonnes,Potatoes,1924,18100
+Tasmania,tonnes,Potatoes,1924,101500
+Northern Territory,tonnes,Potatoes,1924,0
+Australian Capital Territory,tonnes,Potatoes,1924,0
+New South Wales,tonnes,Barley,1925,2700
+Victoria,tonnes,Barley,1925,32800
+Queensland,tonnes,Barley,1925,3900
+South Australia,tonnes,Barley,1925,70500
+Western Australia,tonnes,Barley,1925,4000
+Tasmania,tonnes,Barley,1925,1200
+Northern Territory,tonnes,Barley,1925,0
+Australian Capital Territory,tonnes,Barley,1925,0
+New South Wales,tonnes,Maize,1925,106900
+Victoria,tonnes,Maize,1925,22700
+Queensland,tonnes,Maize,1925,86000
+South Australia,tonnes,Maize,1925,0
+Western Australia,tonnes,Maize,1925,0
+Tasmania,tonnes,Maize,1925,0
+Northern Territory,tonnes,Maize,1925,0
+Australian Capital Territory,tonnes,Maize,1925,0
+New South Wales,tonnes,Oats,1925,45600
+Victoria,tonnes,Oats,1925,173700
+Queensland,tonnes,Oats,1925,1200
+South Australia,tonnes,Oats,1925,35100
+Western Australia,tonnes,Oats,1925,76800
+Tasmania,tonnes,Oats,1925,19400
+Northern Territory,tonnes,Oats,1925,0
+Australian Capital Territory,tonnes,Oats,1925,0
+New South Wales,tonnes,Wheat,1925,1626600
+Victoria,tonnes,Wheat,1925,1289100
+Queensland,tonnes,Wheat,1925,75600
+South Australia,tonnes,Wheat,1925,830400
+Western Australia,tonnes,Wheat,1925,649700
+Tasmania,tonnes,Wheat,1925,6300
+Northern Territory,tonnes,Wheat,1925,0
+Australian Capital Territory,tonnes,Wheat,1925,0
+New South Wales,tonnes,Potatoes,1925,58200
+Victoria,tonnes,Potatoes,1925,141300
+Queensland,tonnes,Potatoes,1925,20600
+South Australia,tonnes,Potatoes,1925,12400
+Western Australia,tonnes,Potatoes,1925,20200
+Tasmania,tonnes,Potatoes,1925,84700
+Northern Territory,tonnes,Potatoes,1925,0
+Australian Capital Territory,tonnes,Potatoes,1925,0
+New South Wales,tonnes,Barley,1926,2400
+Victoria,tonnes,Barley,1926,40300
+Queensland,tonnes,Barley,1926,2100
+South Australia,tonnes,Barley,1926,93900
+Western Australia,tonnes,Barley,1926,3600
+Tasmania,tonnes,Barley,1926,2100
+Northern Territory,tonnes,Barley,1926,0
+Australian Capital Territory,tonnes,Barley,1926,0
+New South Wales,tonnes,Maize,1926,83300
+Victoria,tonnes,Maize,1926,19500
+Queensland,tonnes,Maize,1926,67500
+South Australia,tonnes,Maize,1926,0
+Western Australia,tonnes,Maize,1926,0
+Tasmania,tonnes,Maize,1926,0
+Northern Territory,tonnes,Maize,1926,0
+Australian Capital Territory,tonnes,Maize,1926,0
+New South Wales,tonnes,Oats,1926,29300
+Victoria,tonnes,Oats,1926,90700
+Queensland,tonnes,Oats,1926,300
+South Australia,tonnes,Oats,1926,32700
+Western Australia,tonnes,Oats,1926,53200
+Tasmania,tonnes,Oats,1926,15200
+Northern Territory,tonnes,Oats,1926,0
+Australian Capital Territory,tonnes,Oats,1926,0
+New South Wales,tonnes,Wheat,1926,920000
+Victoria,tonnes,Wheat,1926,796200
+Queensland,tonnes,Wheat,1926,53700
+South Australia,tonnes,Wheat,1926,778000
+Western Australia,tonnes,Wheat,1926,556800
+Tasmania,tonnes,Wheat,1926,10700
+Northern Territory,tonnes,Wheat,1926,0
+Australian Capital Territory,tonnes,Wheat,1926,0
+New South Wales,tonnes,Potatoes,1926,43800
+Victoria,tonnes,Potatoes,1926,163300
+Queensland,tonnes,Potatoes,1926,15600
+South Australia,tonnes,Potatoes,1926,10900
+Western Australia,tonnes,Potatoes,1926,16300
+Tasmania,tonnes,Potatoes,1926,68400
+Northern Territory,tonnes,Potatoes,1926,0
+Australian Capital Territory,tonnes,Potatoes,1926,0
+New South Wales,tonnes,Barley,1927,2300
+Victoria,tonnes,Barley,1927,43600
+Queensland,tonnes,Barley,1927,0
+South Australia,tonnes,Barley,1927,105100
+Western Australia,tonnes,Barley,1927,2900
+Tasmania,tonnes,Barley,1927,3400
+Northern Territory,tonnes,Barley,1927,0
+Australian Capital Territory,tonnes,Barley,1927,0
+New South Wales,tonnes,Maize,1927,91400
+Victoria,tonnes,Maize,1927,17400
+Queensland,tonnes,Maize,1927,170300
+South Australia,tonnes,Maize,1927,0
+Western Australia,tonnes,Maize,1927,0
+Tasmania,tonnes,Maize,1927,0
+Northern Territory,tonnes,Maize,1927,0
+Australian Capital Territory,tonnes,Maize,1927,0
+New South Wales,tonnes,Oats,1927,34500
+Victoria,tonnes,Oats,1927,88600
+Queensland,tonnes,Oats,1927,0
+South Australia,tonnes,Oats,1927,31000
+Western Australia,tonnes,Oats,1927,49200
+Tasmania,tonnes,Oats,1927,24700
+Northern Territory,tonnes,Oats,1927,0
+Australian Capital Territory,tonnes,Oats,1927,0
+New South Wales,tonnes,Wheat,1927,1293900
+Victoria,tonnes,Wheat,1927,1276000
+Queensland,tonnes,Wheat,1927,10300
+South Australia,tonnes,Wheat,1927,967200
+Western Australia,tonnes,Wheat,1927,845100
+Tasmania,tonnes,Wheat,1927,14500
+Northern Territory,tonnes,Wheat,1927,0
+Australian Capital Territory,tonnes,Wheat,1927,0
+New South Wales,tonnes,Potatoes,1927,54100
+Victoria,tonnes,Potatoes,1927,165500
+Queensland,tonnes,Potatoes,1927,9900
+South Australia,tonnes,Potatoes,1927,15600
+Western Australia,tonnes,Potatoes,1927,18000
+Tasmania,tonnes,Potatoes,1927,115900
+Northern Territory,tonnes,Potatoes,1927,0
+Australian Capital Territory,tonnes,Potatoes,1927,0
+New South Wales,tonnes,Barley,1928,1500
+Victoria,tonnes,Barley,1928,35200
+Queensland,tonnes,Barley,1928,1600
+South Australia,tonnes,Barley,1928,68100
+Western Australia,tonnes,Barley,1928,2900
+Tasmania,tonnes,Barley,1928,3200
+Northern Territory,tonnes,Barley,1928,0
+Australian Capital Territory,tonnes,Barley,1928,0
+New South Wales,tonnes,Maize,1928,99800
+Victoria,tonnes,Maize,1928,19200
+Queensland,tonnes,Maize,1928,130500
+South Australia,tonnes,Maize,1928,0
+Western Australia,tonnes,Maize,1928,0
+Tasmania,tonnes,Maize,1928,0
+Northern Territory,tonnes,Maize,1928,0
+Australian Capital Territory,tonnes,Maize,1928,0
+New South Wales,tonnes,Oats,1928,30000
+Victoria,tonnes,Oats,1928,85000
+Queensland,tonnes,Oats,1928,800
+South Australia,tonnes,Oats,1928,25000
+Western Australia,tonnes,Oats,1928,52900
+Tasmania,tonnes,Oats,1928,25500
+Northern Territory,tonnes,Oats,1928,0
+Australian Capital Territory,tonnes,Oats,1928,0
+New South Wales,tonnes,Wheat,1928,736000
+Victoria,tonnes,Wheat,1928,712000
+Queensland,tonnes,Wheat,1928,102900
+South Australia,tonnes,Wheat,1928,654600
+Western Australia,tonnes,Wheat,1928,989300
+Tasmania,tonnes,Wheat,1928,20900
+Northern Territory,tonnes,Wheat,1928,0
+Australian Capital Territory,tonnes,Wheat,1928,0
+New South Wales,tonnes,Potatoes,1928,48200
+Victoria,tonnes,Potatoes,1928,234000
+Queensland,tonnes,Potatoes,1928,19200
+South Australia,tonnes,Potatoes,1928,18000
+Western Australia,tonnes,Potatoes,1928,17000
+Tasmania,tonnes,Potatoes,1928,141100
+Northern Territory,tonnes,Potatoes,1928,0
+Australian Capital Territory,tonnes,Potatoes,1928,0
+New South Wales,tonnes,Barley,1929,1800
+Victoria,tonnes,Barley,1929,35300
+Queensland,tonnes,Barley,1929,2400
+South Australia,tonnes,Barley,1929,104100
+Western Australia,tonnes,Barley,1929,4300
+Tasmania,tonnes,Barley,1929,2300
+Northern Territory,tonnes,Barley,1929,0
+Australian Capital Territory,tonnes,Barley,1929,0
+New South Wales,tonnes,Maize,1929,63700
+Victoria,tonnes,Maize,1929,17300
+Queensland,tonnes,Maize,1929,111200
+South Australia,tonnes,Maize,1929,0
+Western Australia,tonnes,Maize,1929,0
+Tasmania,tonnes,Maize,1929,0
+Northern Territory,tonnes,Maize,1929,0
+Australian Capital Territory,tonnes,Maize,1929,0
+New South Wales,tonnes,Oats,1929,39600
+Victoria,tonnes,Oats,1929,101600
+Queensland,tonnes,Oats,1929,200
+South Australia,tonnes,Oats,1929,31500
+Western Australia,tonnes,Oats,1929,64300
+Tasmania,tonnes,Oats,1929,18400
+Northern Territory,tonnes,Oats,1929,0
+Australian Capital Territory,tonnes,Oats,1929,0
+New South Wales,tonnes,Wheat,1929,1340600
+Victoria,tonnes,Wheat,1929,1274200
+Queensland,tonnes,Wheat,1929,68400
+South Australia,tonnes,Wheat,1929,729700
+Western Australia,tonnes,Wheat,1929,919100
+Tasmania,tonnes,Wheat,1929,12300
+Northern Territory,tonnes,Wheat,1929,0
+Australian Capital Territory,tonnes,Wheat,1929,0
+New South Wales,tonnes,Potatoes,1929,26800
+Victoria,tonnes,Potatoes,1929,142400
+Queensland,tonnes,Potatoes,1929,9800
+South Australia,tonnes,Potatoes,1929,14100
+Western Australia,tonnes,Potatoes,1929,19100
+Tasmania,tonnes,Potatoes,1929,76400
+Northern Territory,tonnes,Potatoes,1929,0
+Australian Capital Territory,tonnes,Potatoes,1929,0
+New South Wales,tonnes,Barley,1930,2600
+Victoria,tonnes,Barley,1930,49500
+Queensland,tonnes,Barley,1930,4700
+South Australia,tonnes,Barley,1930,105700
+Western Australia,tonnes,Barley,1930,5900
+Tasmania,tonnes,Barley,1930,3800
+Northern Territory,tonnes,Barley,1930,0
+Australian Capital Territory,tonnes,Barley,1930,0
+New South Wales,tonnes,Maize,1930,77100
+Victoria,tonnes,Maize,1930,13600
+Queensland,tonnes,Maize,1930,116000
+South Australia,tonnes,Maize,1930,0
+Western Australia,tonnes,Maize,1930,0
+Tasmania,tonnes,Maize,1930,0
+Northern Territory,tonnes,Maize,1930,0
+Australian Capital Territory,tonnes,Maize,1930,0
+New South Wales,tonnes,Oats,1930,45900
+Victoria,tonnes,Oats,1930,91800
+Queensland,tonnes,Oats,1930,700
+South Australia,tonnes,Oats,1930,28300
+Western Australia,tonnes,Oats,1930,73500
+Tasmania,tonnes,Oats,1930,21400
+Northern Territory,tonnes,Oats,1930,0
+Australian Capital Territory,tonnes,Oats,1930,0
+New South Wales,tonnes,Wheat,1930,936400
+Victoria,tonnes,Wheat,1930,691600
+Queensland,tonnes,Wheat,1930,115200
+South Australia,tonnes,Wheat,1930,635000
+Western Australia,tonnes,Wheat,1930,1063000
+Tasmania,tonnes,Wheat,1930,10200
+Northern Territory,tonnes,Wheat,1930,0
+Australian Capital Territory,tonnes,Wheat,1930,0
+New South Wales,tonnes,Potatoes,1930,24300
+Victoria,tonnes,Potatoes,1930,174500
+Queensland,tonnes,Potatoes,1930,13400
+South Australia,tonnes,Potatoes,1930,15200
+Western Australia,tonnes,Potatoes,1930,28000
+Tasmania,tonnes,Potatoes,1930,92600
+Northern Territory,tonnes,Potatoes,1930,0
+Australian Capital Territory,tonnes,Potatoes,1930,0
+New South Wales,tonnes,Barley,1931,4300
+Victoria,tonnes,Barley,1931,45000
+Queensland,tonnes,Barley,1931,3900
+South Australia,tonnes,Barley,1931,89900
+Western Australia,tonnes,Barley,1931,4200
+Tasmania,tonnes,Barley,1931,3800
+Northern Territory,tonnes,Barley,1931,0
+Australian Capital Territory,tonnes,Barley,1931,0
+New South Wales,tonnes,Maize,1931,70300
+Victoria,tonnes,Maize,1931,17600
+Queensland,tonnes,Maize,1931,96000
+South Australia,tonnes,Maize,1931,0
+Western Australia,tonnes,Maize,1931,0
+Tasmania,tonnes,Maize,1931,0
+Northern Territory,tonnes,Maize,1931,0
+Australian Capital Territory,tonnes,Maize,1931,0
+New South Wales,tonnes,Oats,1931,58800
+Victoria,tonnes,Oats,1931,125100
+Queensland,tonnes,Oats,1931,1700
+South Australia,tonnes,Oats,1931,37700
+Western Australia,tonnes,Oats,1931,59600
+Tasmania,tonnes,Oats,1931,19100
+Northern Territory,tonnes,Oats,1931,0
+Australian Capital Territory,tonnes,Oats,1931,0
+New South Wales,tonnes,Wheat,1931,1792900
+Victoria,tonnes,Wheat,1931,1464600
+Queensland,tonnes,Wheat,1931,138900
+South Australia,tonnes,Wheat,1931,948500
+Western Australia,tonnes,Wheat,1931,1455300
+Tasmania,tonnes,Wheat,1931,10600
+Northern Territory,tonnes,Wheat,1931,0
+Australian Capital Territory,tonnes,Wheat,1931,0
+New South Wales,tonnes,Potatoes,1931,32800
+Victoria,tonnes,Potatoes,1931,176100
+Queensland,tonnes,Potatoes,1931,18800
+South Australia,tonnes,Potatoes,1931,19300
+Western Australia,tonnes,Potatoes,1931,26700
+Tasmania,tonnes,Potatoes,1931,96800
+Northern Territory,tonnes,Potatoes,1931,0
+Australian Capital Territory,tonnes,Potatoes,1931,0
+New South Wales,tonnes,Barley,1932,3100
+Victoria,tonnes,Barley,1932,28500
+Queensland,tonnes,Barley,1932,800
+South Australia,tonnes,Barley,1932,103800
+Western Australia,tonnes,Barley,1932,3700
+Tasmania,tonnes,Barley,1932,2700
+Northern Territory,tonnes,Barley,1932,0
+Australian Capital Territory,tonnes,Barley,1932,0
+New South Wales,tonnes,Maize,1932,67800
+Victoria,tonnes,Maize,1932,15500
+Queensland,tonnes,Maize,1932,42000
+South Australia,tonnes,Maize,1932,0
+Western Australia,tonnes,Maize,1932,0
+Tasmania,tonnes,Maize,1932,0
+Northern Territory,tonnes,Maize,1932,0
+Australian Capital Territory,tonnes,Maize,1932,0
+New South Wales,tonnes,Oats,1932,45800
+Victoria,tonnes,Oats,1932,117000
+Queensland,tonnes,Oats,1932,400
+South Australia,tonnes,Oats,1932,41400
+Western Australia,tonnes,Oats,1932,64200
+Tasmania,tonnes,Oats,1932,6500
+Northern Territory,tonnes,Oats,1932,0
+Australian Capital Territory,tonnes,Oats,1932,0
+New South Wales,tonnes,Wheat,1932,1495900
+Victoria,tonnes,Wheat,1932,1141900
+Queensland,tonnes,Wheat,1932,105100
+South Australia,tonnes,Wheat,1932,1308100
+Western Australia,tonnes,Wheat,1932,1129400
+Tasmania,tonnes,Wheat,1932,4900
+Northern Territory,tonnes,Wheat,1932,0
+Australian Capital Territory,tonnes,Wheat,1932,0
+New South Wales,tonnes,Potatoes,1932,34300
+Victoria,tonnes,Potatoes,1932,209800
+Queensland,tonnes,Potatoes,1932,17500
+South Australia,tonnes,Potatoes,1932,24400
+Western Australia,tonnes,Potatoes,1932,20600
+Tasmania,tonnes,Potatoes,1932,96900
+Northern Territory,tonnes,Potatoes,1932,0
+Australian Capital Territory,tonnes,Potatoes,1932,0
+New South Wales,tonnes,Barley,1933,3500
+Victoria,tonnes,Barley,1933,45300
+Queensland,tonnes,Barley,1933,2300
+South Australia,tonnes,Barley,1933,137800
+Western Australia,tonnes,Barley,1933,3100
+Tasmania,tonnes,Barley,1933,4800
+Northern Territory,tonnes,Barley,1933,0
+Australian Capital Territory,tonnes,Barley,1933,0
+New South Wales,tonnes,Maize,1933,74600
+Victoria,tonnes,Maize,1933,12100
+Queensland,tonnes,Maize,1933,94400
+South Australia,tonnes,Maize,1933,0
+Western Australia,tonnes,Maize,1933,0
+Tasmania,tonnes,Maize,1933,0
+Northern Territory,tonnes,Maize,1933,0
+Australian Capital Territory,tonnes,Maize,1933,0
+New South Wales,tonnes,Oats,1933,63800
+Victoria,tonnes,Oats,1933,115500
+Queensland,tonnes,Oats,1933,1100
+South Australia,tonnes,Oats,1933,32400
+Western Australia,tonnes,Oats,1933,65200
+Tasmania,tonnes,Oats,1933,15100
+Northern Territory,tonnes,Oats,1933,0
+Australian Capital Territory,tonnes,Oats,1933,0
+New South Wales,tonnes,Wheat,1933,2146500
+Victoria,tonnes,Wheat,1933,1302100
+Queensland,tonnes,Wheat,1933,67800
+South Australia,tonnes,Wheat,1933,1154100
+Western Australia,tonnes,Wheat,1933,1136700
+Tasmania,tonnes,Wheat,1933,11700
+Northern Territory,tonnes,Wheat,1933,0
+Australian Capital Territory,tonnes,Wheat,1933,0
+New South Wales,tonnes,Potatoes,1933,43100
+Victoria,tonnes,Potatoes,1933,185400
+Queensland,tonnes,Potatoes,1933,14200
+South Australia,tonnes,Potatoes,1933,25200
+Western Australia,tonnes,Potatoes,1933,22700
+Tasmania,tonnes,Potatoes,1933,99800
+Northern Territory,tonnes,Potatoes,1933,0
+Australian Capital Territory,tonnes,Potatoes,1933,0
+New South Wales,tonnes,Barley,1934,3800
+Victoria,tonnes,Barley,1934,42800
+Queensland,tonnes,Barley,1934,3500
+South Australia,tonnes,Barley,1934,119300
+Western Australia,tonnes,Barley,1934,7400
+Tasmania,tonnes,Barley,1934,3900
+Northern Territory,tonnes,Barley,1934,0
+Australian Capital Territory,tonnes,Barley,1934,0
+New South Wales,tonnes,Maize,1934,79600
+Victoria,tonnes,Maize,1934,16400
+Queensland,tonnes,Maize,1934,105200
+South Australia,tonnes,Maize,1934,0
+Western Australia,tonnes,Maize,1934,0
+Tasmania,tonnes,Maize,1934,0
+Northern Territory,tonnes,Maize,1934,0
+Australian Capital Territory,tonnes,Maize,1934,0
+New South Wales,tonnes,Oats,1934,57700
+Victoria,tonnes,Oats,1934,123000
+Queensland,tonnes,Oats,1934,1300
+South Australia,tonnes,Oats,1934,37800
+Western Australia,tonnes,Oats,1934,71500
+Tasmania,tonnes,Oats,1934,15400
+Northern Territory,tonnes,Oats,1934,0
+Australian Capital Territory,tonnes,Oats,1934,0
+New South Wales,tonnes,Wheat,1934,1552800
+Victoria,tonnes,Wheat,1934,1159700
+Queensland,tonnes,Wheat,1934,118600
+South Australia,tonnes,Wheat,1934,962200
+Western Australia,tonnes,Wheat,1934,1014700
+Tasmania,tonnes,Wheat,1934,15200
+Northern Territory,tonnes,Wheat,1934,0
+Australian Capital Territory,tonnes,Wheat,1934,0
+New South Wales,tonnes,Potatoes,1934,44200
+Victoria,tonnes,Potatoes,1934,144400
+Queensland,tonnes,Potatoes,1934,20400
+South Australia,tonnes,Potatoes,1934,19800
+Western Australia,tonnes,Potatoes,1934,21500
+Tasmania,tonnes,Potatoes,1934,82600
+Northern Territory,tonnes,Potatoes,1934,0
+Australian Capital Territory,tonnes,Potatoes,1934,0
+New South Wales,tonnes,Barley,1935,3800
+Victoria,tonnes,Barley,1935,36500
+Queensland,tonnes,Barley,1935,3600
+South Australia,tonnes,Barley,1935,129000
+Western Australia,tonnes,Barley,1935,5400
+Tasmania,tonnes,Barley,1935,4000
+Northern Territory,tonnes,Barley,1935,0
+Australian Capital Territory,tonnes,Barley,1935,0
+New South Wales,tonnes,Maize,1935,82300
+Victoria,tonnes,Maize,1935,18300
+Queensland,tonnes,Maize,1935,89000
+South Australia,tonnes,Maize,1935,0
+Western Australia,tonnes,Maize,1935,0
+Tasmania,tonnes,Maize,1935,0
+Northern Territory,tonnes,Maize,1935,0
+Australian Capital Territory,tonnes,Maize,1935,0
+New South Wales,tonnes,Oats,1935,70000
+Victoria,tonnes,Oats,1935,95200
+Queensland,tonnes,Oats,1935,1500
+South Australia,tonnes,Oats,1935,43700
+Western Australia,tonnes,Oats,1935,76800
+Tasmania,tonnes,Oats,1935,19200
+Northern Territory,tonnes,Oats,1935,0
+Australian Capital Territory,tonnes,Oats,1935,0
+New South Wales,tonnes,Wheat,1935,1324800
+Victoria,tonnes,Wheat,1935,703500
+Queensland,tonnes,Wheat,1935,110900
+South Australia,tonnes,Wheat,1935,746500
+Western Australia,tonnes,Wheat,1935,734000
+Tasmania,tonnes,Wheat,1935,8300
+Northern Territory,tonnes,Wheat,1935,0
+Australian Capital Territory,tonnes,Wheat,1935,0
+New South Wales,tonnes,Potatoes,1935,46800
+Victoria,tonnes,Potatoes,1935,111100
+Queensland,tonnes,Potatoes,1935,22000
+South Australia,tonnes,Potatoes,1935,19700
+Western Australia,tonnes,Potatoes,1935,19500
+Tasmania,tonnes,Potatoes,1935,71100
+Northern Territory,tonnes,Potatoes,1935,0
+Australian Capital Territory,tonnes,Potatoes,1935,0
+New South Wales,tonnes,Barley,1936,4900
+Victoria,tonnes,Barley,1936,52500
+Queensland,tonnes,Barley,1936,2100
+South Australia,tonnes,Barley,1936,147400
+Western Australia,tonnes,Barley,1936,9500
+Tasmania,tonnes,Barley,1936,2100
+Northern Territory,tonnes,Barley,1936,0
+Australian Capital Territory,tonnes,Barley,1936,0
+New South Wales,tonnes,Maize,1936,84500
+Victoria,tonnes,Maize,1936,16200
+Queensland,tonnes,Maize,1936,80000
+South Australia,tonnes,Maize,1936,0
+Western Australia,tonnes,Maize,1936,0
+Tasmania,tonnes,Maize,1936,0
+Northern Territory,tonnes,Maize,1936,0
+Australian Capital Territory,tonnes,Maize,1936,0
+New South Wales,tonnes,Oats,1936,85900
+Victoria,tonnes,Oats,1936,115500
+Queensland,tonnes,Oats,1936,2200
+South Australia,tonnes,Oats,1936,43100
+Western Australia,tonnes,Oats,1936,82500
+Tasmania,tonnes,Oats,1936,10100
+Northern Territory,tonnes,Oats,1936,0
+Australian Capital Territory,tonnes,Oats,1936,0
+New South Wales,tonnes,Wheat,1936,1328700
+Victoria,tonnes,Wheat,1936,1022000
+Queensland,tonnes,Wheat,1936,73200
+South Australia,tonnes,Wheat,1936,859900
+Western Australia,tonnes,Wheat,1936,634200
+Tasmania,tonnes,Wheat,1936,5000
+Northern Territory,tonnes,Wheat,1936,0
+Australian Capital Territory,tonnes,Wheat,1936,0
+New South Wales,tonnes,Potatoes,1936,63900
+Victoria,tonnes,Potatoes,1936,105800
+Queensland,tonnes,Potatoes,1936,25200
+South Australia,tonnes,Potatoes,1936,19600
+Western Australia,tonnes,Potatoes,1936,26700
+Tasmania,tonnes,Potatoes,1936,87200
+Northern Territory,tonnes,Potatoes,1936,0
+Australian Capital Territory,tonnes,Potatoes,1936,0
+New South Wales,tonnes,Barley,1937,4700
+Victoria,tonnes,Barley,1937,48600
+Queensland,tonnes,Barley,1937,800
+South Australia,tonnes,Barley,1937,96700
+Western Australia,tonnes,Barley,1937,10200
+Tasmania,tonnes,Barley,1937,5500
+Northern Territory,tonnes,Barley,1937,0
+Australian Capital Territory,tonnes,Barley,1937,0
+New South Wales,tonnes,Maize,1937,83900
+Victoria,tonnes,Maize,1937,20200
+Queensland,tonnes,Maize,1937,66800
+South Australia,tonnes,Maize,1937,0
+Western Australia,tonnes,Maize,1937,0
+Tasmania,tonnes,Maize,1937,0
+Northern Territory,tonnes,Maize,1937,0
+Australian Capital Territory,tonnes,Maize,1937,0
+New South Wales,tonnes,Oats,1937,72000
+Victoria,tonnes,Oats,1937,110800
+Queensland,tonnes,Oats,1937,400
+South Australia,tonnes,Oats,1937,42800
+Western Australia,tonnes,Oats,1937,62400
+Tasmania,tonnes,Oats,1937,13700
+Northern Territory,tonnes,Oats,1937,0
+Australian Capital Territory,tonnes,Oats,1937,0
+New South Wales,tonnes,Wheat,1937,1515000
+Victoria,tonnes,Wheat,1937,1166000
+Queensland,tonnes,Wheat,1937,54800
+South Australia,tonnes,Wheat,1937,781000
+Western Australia,tonnes,Wheat,1937,586100
+Tasmania,tonnes,Wheat,1937,15400
+Northern Territory,tonnes,Wheat,1937,0
+Australian Capital Territory,tonnes,Wheat,1937,0
+New South Wales,tonnes,Potatoes,1937,67300
+Victoria,tonnes,Potatoes,1937,199800
+Queensland,tonnes,Potatoes,1937,16100
+South Australia,tonnes,Potatoes,1937,21300
+Western Australia,tonnes,Potatoes,1937,23300
+Tasmania,tonnes,Potatoes,1937,140500
+Northern Territory,tonnes,Potatoes,1937,0
+Australian Capital Territory,tonnes,Potatoes,1937,0
+New South Wales,tonnes,Barley,1938,3800
+Victoria,tonnes,Barley,1938,61400
+Queensland,tonnes,Barley,1938,2700
+South Australia,tonnes,Barley,1938,196300
+Western Australia,tonnes,Barley,1938,13300
+Tasmania,tonnes,Barley,1938,7000
+Northern Territory,tonnes,Barley,1938,0
+Australian Capital Territory,tonnes,Barley,1938,0
+New South Wales,tonnes,Maize,1938,86400
+Victoria,tonnes,Maize,1938,19900
+Queensland,tonnes,Maize,1938,94800
+South Australia,tonnes,Maize,1938,0
+Western Australia,tonnes,Maize,1938,0
+Tasmania,tonnes,Maize,1938,0
+Northern Territory,tonnes,Maize,1938,0
+Australian Capital Territory,tonnes,Maize,1938,0
+New South Wales,tonnes,Oats,1938,61600
+Victoria,tonnes,Oats,1938,96700
+Queensland,tonnes,Oats,1938,1400
+South Australia,tonnes,Oats,1938,53600
+Western Australia,tonnes,Oats,1938,79000
+Tasmania,tonnes,Oats,1938,18800
+Northern Territory,tonnes,Oats,1938,0
+Australian Capital Territory,tonnes,Oats,1938,0
+New South Wales,tonnes,Wheat,1938,1499700
+Victoria,tonnes,Wheat,1938,1311100
+Queensland,tonnes,Wheat,1938,102000
+South Australia,tonnes,Wheat,1938,1181300
+Western Australia,tonnes,Wheat,1938,985300
+Tasmania,tonnes,Wheat,1938,14200
+Northern Territory,tonnes,Wheat,1938,0
+Australian Capital Territory,tonnes,Wheat,1938,0
+New South Wales,tonnes,Potatoes,1938,51600
+Victoria,tonnes,Potatoes,1938,136900
+Queensland,tonnes,Potatoes,1938,16800
+South Australia,tonnes,Potatoes,1938,22000
+Western Australia,tonnes,Potatoes,1938,21900
+Tasmania,tonnes,Potatoes,1938,101600
+Northern Territory,tonnes,Potatoes,1938,0
+Australian Capital Territory,tonnes,Potatoes,1938,0
+New South Wales,tonnes,Barley,1939,4900
+Victoria,tonnes,Barley,1939,37900
+Queensland,tonnes,Barley,1939,5600
+South Australia,tonnes,Barley,1939,171200
+Western Australia,tonnes,Barley,1939,21500
+Tasmania,tonnes,Barley,1939,4700
+Northern Territory,tonnes,Barley,1939,0
+Australian Capital Territory,tonnes,Barley,1939,0
+New South Wales,tonnes,Maize,1939,73800
+Victoria,tonnes,Maize,1939,10600
+Queensland,tonnes,Maize,1939,85000
+South Australia,tonnes,Maize,1939,0
+Western Australia,tonnes,Maize,1939,0
+Tasmania,tonnes,Maize,1939,0
+Northern Territory,tonnes,Maize,1939,0
+Australian Capital Territory,tonnes,Maize,1939,0
+New South Wales,tonnes,Oats,1939,87700
+Victoria,tonnes,Oats,1939,52800
+Queensland,tonnes,Oats,1939,1700
+South Australia,tonnes,Oats,1939,43500
+Western Australia,tonnes,Oats,1939,84500
+Tasmania,tonnes,Oats,1939,11700
+Northern Territory,tonnes,Oats,1939,0
+Australian Capital Territory,tonnes,Oats,1939,0
+New South Wales,tonnes,Wheat,1939,1630200
+Victoria,tonnes,Wheat,1939,492700
+Queensland,tonnes,Wheat,1939,233500
+South Australia,tonnes,Wheat,1939,861500
+Western Australia,tonnes,Wheat,1939,1002100
+Tasmania,tonnes,Wheat,1939,5500
+Northern Territory,tonnes,Wheat,1939,0
+Australian Capital Territory,tonnes,Wheat,1939,0
+New South Wales,tonnes,Potatoes,1939,40000
+Victoria,tonnes,Potatoes,1939,82700
+Queensland,tonnes,Potatoes,1939,19500
+South Australia,tonnes,Potatoes,1939,18800
+Western Australia,tonnes,Potatoes,1939,27000
+Tasmania,tonnes,Potatoes,1939,90800
+Northern Territory,tonnes,Potatoes,1939,0
+Australian Capital Territory,tonnes,Potatoes,1939,0
+New South Wales,tonnes,Barley,1940,10600
+Victoria,tonnes,Barley,1940,84800
+Queensland,tonnes,Barley,1940,6100
+South Australia,tonnes,Barley,1940,226100
+Western Australia,tonnes,Barley,1940,22100
+Tasmania,tonnes,Barley,1940,4400
+Northern Territory,tonnes,Barley,1940,0
+Australian Capital Territory,tonnes,Barley,1940,0
+New South Wales,tonnes,Maize,1940,72000
+Victoria,tonnes,Maize,1940,9700
+Queensland,tonnes,Maize,1940,112900
+South Australia,tonnes,Maize,1940,0
+Western Australia,tonnes,Maize,1940,0
+Tasmania,tonnes,Maize,1940,0
+Northern Territory,tonnes,Maize,1940,0
+Australian Capital Territory,tonnes,Maize,1940,0
+New South Wales,tonnes,Oats,1940,125300
+Victoria,tonnes,Oats,1940,150200
+Queensland,tonnes,Oats,1940,3600
+South Australia,tonnes,Oats,1940,73500
+Western Australia,tonnes,Oats,1940,96200
+Tasmania,tonnes,Oats,1940,9600
+Northern Territory,tonnes,Oats,1940,0
+Australian Capital Territory,tonnes,Oats,1940,0
+New South Wales,tonnes,Wheat,1940,2083400
+Victoria,tonnes,Wheat,1940,1226200
+Queensland,tonnes,Wheat,1940,184800
+South Australia,tonnes,Wheat,1940,1117200
+Western Australia,tonnes,Wheat,1940,1111400
+Tasmania,tonnes,Wheat,1940,2900
+Northern Territory,tonnes,Wheat,1940,0
+Australian Capital Territory,tonnes,Wheat,1940,0
+New South Wales,tonnes,Potatoes,1940,41200
+Victoria,tonnes,Potatoes,1940,89300
+Queensland,tonnes,Potatoes,1940,28800
+South Australia,tonnes,Potatoes,1940,21600
+Western Australia,tonnes,Potatoes,1940,31300
+Tasmania,tonnes,Potatoes,1940,116300
+Northern Territory,tonnes,Potatoes,1940,0
+Australian Capital Territory,tonnes,Potatoes,1940,0
+New South Wales,tonnes,Barley,1941,4000
+Victoria,tonnes,Barley,1941,26900
+Queensland,tonnes,Barley,1941,2800
+South Australia,tonnes,Barley,1941,108400
+Western Australia,tonnes,Barley,1941,16500
+Tasmania,tonnes,Barley,1941,3300
+Northern Territory,tonnes,Barley,1941,0
+Australian Capital Territory,tonnes,Barley,1941,0
+New South Wales,tonnes,Maize,1941,102700
+Victoria,tonnes,Maize,1941,17900
+Queensland,tonnes,Maize,1941,101300
+South Australia,tonnes,Maize,1941,0
+Western Australia,tonnes,Maize,1941,0
+Tasmania,tonnes,Maize,1941,0
+Northern Territory,tonnes,Maize,1941,0
+Australian Capital Territory,tonnes,Maize,1941,0
+New South Wales,tonnes,Oats,1941,36200
+Victoria,tonnes,Oats,1941,47600
+Queensland,tonnes,Oats,1941,1400
+South Australia,tonnes,Oats,1941,33100
+Western Australia,tonnes,Oats,1941,58800
+Tasmania,tonnes,Oats,1941,7600
+Northern Territory,tonnes,Oats,1941,0
+Australian Capital Territory,tonnes,Oats,1941,0
+New South Wales,tonnes,Wheat,1941,651400
+Victoria,tonnes,Wheat,1941,368000
+Queensland,tonnes,Wheat,1941,154700
+South Australia,tonnes,Wheat,1941,485700
+Western Australia,tonnes,Wheat,1941,572800
+Tasmania,tonnes,Wheat,1941,3800
+Northern Territory,tonnes,Wheat,1941,0
+Australian Capital Territory,tonnes,Wheat,1941,0
+New South Wales,tonnes,Potatoes,1941,51200
+Victoria,tonnes,Potatoes,1941,220000
+Queensland,tonnes,Potatoes,1941,22100
+South Australia,tonnes,Potatoes,1941,26000
+Western Australia,tonnes,Potatoes,1941,32000
+Tasmania,tonnes,Potatoes,1941,115900
+Northern Territory,tonnes,Potatoes,1941,0
+Australian Capital Territory,tonnes,Potatoes,1941,0
+New South Wales,tonnes,Barley,1942,6900
+Victoria,tonnes,Barley,1942,108700
+Queensland,tonnes,Barley,1942,2700
+South Australia,tonnes,Barley,1942,265900
+Western Australia,tonnes,Barley,1942,21800
+Tasmania,tonnes,Barley,1942,2700
+Northern Territory,tonnes,Barley,1942,0
+Australian Capital Territory,tonnes,Barley,1942,0
+New South Wales,tonnes,Maize,1942,79800
+Victoria,tonnes,Maize,1942,7800
+Queensland,tonnes,Maize,1942,96500
+South Australia,tonnes,Maize,1942,0
+Western Australia,tonnes,Maize,1942,0
+Tasmania,tonnes,Maize,1942,0
+Northern Territory,tonnes,Maize,1942,0
+Australian Capital Territory,tonnes,Maize,1942,0
+New South Wales,tonnes,Oats,1942,74700
+Victoria,tonnes,Oats,1942,147900
+Queensland,tonnes,Oats,1942,1200
+South Australia,tonnes,Oats,1942,68800
+Western Australia,tonnes,Oats,1942,96400
+Tasmania,tonnes,Oats,1942,15200
+Northern Territory,tonnes,Oats,1942,0
+Australian Capital Territory,tonnes,Oats,1942,0
+New South Wales,tonnes,Wheat,1942,1320000
+Victoria,tonnes,Wheat,1942,1277900
+Queensland,tonnes,Wheat,1942,83800
+South Australia,tonnes,Wheat,1942,829900
+Western Australia,tonnes,Wheat,1942,1020000
+Tasmania,tonnes,Wheat,1942,3900
+Northern Territory,tonnes,Wheat,1942,0
+Australian Capital Territory,tonnes,Wheat,1942,0
+New South Wales,tonnes,Potatoes,1942,39300
+Victoria,tonnes,Potatoes,1942,120400
+Queensland,tonnes,Potatoes,1942,19300
+South Australia,tonnes,Potatoes,1942,24500
+Western Australia,tonnes,Potatoes,1942,25700
+Tasmania,tonnes,Potatoes,1942,111600
+Northern Territory,tonnes,Potatoes,1942,0
+Australian Capital Territory,tonnes,Potatoes,1942,0
+New South Wales,tonnes,Barley,1943,5100
+Victoria,tonnes,Barley,1943,28900
+Queensland,tonnes,Barley,1943,3700
+South Australia,tonnes,Barley,1943,136700
+Western Australia,tonnes,Barley,1943,12100
+Tasmania,tonnes,Barley,1943,1400
+Northern Territory,tonnes,Barley,1943,0
+Australian Capital Territory,tonnes,Barley,1943,0
+New South Wales,tonnes,Maize,1943,71500
+Victoria,tonnes,Maize,1943,6900
+Queensland,tonnes,Maize,1943,114600
+South Australia,tonnes,Maize,1943,0
+Western Australia,tonnes,Maize,1943,0
+Tasmania,tonnes,Maize,1943,0
+Northern Territory,tonnes,Maize,1943,0
+Australian Capital Territory,tonnes,Maize,1943,0
+New South Wales,tonnes,Oats,1943,133100
+Victoria,tonnes,Oats,1943,120400
+Queensland,tonnes,Oats,1943,5000
+South Australia,tonnes,Oats,1943,60900
+Western Australia,tonnes,Oats,1943,65400
+Tasmania,tonnes,Oats,1943,5300
+Northern Territory,tonnes,Oats,1943,0
+Australian Capital Territory,tonnes,Oats,1943,0
+New South Wales,tonnes,Wheat,1943,1406900
+Victoria,tonnes,Wheat,1943,1137700
+Queensland,tonnes,Wheat,1943,136100
+South Australia,tonnes,Wheat,1943,993500
+Western Australia,tonnes,Wheat,1943,560300
+Tasmania,tonnes,Wheat,1943,2000
+Northern Territory,tonnes,Wheat,1943,0
+Australian Capital Territory,tonnes,Wheat,1943,0
+New South Wales,tonnes,Potatoes,1943,65800
+Victoria,tonnes,Potatoes,1943,198300
+Queensland,tonnes,Potatoes,1943,22800
+South Australia,tonnes,Potatoes,1943,33400
+Western Australia,tonnes,Potatoes,1943,32800
+Tasmania,tonnes,Potatoes,1943,138100
+Northern Territory,tonnes,Potatoes,1943,0
+Australian Capital Territory,tonnes,Potatoes,1943,0
+New South Wales,tonnes,Barley,1944,8600
+Victoria,tonnes,Barley,1944,24500
+Queensland,tonnes,Barley,1944,5700
+South Australia,tonnes,Barley,1944,114800
+Western Australia,tonnes,Barley,1944,16400
+Tasmania,tonnes,Barley,1944,2200
+Northern Territory,tonnes,Barley,1944,0
+Australian Capital Territory,tonnes,Barley,1944,0
+New South Wales,tonnes,Maize,1944,70300
+Victoria,tonnes,Maize,1944,3800
+Queensland,tonnes,Maize,1944,98000
+South Australia,tonnes,Maize,1944,0
+Western Australia,tonnes,Maize,1944,0
+Tasmania,tonnes,Maize,1944,0
+Northern Territory,tonnes,Maize,1944,0
+Australian Capital Territory,tonnes,Maize,1944,0
+New South Wales,tonnes,Oats,1944,127900
+Victoria,tonnes,Oats,1944,67200
+Queensland,tonnes,Oats,1944,7000
+South Australia,tonnes,Oats,1944,41500
+Western Australia,tonnes,Oats,1944,71700
+Tasmania,tonnes,Oats,1944,5400
+Northern Territory,tonnes,Oats,1944,0
+Australian Capital Territory,tonnes,Oats,1944,0
+New South Wales,tonnes,Wheat,1944,1292700
+Victoria,tonnes,Wheat,1944,537100
+Queensland,tonnes,Wheat,1944,138300
+South Australia,tonnes,Wheat,1944,562800
+Western Australia,tonnes,Wheat,1944,450200
+Tasmania,tonnes,Wheat,1944,3300
+Northern Territory,tonnes,Wheat,1944,0
+Australian Capital Territory,tonnes,Wheat,1944,0
+New South Wales,tonnes,Potatoes,1944,66700
+Victoria,tonnes,Potatoes,1944,220900
+Queensland,tonnes,Potatoes,1944,31200
+South Australia,tonnes,Potatoes,1944,36600
+Western Australia,tonnes,Potatoes,1944,31000
+Tasmania,tonnes,Potatoes,1944,221300
+Northern Territory,tonnes,Potatoes,1944,0
+Australian Capital Territory,tonnes,Potatoes,1944,0
+New South Wales,tonnes,Barley,1945,2800
+Victoria,tonnes,Barley,1945,8200
+Queensland,tonnes,Barley,1945,7200
+South Australia,tonnes,Barley,1945,72300
+Western Australia,tonnes,Barley,1945,20100
+Tasmania,tonnes,Barley,1945,3600
+Northern Territory,tonnes,Barley,1945,0
+Australian Capital Territory,tonnes,Barley,1945,0
+New South Wales,tonnes,Maize,1945,61900
+Victoria,tonnes,Maize,1945,4200
+Queensland,tonnes,Maize,1945,72700
+South Australia,tonnes,Maize,1945,0
+Western Australia,tonnes,Maize,1945,0
+Tasmania,tonnes,Maize,1945,0
+Northern Territory,tonnes,Maize,1945,0
+Australian Capital Territory,tonnes,Maize,1945,0
+New South Wales,tonnes,Oats,1945,31900
+Victoria,tonnes,Oats,1945,24200
+Queensland,tonnes,Oats,1945,5400
+South Australia,tonnes,Oats,1945,23800
+Western Australia,tonnes,Oats,1945,69600
+Tasmania,tonnes,Oats,1945,7600
+Northern Territory,tonnes,Oats,1945,0
+Australian Capital Territory,tonnes,Oats,1945,0
+New South Wales,tonnes,Wheat,1945,466300
+Victoria,tonnes,Wheat,1945,95200
+Queensland,tonnes,Wheat,1945,189900
+South Australia,tonnes,Wheat,1945,251400
+Western Australia,tonnes,Wheat,1945,433300
+Tasmania,tonnes,Wheat,1945,2500
+Northern Territory,tonnes,Wheat,1945,0
+Australian Capital Territory,tonnes,Wheat,1945,0
+New South Wales,tonnes,Potatoes,1945,81900
+Victoria,tonnes,Potatoes,1945,310100
+Queensland,tonnes,Potatoes,1945,34200
+South Australia,tonnes,Potatoes,1945,65200
+Western Australia,tonnes,Potatoes,1945,52000
+Tasmania,tonnes,Potatoes,1945,350800
+Northern Territory,tonnes,Potatoes,1945,0
+Australian Capital Territory,tonnes,Potatoes,1945,0
+New South Wales,tonnes,Barley,1946,11300
+Victoria,tonnes,Barley,1946,39500
+Queensland,tonnes,Barley,1946,11800
+South Australia,tonnes,Barley,1946,171800
+Western Australia,tonnes,Barley,1946,15100
+Tasmania,tonnes,Barley,1946,2800
+Northern Territory,tonnes,Barley,1946,0
+Australian Capital Territory,tonnes,Barley,1946,0
+New South Wales,tonnes,Maize,1946,65000
+Victoria,tonnes,Maize,1946,7800
+Queensland,tonnes,Maize,1946,74800
+South Australia,tonnes,Maize,1946,0
+Western Australia,tonnes,Maize,1946,0
+Tasmania,tonnes,Maize,1946,0
+Northern Territory,tonnes,Maize,1946,0
+Australian Capital Territory,tonnes,Maize,1946,0
+New South Wales,tonnes,Oats,1946,181400
+Victoria,tonnes,Oats,1946,134300
+Queensland,tonnes,Oats,1946,15000
+South Australia,tonnes,Oats,1946,57500
+Western Australia,tonnes,Oats,1946,73900
+Tasmania,tonnes,Oats,1946,5100
+Northern Territory,tonnes,Oats,1946,0
+Australian Capital Territory,tonnes,Oats,1946,0
+New South Wales,tonnes,Wheat,1946,1701500
+Victoria,tonnes,Wheat,1946,806500
+Queensland,tonnes,Wheat,1946,222700
+South Australia,tonnes,Wheat,1946,572100
+Western Australia,tonnes,Wheat,1946,569300
+Tasmania,tonnes,Wheat,1946,1800
+Northern Territory,tonnes,Wheat,1946,0
+Australian Capital Territory,tonnes,Wheat,1946,0
+New South Wales,tonnes,Potatoes,1946,62800
+Victoria,tonnes,Potatoes,1946,234500
+Queensland,tonnes,Potatoes,1946,34100
+South Australia,tonnes,Potatoes,1946,35700
+Western Australia,tonnes,Potatoes,1946,48400
+Tasmania,tonnes,Potatoes,1946,239900
+Northern Territory,tonnes,Potatoes,1946,0
+Australian Capital Territory,tonnes,Potatoes,1946,0
+New South Wales,tonnes,Barley,1947,2400
+Victoria,tonnes,Barley,1947,52700
+Queensland,tonnes,Barley,1947,1600
+South Australia,tonnes,Barley,1947,191200
+Western Australia,tonnes,Barley,1947,11800
+Tasmania,tonnes,Barley,1947,3500
+Northern Territory,tonnes,Barley,1947,0
+Australian Capital Territory,tonnes,Barley,1947,0
+New South Wales,tonnes,Maize,1947,63700
+Victoria,tonnes,Maize,1947,9100
+Queensland,tonnes,Maize,1947,88600
+South Australia,tonnes,Maize,1947,0
+Western Australia,tonnes,Maize,1947,0
+Tasmania,tonnes,Maize,1947,0
+Northern Territory,tonnes,Maize,1947,0
+Australian Capital Territory,tonnes,Maize,1947,0
+New South Wales,tonnes,Oats,1947,37100
+Victoria,tonnes,Oats,1947,116100
+Queensland,tonnes,Oats,1947,1400
+South Australia,tonnes,Oats,1947,50300
+Western Australia,tonnes,Oats,1947,66300
+Tasmania,tonnes,Oats,1947,10800
+Northern Territory,tonnes,Oats,1947,0
+Australian Capital Territory,tonnes,Oats,1947,0
+New South Wales,tonnes,Wheat,1947,426800
+Victoria,tonnes,Wheat,1947,1332800
+Queensland,tonnes,Wheat,1947,19200
+South Australia,tonnes,Wheat,1947,759000
+Western Australia,tonnes,Wheat,1947,647400
+Tasmania,tonnes,Wheat,1947,3800
+Northern Territory,tonnes,Wheat,1947,0
+Australian Capital Territory,tonnes,Wheat,1947,0
+New South Wales,tonnes,Potatoes,1947,62300
+Victoria,tonnes,Potatoes,1947,227400
+Queensland,tonnes,Potatoes,1947,23000
+South Australia,tonnes,Potatoes,1947,29700
+Western Australia,tonnes,Potatoes,1947,36600
+Tasmania,tonnes,Potatoes,1947,173400
+Northern Territory,tonnes,Potatoes,1947,0
+Australian Capital Territory,tonnes,Potatoes,1947,0
+New South Wales,tonnes,Barley,1948,11800
+Victoria,tonnes,Barley,1948,81100
+Queensland,tonnes,Barley,1948,9800
+South Australia,tonnes,Barley,1948,348800
+Western Australia,tonnes,Barley,1948,16900
+Tasmania,tonnes,Barley,1948,5000
+Northern Territory,tonnes,Barley,1948,0
+Australian Capital Territory,tonnes,Barley,1948,0
+New South Wales,tonnes,Maize,1948,59900
+Victoria,tonnes,Maize,1948,8200
+Queensland,tonnes,Maize,1948,62300
+South Australia,tonnes,Maize,1948,0
+Western Australia,tonnes,Maize,1948,0
+Tasmania,tonnes,Maize,1948,0
+Northern Territory,tonnes,Maize,1948,0
+Australian Capital Territory,tonnes,Maize,1948,0
+New South Wales,tonnes,Oats,1948,248100
+Victoria,tonnes,Oats,1948,279100
+Queensland,tonnes,Oats,1948,8600
+South Australia,tonnes,Oats,1948,97600
+Western Australia,tonnes,Oats,1948,97900
+Tasmania,tonnes,Oats,1948,6500
+Northern Territory,tonnes,Oats,1948,0
+Australian Capital Territory,tonnes,Oats,1948,0
+New South Wales,tonnes,Wheat,1948,2591700
+Victoria,tonnes,Wheat,1948,1278100
+Queensland,tonnes,Wheat,1948,290600
+South Australia,tonnes,Wheat,1948,884700
+Western Australia,tonnes,Wheat,1948,938400
+Tasmania,tonnes,Wheat,1948,3200
+Northern Territory,tonnes,Wheat,1948,0
+Australian Capital Territory,tonnes,Wheat,1948,0
+New South Wales,tonnes,Potatoes,1948,66600
+Victoria,tonnes,Potatoes,1948,187800
+Queensland,tonnes,Potatoes,1948,29800
+South Australia,tonnes,Potatoes,1948,34700
+Western Australia,tonnes,Potatoes,1948,41300
+Tasmania,tonnes,Potatoes,1948,145000
+Northern Territory,tonnes,Potatoes,1948,0
+Australian Capital Territory,tonnes,Potatoes,1948,0
+New South Wales,tonnes,Barley,1949,7300
+Victoria,tonnes,Barley,1949,80500
+Queensland,tonnes,Barley,1949,14100
+South Australia,tonnes,Barley,1949,274700
+Western Australia,tonnes,Barley,1949,22300
+Tasmania,tonnes,Barley,1949,4700
+Northern Territory,tonnes,Barley,1949,0
+Australian Capital Territory,tonnes,Barley,1949,0
+New South Wales,tonnes,Maize,1949,62900
+Victoria,tonnes,Maize,1949,6600
+Queensland,tonnes,Maize,1949,86200
+South Australia,tonnes,Maize,1949,0
+Western Australia,tonnes,Maize,1949,0
+Tasmania,tonnes,Maize,1949,0
+Northern Territory,tonnes,Maize,1949,0
+Australian Capital Territory,tonnes,Maize,1949,0
+New South Wales,tonnes,Oats,1949,104900
+Victoria,tonnes,Oats,1949,135900
+Queensland,tonnes,Oats,1949,7600
+South Australia,tonnes,Oats,1949,47800
+Western Australia,tonnes,Oats,1949,126700
+Tasmania,tonnes,Oats,1949,4800
+Northern Territory,tonnes,Oats,1949,0
+Australian Capital Territory,tonnes,Oats,1949,0
+New South Wales,tonnes,Wheat,1949,1760900
+Victoria,tonnes,Wheat,1949,1335300
+Queensland,tonnes,Wheat,1949,389400
+South Australia,tonnes,Wheat,1949,710900
+Western Australia,tonnes,Wheat,1949,986000
+Tasmania,tonnes,Wheat,1949,4200
+Northern Territory,tonnes,Wheat,1949,0
+Australian Capital Territory,tonnes,Wheat,1949,0
+New South Wales,tonnes,Potatoes,1949,62200
+Victoria,tonnes,Potatoes,1949,168800
+Queensland,tonnes,Potatoes,1949,28000
+South Australia,tonnes,Potatoes,1949,33600
+Western Australia,tonnes,Potatoes,1949,40100
+Tasmania,tonnes,Potatoes,1949,133900
+Northern Territory,tonnes,Potatoes,1949,0
+Australian Capital Territory,tonnes,Potatoes,1949,0
+New South Wales,tonnes,Barley,1950,6000
+Victoria,tonnes,Barley,1950,110600
+Queensland,tonnes,Barley,1950,13100
+South Australia,tonnes,Barley,1950,288900
+Western Australia,tonnes,Barley,1950,22000
+Tasmania,tonnes,Barley,1950,3000
+Northern Territory,tonnes,Barley,1950,0
+Australian Capital Territory,tonnes,Barley,1950,0
+New South Wales,tonnes,Maize,1950,61200
+Victoria,tonnes,Maize,1950,4900
+Queensland,tonnes,Maize,1950,76900
+South Australia,tonnes,Maize,1950,0
+Western Australia,tonnes,Maize,1950,0
+Tasmania,tonnes,Maize,1950,0
+Northern Territory,tonnes,Maize,1950,0
+Australian Capital Territory,tonnes,Maize,1950,0
+New South Wales,tonnes,Oats,1950,127300
+Victoria,tonnes,Oats,1950,158200
+Queensland,tonnes,Oats,1950,6100
+South Australia,tonnes,Oats,1950,62700
+Western Australia,tonnes,Oats,1950,131600
+Tasmania,tonnes,Oats,1950,10500
+Northern Territory,tonnes,Oats,1950,0
+Australian Capital Territory,tonnes,Oats,1950,0
+New South Wales,tonnes,Wheat,1950,2230000
+Victoria,tonnes,Wheat,1950,1563100
+Queensland,tonnes,Wheat,1950,320400
+South Australia,tonnes,Wheat,1950,771100
+Western Australia,tonnes,Wheat,1950,1047200
+Tasmania,tonnes,Wheat,1950,3400
+Northern Territory,tonnes,Wheat,1950,0
+Australian Capital Territory,tonnes,Wheat,1950,0
+New South Wales,tonnes,Potatoes,1950,70500
+Victoria,tonnes,Potatoes,1950,170600
+Queensland,tonnes,Potatoes,1950,31200
+South Australia,tonnes,Potatoes,1950,41600
+Western Australia,tonnes,Potatoes,1950,40100
+Tasmania,tonnes,Potatoes,1950,124000
+Northern Territory,tonnes,Potatoes,1950,0
+Australian Capital Territory,tonnes,Potatoes,1950,0
+New South Wales,tonnes,Barley,1951,2900
+Victoria,tonnes,Barley,1951,102300
+Queensland,tonnes,Barley,1951,11100
+South Australia,tonnes,Barley,1951,379700
+Western Australia,tonnes,Barley,1951,21000
+Tasmania,tonnes,Barley,1951,2100
+Northern Territory,tonnes,Barley,1951,0
+Australian Capital Territory,tonnes,Barley,1951,0
+New South Wales,tonnes,Maize,1951,38400
+Victoria,tonnes,Maize,1951,4700
+Queensland,tonnes,Maize,1951,62000
+South Australia,tonnes,Maize,1951,0
+Western Australia,tonnes,Maize,1951,0
+Tasmania,tonnes,Maize,1951,0
+Northern Territory,tonnes,Maize,1951,0
+Australian Capital Territory,tonnes,Maize,1951,0
+New South Wales,tonnes,Oats,1951,72500
+Victoria,tonnes,Oats,1951,163900
+Queensland,tonnes,Oats,1951,4000
+South Australia,tonnes,Oats,1951,64000
+Western Australia,tonnes,Oats,1951,143200
+Tasmania,tonnes,Oats,1951,7800
+Northern Territory,tonnes,Oats,1951,0
+Australian Capital Territory,tonnes,Oats,1951,0
+New South Wales,tonnes,Wheat,1951,1177700
+Victoria,tonnes,Wheat,1951,1394400
+Queensland,tonnes,Wheat,1951,239000
+South Australia,tonnes,Wheat,1951,841500
+Western Australia,tonnes,Wheat,1951,1357300
+Tasmania,tonnes,Wheat,1951,2600
+Northern Territory,tonnes,Wheat,1951,0
+Australian Capital Territory,tonnes,Wheat,1951,0
+New South Wales,tonnes,Potatoes,1951,43800
+Victoria,tonnes,Potatoes,1951,141600
+Queensland,tonnes,Potatoes,1951,25100
+South Australia,tonnes,Potatoes,1951,36500
+Western Australia,tonnes,Potatoes,1951,44600
+Tasmania,tonnes,Potatoes,1951,126000
+Northern Territory,tonnes,Potatoes,1951,0
+Australian Capital Territory,tonnes,Potatoes,1951,0
+New South Wales,tonnes,Barley,1952,3800
+Victoria,tonnes,Barley,1952,82100
+Queensland,tonnes,Barley,1952,10200
+South Australia,tonnes,Barley,1952,382000
+Western Australia,tonnes,Barley,1952,15800
+Tasmania,tonnes,Barley,1952,3400
+Northern Territory,tonnes,Barley,1952,0
+Australian Capital Territory,tonnes,Barley,1952,0
+New South Wales,tonnes,Maize,1952,35800
+Victoria,tonnes,Maize,1952,4300
+Queensland,tonnes,Maize,1952,67300
+South Australia,tonnes,Maize,1952,0
+Western Australia,tonnes,Maize,1952,0
+Tasmania,tonnes,Maize,1952,0
+Northern Territory,tonnes,Maize,1952,0
+Australian Capital Territory,tonnes,Maize,1952,0
+New South Wales,tonnes,Oats,1952,170500
+Victoria,tonnes,Oats,1952,202300
+Queensland,tonnes,Oats,1952,4800
+South Australia,tonnes,Oats,1952,97800
+Western Australia,tonnes,Oats,1952,139200
+Tasmania,tonnes,Oats,1952,10800
+Northern Territory,tonnes,Oats,1952,0
+Australian Capital Territory,tonnes,Oats,1952,0
+New South Wales,tonnes,Wheat,1952,1080200
+Victoria,tonnes,Wheat,1952,1251800
+Queensland,tonnes,Wheat,1952,180400
+South Australia,tonnes,Wheat,1952,742600
+Western Australia,tonnes,Wheat,1952,1088000
+Tasmania,tonnes,Wheat,1952,2500
+Northern Territory,tonnes,Wheat,1952,0
+Australian Capital Territory,tonnes,Wheat,1952,0
+New South Wales,tonnes,Potatoes,1952,52900
+Victoria,tonnes,Potatoes,1952,181300
+Queensland,tonnes,Potatoes,1952,33500
+South Australia,tonnes,Potatoes,1952,44600
+Western Australia,tonnes,Potatoes,1952,50700
+Tasmania,tonnes,Potatoes,1952,153400
+Northern Territory,tonnes,Potatoes,1952,0
+Australian Capital Territory,tonnes,Potatoes,1952,0
+New South Wales,tonnes,Barley,1953,7700
+Victoria,tonnes,Barley,1953,107400
+Queensland,tonnes,Barley,1953,47900
+South Australia,tonnes,Barley,1953,588000
+Western Australia,tonnes,Barley,1953,39600
+Tasmania,tonnes,Barley,1953,4900
+Northern Territory,tonnes,Barley,1953,0
+Australian Capital Territory,tonnes,Barley,1953,0
+New South Wales,tonnes,Maize,1953,53700
+Victoria,tonnes,Maize,1953,5200
+Queensland,tonnes,Maize,1953,77300
+South Australia,tonnes,Maize,1953,0
+Western Australia,tonnes,Maize,1953,0
+Tasmania,tonnes,Maize,1953,0
+Northern Territory,tonnes,Maize,1953,0
+Australian Capital Territory,tonnes,Maize,1953,0
+New South Wales,tonnes,Oats,1953,223600
+Victoria,tonnes,Oats,1953,228600
+Queensland,tonnes,Oats,1953,23600
+South Australia,tonnes,Oats,1953,120700
+Western Australia,tonnes,Oats,1953,189000
+Tasmania,tonnes,Oats,1953,5200
+Northern Territory,tonnes,Oats,1953,0
+Australian Capital Territory,tonnes,Oats,1953,0
+New South Wales,tonnes,Wheat,1953,1542300
+Victoria,tonnes,Wheat,1953,1369900
+Queensland,tonnes,Wheat,1953,507600
+South Australia,tonnes,Wheat,1953,922600
+Western Australia,tonnes,Wheat,1953,964500
+Tasmania,tonnes,Wheat,1953,4200
+Northern Territory,tonnes,Wheat,1953,0
+Australian Capital Territory,tonnes,Wheat,1953,0
+New South Wales,tonnes,Potatoes,1953,52000
+Victoria,tonnes,Potatoes,1953,135300
+Queensland,tonnes,Potatoes,1953,35600
+South Australia,tonnes,Potatoes,1953,44600
+Western Australia,tonnes,Potatoes,1953,53600
+Tasmania,tonnes,Potatoes,1953,116300
+Northern Territory,tonnes,Potatoes,1953,0
+Australian Capital Territory,tonnes,Potatoes,1953,0
+New South Wales,tonnes,Barley,1954,15500
+Victoria,tonnes,Barley,1954,179900
+Queensland,tonnes,Barley,1954,25900
+South Australia,tonnes,Barley,1954,646800
+Western Australia,tonnes,Barley,1954,62000
+Tasmania,tonnes,Barley,1954,6700
+Northern Territory,tonnes,Barley,1954,0
+Australian Capital Territory,tonnes,Barley,1954,0
+New South Wales,tonnes,Maize,1954,44100
+Victoria,tonnes,Maize,1954,7600
+Queensland,tonnes,Maize,1954,78200
+South Australia,tonnes,Maize,1954,0
+Western Australia,tonnes,Maize,1954,0
+Tasmania,tonnes,Maize,1954,0
+Northern Territory,tonnes,Maize,1954,0
+Australian Capital Territory,tonnes,Maize,1954,0
+New South Wales,tonnes,Oats,1954,154800
+Victoria,tonnes,Oats,1954,178700
+Queensland,tonnes,Oats,1954,3600
+South Australia,tonnes,Oats,1954,78200
+Western Australia,tonnes,Oats,1954,173600
+Tasmania,tonnes,Oats,1954,8400
+Northern Territory,tonnes,Oats,1954,0
+Australian Capital Territory,tonnes,Oats,1954,0
+New South Wales,tonnes,Wheat,1954,1733100
+Victoria,tonnes,Wheat,1954,1461400
+Queensland,tonnes,Wheat,1954,276900
+South Australia,tonnes,Wheat,1954,827100
+Western Australia,tonnes,Wheat,1954,1079800
+Tasmania,tonnes,Wheat,1954,7100
+Northern Territory,tonnes,Wheat,1954,0
+Australian Capital Territory,tonnes,Wheat,1954,0
+New South Wales,tonnes,Potatoes,1954,59000
+Victoria,tonnes,Potatoes,1954,217100
+Queensland,tonnes,Potatoes,1954,33200
+South Australia,tonnes,Potatoes,1954,45800
+Western Australia,tonnes,Potatoes,1954,54600
+Tasmania,tonnes,Potatoes,1954,146600
+Northern Territory,tonnes,Potatoes,1954,0
+Australian Capital Territory,tonnes,Potatoes,1954,0
+New South Wales,tonnes,Barley,1955,11400
+Victoria,tonnes,Barley,1955,112200
+Queensland,tonnes,Barley,1955,58400
+South Australia,tonnes,Barley,1955,417100
+Western Australia,tonnes,Barley,1955,63700
+Tasmania,tonnes,Barley,1955,4500
+Northern Territory,tonnes,Barley,1955,0
+Australian Capital Territory,tonnes,Barley,1955,0
+New South Wales,tonnes,Maize,1955,44900
+Victoria,tonnes,Maize,1955,5800
+Queensland,tonnes,Maize,1955,68800
+South Australia,tonnes,Maize,1955,0
+Western Australia,tonnes,Maize,1955,0
+Tasmania,tonnes,Maize,1955,0
+Northern Territory,tonnes,Maize,1955,0
+Australian Capital Territory,tonnes,Maize,1955,0
+New South Wales,tonnes,Oats,1955,139100
+Victoria,tonnes,Oats,1955,181800
+Queensland,tonnes,Oats,1955,10800
+South Australia,tonnes,Oats,1955,81600
+Western Australia,tonnes,Oats,1955,173500
+Tasmania,tonnes,Oats,1955,8200
+Northern Territory,tonnes,Oats,1955,0
+Australian Capital Territory,tonnes,Oats,1955,0
+New South Wales,tonnes,Wheat,1955,1026500
+Victoria,tonnes,Wheat,1955,1319500
+Queensland,tonnes,Wheat,1955,448200
+South Australia,tonnes,Wheat,1955,855800
+Western Australia,tonnes,Wheat,1955,933000
+Tasmania,tonnes,Wheat,1955,4300
+Northern Territory,tonnes,Wheat,1955,0
+Australian Capital Territory,tonnes,Wheat,1955,0
+New South Wales,tonnes,Potatoes,1955,48500
+Victoria,tonnes,Potatoes,1955,209900
+Queensland,tonnes,Potatoes,1955,31100
+South Australia,tonnes,Potatoes,1955,39000
+Western Australia,tonnes,Potatoes,1955,44300
+Tasmania,tonnes,Potatoes,1955,102600
+Northern Territory,tonnes,Potatoes,1955,0
+Australian Capital Territory,tonnes,Potatoes,1955,0
+New South Wales,tonnes,Barley,1956,25500
+Victoria,tonnes,Barley,1956,156000
+Queensland,tonnes,Barley,1956,95700
+South Australia,tonnes,Barley,1956,558400
+Western Australia,tonnes,Barley,1956,105600
+Tasmania,tonnes,Barley,1956,4300
+Northern Territory,tonnes,Barley,1956,0
+Australian Capital Territory,tonnes,Barley,1956,0
+New South Wales,tonnes,Maize,1956,47400
+Victoria,tonnes,Maize,1956,4500
+Queensland,tonnes,Maize,1956,88100
+South Australia,tonnes,Maize,1956,0
+Western Australia,tonnes,Maize,1956,0
+Tasmania,tonnes,Maize,1956,0
+Northern Territory,tonnes,Maize,1956,0
+Australian Capital Territory,tonnes,Maize,1956,0
+New South Wales,tonnes,Oats,1956,300000
+Victoria,tonnes,Oats,1956,269600
+Queensland,tonnes,Oats,1956,13400
+South Australia,tonnes,Oats,1956,131800
+Western Australia,tonnes,Oats,1956,298900
+Tasmania,tonnes,Oats,1956,10000
+Northern Territory,tonnes,Oats,1956,0
+Australian Capital Territory,tonnes,Oats,1956,0
+New South Wales,tonnes,Wheat,1956,1555400
+Victoria,tonnes,Wheat,1956,1118100
+Queensland,tonnes,Wheat,1956,405900
+South Australia,tonnes,Wheat,1956,785800
+Western Australia,tonnes,Wheat,1956,1448400
+Tasmania,tonnes,Wheat,1956,3500
+Northern Territory,tonnes,Wheat,1956,0
+Australian Capital Territory,tonnes,Wheat,1956,0
+New South Wales,tonnes,Potatoes,1956,44900
+Victoria,tonnes,Potatoes,1956,165900
+Queensland,tonnes,Potatoes,1956,38200
+South Australia,tonnes,Potatoes,1956,37000
+Western Australia,tonnes,Potatoes,1956,42800
+Tasmania,tonnes,Potatoes,1956,79200
+Northern Territory,tonnes,Potatoes,1956,0
+Australian Capital Territory,tonnes,Potatoes,1956,0
+New South Wales,tonnes,Barley,1957,17700
+Victoria,tonnes,Barley,1957,171200
+Queensland,tonnes,Barley,1957,67200
+South Australia,tonnes,Barley,1957,771900
+Western Australia,tonnes,Barley,1957,85100
+Tasmania,tonnes,Barley,1957,5300
+Northern Territory,tonnes,Barley,1957,0
+Australian Capital Territory,tonnes,Barley,1957,0
+New South Wales,tonnes,Maize,1957,49400
+Victoria,tonnes,Maize,1957,2100
+Queensland,tonnes,Maize,1957,80300
+South Australia,tonnes,Maize,1957,0
+Western Australia,tonnes,Maize,1957,0
+Tasmania,tonnes,Maize,1957,0
+Northern Territory,tonnes,Maize,1957,0
+Australian Capital Territory,tonnes,Maize,1957,0
+New South Wales,tonnes,Oats,1957,113800
+Victoria,tonnes,Oats,1957,173400
+Queensland,tonnes,Oats,1957,10000
+South Australia,tonnes,Oats,1957,150600
+Western Australia,tonnes,Oats,1957,189000
+Tasmania,tonnes,Oats,1957,4600
+Northern Territory,tonnes,Oats,1957,0
+Australian Capital Territory,tonnes,Oats,1957,0
+New South Wales,tonnes,Wheat,1957,775400
+Victoria,tonnes,Wheat,1957,960200
+Queensland,tonnes,Wheat,1957,192100
+South Australia,tonnes,Wheat,1957,855000
+Western Australia,tonnes,Wheat,1957,873100
+Tasmania,tonnes,Wheat,1957,2400
+Northern Territory,tonnes,Wheat,1957,0
+Australian Capital Territory,tonnes,Wheat,1957,0
+New South Wales,tonnes,Potatoes,1957,55300
+Victoria,tonnes,Potatoes,1957,231000
+Queensland,tonnes,Potatoes,1957,50300
+South Australia,tonnes,Potatoes,1957,44400
+Western Australia,tonnes,Potatoes,1957,54600
+Tasmania,tonnes,Potatoes,1957,91100
+Northern Territory,tonnes,Potatoes,1957,0
+Australian Capital Territory,tonnes,Potatoes,1957,0
+New South Wales,tonnes,Barley,1958,15600
+Victoria,tonnes,Barley,1958,123500
+Queensland,tonnes,Barley,1958,67100
+South Australia,tonnes,Barley,1958,398400
+Western Australia,tonnes,Barley,1958,80700
+Tasmania,tonnes,Barley,1958,6100
+Northern Territory,tonnes,Barley,1958,0
+Australian Capital Territory,tonnes,Barley,1958,0
+New South Wales,tonnes,Maize,1958,56800
+Victoria,tonnes,Maize,1958,6100
+Queensland,tonnes,Maize,1958,92800
+South Australia,tonnes,Maize,1958,0
+Western Australia,tonnes,Maize,1958,0
+Tasmania,tonnes,Maize,1958,0
+Northern Territory,tonnes,Maize,1958,0
+Australian Capital Territory,tonnes,Maize,1958,0
+New South Wales,tonnes,Oats,1958,71600
+Victoria,tonnes,Oats,1958,172900
+Queensland,tonnes,Oats,1958,4600
+South Australia,tonnes,Oats,1958,61900
+Western Australia,tonnes,Oats,1958,249700
+Tasmania,tonnes,Oats,1958,8800
+Northern Territory,tonnes,Oats,1958,0
+Australian Capital Territory,tonnes,Oats,1958,0
+New South Wales,tonnes,Wheat,1958,288600
+Victoria,tonnes,Wheat,1958,874600
+Queensland,tonnes,Wheat,1958,181100
+South Australia,tonnes,Wheat,1958,405700
+Western Australia,tonnes,Wheat,1958,900300
+Tasmania,tonnes,Wheat,1958,4100
+Northern Territory,tonnes,Wheat,1958,0
+Australian Capital Territory,tonnes,Wheat,1958,0
+New South Wales,tonnes,Potatoes,1958,67800
+Victoria,tonnes,Potatoes,1958,255200
+Queensland,tonnes,Potatoes,1958,57400
+South Australia,tonnes,Potatoes,1958,50800
+Western Australia,tonnes,Potatoes,1958,50000
+Tasmania,tonnes,Potatoes,1958,103100
+Northern Territory,tonnes,Potatoes,1958,0
+Australian Capital Territory,tonnes,Potatoes,1958,0
+New South Wales,tonnes,Barley,1959,66400
+Victoria,tonnes,Barley,1959,194600
+Queensland,tonnes,Barley,1959,183900
+South Australia,tonnes,Barley,1959,855000
+Western Australia,tonnes,Barley,1959,122800
+Tasmania,tonnes,Barley,1959,6700
+Northern Territory,tonnes,Barley,1959,0
+Australian Capital Territory,tonnes,Barley,1959,0
+New South Wales,tonnes,Maize,1959,72600
+Victoria,tonnes,Maize,1959,5200
+Queensland,tonnes,Maize,1959,103100
+South Australia,tonnes,Maize,1959,0
+Western Australia,tonnes,Maize,1959,0
+Tasmania,tonnes,Maize,1959,0
+Northern Territory,tonnes,Maize,1959,0
+Australian Capital Territory,tonnes,Maize,1959,0
+New South Wales,tonnes,Oats,1959,501500
+Victoria,tonnes,Oats,1959,423500
+Queensland,tonnes,Oats,1959,15100
+South Australia,tonnes,Oats,1959,217100
+Western Australia,tonnes,Oats,1959,408800
+Tasmania,tonnes,Oats,1959,8900
+Northern Territory,tonnes,Oats,1959,0
+Australian Capital Territory,tonnes,Oats,1959,0
+New South Wales,tonnes,Wheat,1959,1808200
+Victoria,tonnes,Wheat,1959,1162000
+Queensland,tonnes,Wheat,1959,437800
+South Australia,tonnes,Wheat,1959,871300
+Western Australia,tonnes,Wheat,1959,1568100
+Tasmania,tonnes,Wheat,1959,4400
+Northern Territory,tonnes,Wheat,1959,0
+Australian Capital Territory,tonnes,Wheat,1959,0
+New South Wales,tonnes,Potatoes,1959,85800
+Victoria,tonnes,Potatoes,1959,263500
+Queensland,tonnes,Potatoes,1959,47800
+South Australia,tonnes,Potatoes,1959,51400
+Western Australia,tonnes,Potatoes,1959,47900
+Tasmania,tonnes,Potatoes,1959,87300
+Northern Territory,tonnes,Potatoes,1959,0
+Australian Capital Territory,tonnes,Potatoes,1959,0
+New South Wales,tonnes,Barley,1960,58700
+Victoria,tonnes,Barley,1960,126800
+Queensland,tonnes,Barley,1960,151000
+South Australia,tonnes,Barley,1960,269200
+Western Australia,tonnes,Barley,1960,160700
+Tasmania,tonnes,Barley,1960,9500
+Northern Territory,tonnes,Barley,1960,0
+Australian Capital Territory,tonnes,Barley,1960,0
+New South Wales,tonnes,Maize,1960,63100
+Victoria,tonnes,Maize,1960,4600
+Queensland,tonnes,Maize,1960,97700
+South Australia,tonnes,Maize,1960,0
+Western Australia,tonnes,Maize,1960,0
+Tasmania,tonnes,Maize,1960,0
+Northern Territory,tonnes,Maize,1960,0
+Australian Capital Territory,tonnes,Maize,1960,0
+New South Wales,tonnes,Oats,1960,201800
+Victoria,tonnes,Oats,1960,230400
+Queensland,tonnes,Oats,1960,7100
+South Australia,tonnes,Oats,1960,45300
+Western Australia,tonnes,Oats,1960,354700
+Tasmania,tonnes,Oats,1960,9300
+Northern Territory,tonnes,Oats,1960,0
+Australian Capital Territory,tonnes,Oats,1960,0
+New South Wales,tonnes,Wheat,1960,2050900
+Victoria,tonnes,Wheat,1960,1055800
+Queensland,tonnes,Wheat,1960,367800
+South Australia,tonnes,Wheat,1960,324500
+Western Australia,tonnes,Wheat,1960,1595800
+Tasmania,tonnes,Wheat,1960,4900
+Northern Territory,tonnes,Wheat,1960,0
+Australian Capital Territory,tonnes,Wheat,1960,0
+New South Wales,tonnes,Potatoes,1960,83200
+Victoria,tonnes,Potatoes,1960,246400
+Queensland,tonnes,Potatoes,1960,52300
+South Australia,tonnes,Potatoes,1960,49700
+Western Australia,tonnes,Potatoes,1960,56900
+Tasmania,tonnes,Potatoes,1960,99600
+Northern Territory,tonnes,Potatoes,1960,0
+Australian Capital Territory,tonnes,Potatoes,1960,0
+New South Wales,tonnes,Barley,1961,108800
+Victoria,tonnes,Barley,1961,175100
+Queensland,tonnes,Barley,1961,99700
+South Australia,tonnes,Barley,1961,958700
+Western Australia,tonnes,Barley,1961,192900
+Tasmania,tonnes,Barley,1961,7800
+Northern Territory,tonnes,Barley,1961,0
+Australian Capital Territory,tonnes,Barley,1961,0
+New South Wales,tonnes,Maize,1961,56600
+Victoria,tonnes,Maize,1961,4300
+Queensland,tonnes,Maize,1961,121100
+South Australia,tonnes,Maize,1961,0
+Western Australia,tonnes,Maize,1961,0
+Tasmania,tonnes,Maize,1961,0
+Northern Territory,tonnes,Maize,1961,0
+Australian Capital Territory,tonnes,Maize,1961,0
+New South Wales,tonnes,Oats,1961,389500
+Victoria,tonnes,Oats,1961,375000
+Queensland,tonnes,Oats,1961,5200
+South Australia,tonnes,Oats,1961,207700
+Western Australia,tonnes,Oats,1961,394800
+Tasmania,tonnes,Oats,1961,7100
+Northern Territory,tonnes,Oats,1961,0
+Australian Capital Territory,tonnes,Oats,1961,0
+New South Wales,tonnes,Wheat,1961,2304000
+Victoria,tonnes,Wheat,1961,1839400
+Queensland,tonnes,Wheat,1961,299200
+South Australia,tonnes,Wheat,1961,1262000
+Western Australia,tonnes,Wheat,1961,1738100
+Tasmania,tonnes,Wheat,1961,4000
+Northern Territory,tonnes,Wheat,1961,0
+Australian Capital Territory,tonnes,Wheat,1961,0
+New South Wales,tonnes,Potatoes,1961,86500
+Victoria,tonnes,Potatoes,1961,183700
+Queensland,tonnes,Potatoes,1961,60300
+South Australia,tonnes,Potatoes,1961,41500
+Western Australia,tonnes,Potatoes,1961,46200
+Tasmania,tonnes,Potatoes,1961,39700
+Northern Territory,tonnes,Potatoes,1961,0
+Australian Capital Territory,tonnes,Potatoes,1961,0
+New South Wales,tonnes,Barley,1962,94000
+Victoria,tonnes,Barley,1962,105600
+Queensland,tonnes,Barley,1962,80200
+South Australia,tonnes,Barley,1962,483300
+Western Australia,tonnes,Barley,1962,165300
+Tasmania,tonnes,Barley,1962,13800
+Northern Territory,tonnes,Barley,1962,0
+Australian Capital Territory,tonnes,Barley,1962,0
+New South Wales,tonnes,Maize,1962,59700
+Victoria,tonnes,Maize,1962,4900
+Queensland,tonnes,Maize,1962,129400
+South Australia,tonnes,Maize,1962,0
+Western Australia,tonnes,Maize,1962,0
+Tasmania,tonnes,Maize,1962,0
+Northern Territory,tonnes,Maize,1962,0
+Australian Capital Territory,tonnes,Maize,1962,0
+New South Wales,tonnes,Oats,1962,240000
+Victoria,tonnes,Oats,1962,296000
+Queensland,tonnes,Oats,1962,7500
+South Australia,tonnes,Oats,1962,79500
+Western Australia,tonnes,Oats,1962,365400
+Tasmania,tonnes,Oats,1962,10700
+Northern Territory,tonnes,Oats,1962,0
+Australian Capital Territory,tonnes,Oats,1962,0
+New South Wales,tonnes,Wheat,1962,2132300
+Victoria,tonnes,Wheat,1962,1548000
+Queensland,tonnes,Wheat,1962,326900
+South Australia,tonnes,Wheat,1962,920800
+Western Australia,tonnes,Wheat,1962,1787000
+Tasmania,tonnes,Wheat,1962,9300
+Northern Territory,tonnes,Wheat,1962,0
+Australian Capital Territory,tonnes,Wheat,1962,0
+New South Wales,tonnes,Potatoes,1962,84600
+Victoria,tonnes,Potatoes,1962,199200
+Queensland,tonnes,Potatoes,1962,71800
+South Australia,tonnes,Potatoes,1962,49300
+Western Australia,tonnes,Potatoes,1962,56600
+Tasmania,tonnes,Potatoes,1962,72700
+Northern Territory,tonnes,Potatoes,1962,0
+Australian Capital Territory,tonnes,Potatoes,1962,0
+New South Wales,tonnes,Barley,1963,121800
+Victoria,tonnes,Barley,1963,124000
+Queensland,tonnes,Barley,1963,92800
+South Australia,tonnes,Barley,1963,408700
+Western Australia,tonnes,Barley,1963,137500
+Tasmania,tonnes,Barley,1963,14300
+Northern Territory,tonnes,Barley,1963,0
+Australian Capital Territory,tonnes,Barley,1963,0
+New South Wales,tonnes,Maize,1963,54500
+Victoria,tonnes,Maize,1963,5500
+Queensland,tonnes,Maize,1963,112500
+South Australia,tonnes,Maize,1963,0
+Western Australia,tonnes,Maize,1963,0
+Tasmania,tonnes,Maize,1963,0
+Northern Territory,tonnes,Maize,1963,0
+Australian Capital Territory,tonnes,Maize,1963,0
+New South Wales,tonnes,Oats,1963,290900
+Victoria,tonnes,Oats,1963,490600
+Queensland,tonnes,Oats,1963,9900
+South Australia,tonnes,Oats,1963,104400
+Western Australia,tonnes,Oats,1963,336100
+Tasmania,tonnes,Oats,1963,15000
+Northern Territory,tonnes,Oats,1963,0
+Australian Capital Territory,tonnes,Oats,1963,0
+New South Wales,tonnes,Wheat,1963,2966600
+Victoria,tonnes,Wheat,1963,1847900
+Queensland,tonnes,Wheat,1963,508200
+South Australia,tonnes,Wheat,1963,1042800
+Western Australia,tonnes,Wheat,1963,1972000
+Tasmania,tonnes,Wheat,1963,11300
+Northern Territory,tonnes,Wheat,1963,0
+Australian Capital Territory,tonnes,Wheat,1963,0
+New South Wales,tonnes,Potatoes,1963,135100
+Victoria,tonnes,Potatoes,1963,258600
+Queensland,tonnes,Potatoes,1963,87600
+South Australia,tonnes,Potatoes,1963,54100
+Western Australia,tonnes,Potatoes,1963,57800
+Tasmania,tonnes,Potatoes,1963,83900
+Northern Territory,tonnes,Potatoes,1963,0
+Australian Capital Territory,tonnes,Potatoes,1963,0
+New South Wales,tonnes,Barley,1964,121600
+Victoria,tonnes,Barley,1964,21300
+Queensland,tonnes,Barley,1964,117800
+South Australia,tonnes,Barley,1964,552400
+Western Australia,tonnes,Barley,1964,92500
+Tasmania,tonnes,Barley,1964,9400
+Northern Territory,tonnes,Barley,1964,0
+Australian Capital Territory,tonnes,Barley,1964,0
+New South Wales,tonnes,Maize,1964,53100
+Victoria,tonnes,Maize,1964,5200
+Queensland,tonnes,Maize,1964,124100
+South Australia,tonnes,Maize,1964,0
+Western Australia,tonnes,Maize,1964,0
+Tasmania,tonnes,Maize,1964,0
+Northern Territory,tonnes,Maize,1964,0
+Australian Capital Territory,tonnes,Maize,1964,0
+New South Wales,tonnes,Oats,1964,359500
+Victoria,tonnes,Oats,1964,360800
+Queensland,tonnes,Oats,1964,12200
+South Australia,tonnes,Oats,1964,165600
+Western Australia,tonnes,Oats,1964,323100
+Tasmania,tonnes,Oats,1964,15300
+Northern Territory,tonnes,Oats,1964,0
+Australian Capital Territory,tonnes,Oats,1964,0
+New South Wales,tonnes,Wheat,1964,3333200
+Victoria,tonnes,Wheat,1964,2076600
+Queensland,tonnes,Wheat,1964,605900
+South Australia,tonnes,Wheat,1964,1468000
+Western Australia,tonnes,Wheat,1964,1423600
+Tasmania,tonnes,Wheat,1964,13000
+Northern Territory,tonnes,Wheat,1964,0
+Australian Capital Territory,tonnes,Wheat,1964,0
+New South Wales,tonnes,Potatoes,1964,99900
+Victoria,tonnes,Potatoes,1964,203600
+Queensland,tonnes,Potatoes,1964,91600
+South Australia,tonnes,Potatoes,1964,52000
+Western Australia,tonnes,Potatoes,1964,56300
+Tasmania,tonnes,Potatoes,1964,66500
+Northern Territory,tonnes,Potatoes,1964,0
+Australian Capital Territory,tonnes,Potatoes,1964,0
+New South Wales,tonnes,Barley,1965,152400
+Victoria,tonnes,Barley,1965,98300
+Queensland,tonnes,Barley,1965,161400
+South Australia,tonnes,Barley,1965,611400
+Western Australia,tonnes,Barley,1965,84000
+Tasmania,tonnes,Barley,1965,12000
+Northern Territory,tonnes,Barley,1965,0
+Australian Capital Territory,tonnes,Barley,1965,0
+New South Wales,tonnes,Maize,1965,47700
+Victoria,tonnes,Maize,1965,2900
+Queensland,tonnes,Maize,1965,81500
+South Australia,tonnes,Maize,1965,0
+Western Australia,tonnes,Maize,1965,0
+Tasmania,tonnes,Maize,1965,0
+Northern Territory,tonnes,Maize,1965,0
+Australian Capital Territory,tonnes,Maize,1965,0
+New South Wales,tonnes,Oats,1965,415200
+Victoria,tonnes,Oats,1965,407300
+Queensland,tonnes,Oats,1965,21200
+South Australia,tonnes,Oats,1965,162500
+Western Australia,tonnes,Oats,1965,253600
+Tasmania,tonnes,Oats,1965,9500
+Northern Territory,tonnes,Oats,1965,0
+Australian Capital Territory,tonnes,Oats,1965,0
+New South Wales,tonnes,Wheat,1965,4122700
+Victoria,tonnes,Wheat,1965,2127300
+Queensland,tonnes,Wheat,1965,621000
+South Australia,tonnes,Wheat,1965,1436600
+Western Australia,tonnes,Wheat,1965,1715500
+Tasmania,tonnes,Wheat,1965,9800
+Northern Territory,tonnes,Wheat,1965,0
+Australian Capital Territory,tonnes,Wheat,1965,0
+New South Wales,tonnes,Potatoes,1965,76900
+Victoria,tonnes,Potatoes,1965,186600
+Queensland,tonnes,Potatoes,1965,83700
+South Australia,tonnes,Potatoes,1965,49200
+Western Australia,tonnes,Potatoes,1965,61700
+Tasmania,tonnes,Potatoes,1965,58000
+Northern Territory,tonnes,Potatoes,1965,0
+Australian Capital Territory,tonnes,Potatoes,1965,0
+New South Wales,tonnes,Barley,1966,86400
+Victoria,tonnes,Barley,1966,73000
+Queensland,tonnes,Barley,1966,207400
+South Australia,tonnes,Barley,1966,420300
+Western Australia,tonnes,Barley,1966,147100
+Tasmania,tonnes,Barley,1966,15500
+Northern Territory,tonnes,Barley,1966,0
+Australian Capital Territory,tonnes,Barley,1966,0
+New South Wales,tonnes,Maize,1966,40800
+Victoria,tonnes,Maize,1966,2600
+Queensland,tonnes,Maize,1966,125700
+South Australia,tonnes,Maize,1966,0
+Western Australia,tonnes,Maize,1966,0
+Tasmania,tonnes,Maize,1966,0
+Northern Territory,tonnes,Maize,1966,0
+Australian Capital Territory,tonnes,Maize,1966,0
+New South Wales,tonnes,Oats,1966,228700
+Victoria,tonnes,Oats,1966,322700
+Queensland,tonnes,Oats,1966,13300
+South Australia,tonnes,Oats,1966,101800
+Western Australia,tonnes,Oats,1966,421300
+Tasmania,tonnes,Oats,1966,12300
+Northern Territory,tonnes,Oats,1966,0
+Australian Capital Territory,tonnes,Oats,1966,0
+New South Wales,tonnes,Wheat,1966,1064600
+Victoria,tonnes,Wheat,1966,1649000
+Queensland,tonnes,Wheat,1966,474100
+South Australia,tonnes,Wheat,1966,1087400
+Western Australia,tonnes,Wheat,1966,2778600
+Tasmania,tonnes,Wheat,1966,10000
+Northern Territory,tonnes,Wheat,1966,0
+Australian Capital Territory,tonnes,Wheat,1966,0
+New South Wales,tonnes,Potatoes,1966,106300
+Victoria,tonnes,Potatoes,1966,244700
+Queensland,tonnes,Potatoes,1966,99300
+South Australia,tonnes,Potatoes,1966,57400
+Western Australia,tonnes,Potatoes,1966,63900
+Tasmania,tonnes,Potatoes,1966,77600
+Northern Territory,tonnes,Potatoes,1966,0
+Australian Capital Territory,tonnes,Potatoes,1966,0
+New South Wales,tonnes,Barley,1967,268100
+Victoria,tonnes,Barley,1967,122900
+Queensland,tonnes,Barley,1967,299500
+South Australia,tonnes,Barley,1967,537900
+Western Australia,tonnes,Barley,1967,152300
+Tasmania,tonnes,Barley,1967,17500
+Northern Territory,tonnes,Barley,1967,0
+Australian Capital Territory,tonnes,Barley,1967,0
+New South Wales,tonnes,Maize,1967,62800
+Victoria,tonnes,Maize,1967,1800
+Queensland,tonnes,Maize,1967,121400
+South Australia,tonnes,Maize,1967,0
+Western Australia,tonnes,Maize,1967,0
+Tasmania,tonnes,Maize,1967,0
+Northern Territory,tonnes,Maize,1967,0
+Australian Capital Territory,tonnes,Maize,1967,0
+New South Wales,tonnes,Oats,1967,743900
+Victoria,tonnes,Oats,1967,567000
+Queensland,tonnes,Oats,1967,26500
+South Australia,tonnes,Oats,1967,186000
+Western Australia,tonnes,Oats,1967,400300
+Tasmania,tonnes,Oats,1967,17200
+Northern Territory,tonnes,Oats,1967,0
+Australian Capital Territory,tonnes,Oats,1967,0
+New South Wales,tonnes,Wheat,1967,5511200
+Victoria,tonnes,Wheat,1967,1929500
+Queensland,tonnes,Wheat,1967,971900
+South Australia,tonnes,Wheat,1967,1463800
+Western Australia,tonnes,Wheat,1967,2806900
+Tasmania,tonnes,Wheat,1967,10400
+Northern Territory,tonnes,Wheat,1967,0
+Australian Capital Territory,tonnes,Wheat,1967,0
+New South Wales,tonnes,Potatoes,1967,128200
+Victoria,tonnes,Potatoes,1967,228800
+Queensland,tonnes,Potatoes,1967,95200
+South Australia,tonnes,Potatoes,1967,61200
+Western Australia,tonnes,Potatoes,1967,65200
+Tasmania,tonnes,Potatoes,1967,74500
+Northern Territory,tonnes,Potatoes,1967,0
+Australian Capital Territory,tonnes,Potatoes,1967,0
+New South Wales,tonnes,Barley,1968,109900
+Victoria,tonnes,Barley,1968,61400
+Queensland,tonnes,Barley,1968,203500
+South Australia,tonnes,Barley,1968,281000
+Western Australia,tonnes,Barley,1968,159500
+Tasmania,tonnes,Barley,1968,20100
+Northern Territory,tonnes,Barley,1968,0
+Australian Capital Territory,tonnes,Barley,1968,0
+New South Wales,tonnes,Maize,1968,58900
+Victoria,tonnes,Maize,1968,800
+Queensland,tonnes,Maize,1968,93200
+South Australia,tonnes,Maize,1968,0
+Western Australia,tonnes,Maize,1968,0
+Tasmania,tonnes,Maize,1968,0
+Northern Territory,tonnes,Maize,1968,0
+Australian Capital Territory,tonnes,Maize,1968,0
+New South Wales,tonnes,Oats,1968,149400
+Victoria,tonnes,Oats,1968,124500
+Queensland,tonnes,Oats,1968,8100
+South Australia,tonnes,Oats,1968,59700
+Western Australia,tonnes,Oats,1968,357600
+Tasmania,tonnes,Oats,1968,18400
+Northern Territory,tonnes,Oats,1968,0
+Australian Capital Territory,tonnes,Oats,1968,0
+New South Wales,tonnes,Wheat,1968,2376500
+Victoria,tonnes,Wheat,1968,770700
+Queensland,tonnes,Wheat,1968,745700
+South Australia,tonnes,Wheat,1968,731700
+Western Australia,tonnes,Wheat,1968,2909700
+Tasmania,tonnes,Wheat,1968,8500
+Northern Territory,tonnes,Wheat,1968,0
+Australian Capital Territory,tonnes,Wheat,1968,0
+New South Wales,tonnes,Potatoes,1968,124800
+Victoria,tonnes,Potatoes,1968,219400
+Queensland,tonnes,Potatoes,1968,108100
+South Australia,tonnes,Potatoes,1968,64300
+Western Australia,tonnes,Potatoes,1968,71600
+Tasmania,tonnes,Potatoes,1968,80300
+Northern Territory,tonnes,Potatoes,1968,0
+Australian Capital Territory,tonnes,Potatoes,1968,0
+New South Wales,tonnes,Barley,1969,254800
+Victoria,tonnes,Barley,1969,201500
+Queensland,tonnes,Barley,1969,292100
+South Australia,tonnes,Barley,1969,670800
+Western Australia,tonnes,Barley,1969,208500
+Tasmania,tonnes,Barley,1969,20100
+Northern Territory,tonnes,Barley,1969,0
+Australian Capital Territory,tonnes,Barley,1969,0
+New South Wales,tonnes,Maize,1969,78300
+Victoria,tonnes,Maize,1969,1800
+Queensland,tonnes,Maize,1969,68900
+South Australia,tonnes,Maize,1969,0
+Western Australia,tonnes,Maize,1969,0
+Tasmania,tonnes,Maize,1969,0
+Northern Territory,tonnes,Maize,1969,0
+Australian Capital Territory,tonnes,Maize,1969,0
+New South Wales,tonnes,Oats,1969,498100
+Victoria,tonnes,Oats,1969,548500
+Queensland,tonnes,Oats,1969,20300
+South Australia,tonnes,Oats,1969,215300
+Western Australia,tonnes,Oats,1969,416300
+Tasmania,tonnes,Oats,1969,10600
+Northern Territory,tonnes,Oats,1969,0
+Australian Capital Territory,tonnes,Oats,1969,0
+New South Wales,tonnes,Wheat,1969,5854600
+Victoria,tonnes,Wheat,1969,2469200
+Queensland,tonnes,Wheat,1969,1142400
+South Australia,tonnes,Wheat,1969,2262000
+Western Australia,tonnes,Wheat,1969,3058600
+Tasmania,tonnes,Wheat,1969,11100
+Northern Territory,tonnes,Wheat,1969,0
+Australian Capital Territory,tonnes,Wheat,1969,0
+New South Wales,tonnes,Potatoes,1969,163400
+Victoria,tonnes,Potatoes,1969,304800
+Queensland,tonnes,Potatoes,1969,125000
+South Australia,tonnes,Potatoes,1969,69100
+Western Australia,tonnes,Potatoes,1969,75600
+Tasmania,tonnes,Potatoes,1969,73300
+Northern Territory,tonnes,Potatoes,1969,0
+Australian Capital Territory,tonnes,Potatoes,1969,0
+New South Wales,tonnes,Barley,1970,280300
+Victoria,tonnes,Barley,1970,257900
+Queensland,tonnes,Barley,1970,172200
+South Australia,tonnes,Barley,1970,690700
+Western Australia,tonnes,Barley,1970,273500
+Tasmania,tonnes,Barley,1970,24900
+Northern Territory,tonnes,Barley,1970,0
+Australian Capital Territory,tonnes,Barley,1970,0
+New South Wales,tonnes,Maize,1970,101700
+Victoria,tonnes,Maize,1970,1800
+Queensland,tonnes,Maize,1970,87900
+South Australia,tonnes,Maize,1970,0
+Western Australia,tonnes,Maize,1970,0
+Tasmania,tonnes,Maize,1970,0
+Northern Territory,tonnes,Maize,1970,0
+Australian Capital Territory,tonnes,Maize,1970,0
+New South Wales,tonnes,Oats,1970,349000
+Victoria,tonnes,Oats,1970,470400
+Queensland,tonnes,Oats,1970,17200
+South Australia,tonnes,Oats,1970,120900
+Western Australia,tonnes,Oats,1970,280600
+Tasmania,tonnes,Oats,1970,8300
+Northern Territory,tonnes,Oats,1970,0
+Australian Capital Territory,tonnes,Oats,1970,0
+New South Wales,tonnes,Wheat,1970,4430300
+Victoria,tonnes,Wheat,1970,2273700
+Queensland,tonnes,Wheat,1970,405200
+South Australia,tonnes,Wheat,1970,1609100
+Western Australia,tonnes,Wheat,1970,1814200
+Tasmania,tonnes,Wheat,1970,9500
+Northern Territory,tonnes,Wheat,1970,0
+Australian Capital Territory,tonnes,Wheat,1970,0
+New South Wales,tonnes,Potatoes,1970,144300
+Victoria,tonnes,Potatoes,1970,284000
+Queensland,tonnes,Potatoes,1970,117300
+South Australia,tonnes,Potatoes,1970,79900
+Western Australia,tonnes,Potatoes,1970,68200
+Tasmania,tonnes,Potatoes,1970,68000
+Northern Territory,tonnes,Potatoes,1970,0
+Australian Capital Territory,tonnes,Potatoes,1970,0
+New South Wales,tonnes,Barley,1971,430400
+Victoria,tonnes,Barley,1971,318400
+Queensland,tonnes,Barley,1971,61300
+South Australia,tonnes,Barley,1971,742500
+Western Australia,tonnes,Barley,1971,769300
+Tasmania,tonnes,Barley,1971,29800
+Northern Territory,tonnes,Barley,1971,0
+Australian Capital Territory,tonnes,Barley,1971,0
+New South Wales,tonnes,Maize,1971,106500
+Victoria,tonnes,Maize,1971,1600
+Queensland,tonnes,Maize,1971,103500
+South Australia,tonnes,Maize,1971,0
+Western Australia,tonnes,Maize,1971,0
+Tasmania,tonnes,Maize,1971,0
+Northern Territory,tonnes,Maize,1971,0
+Australian Capital Territory,tonnes,Maize,1971,0
+New South Wales,tonnes,Oats,1971,456000
+Victoria,tonnes,Oats,1971,466600
+Queensland,tonnes,Oats,1971,8400
+South Australia,tonnes,Oats,1971,152600
+Western Australia,tonnes,Oats,1971,519900
+Tasmania,tonnes,Oats,1971,8800
+Northern Territory,tonnes,Oats,1971,0
+Australian Capital Territory,tonnes,Oats,1971,0
+New South Wales,tonnes,Wheat,1971,3010200
+Victoria,tonnes,Wheat,1971,1004300
+Queensland,tonnes,Wheat,1971,119700
+South Australia,tonnes,Wheat,1971,789600
+Western Australia,tonnes,Wheat,1971,2957000
+Tasmania,tonnes,Wheat,1971,7600
+Northern Territory,tonnes,Wheat,1971,0
+Australian Capital Territory,tonnes,Wheat,1971,0
+New South Wales,tonnes,Potatoes,1971,145700
+Victoria,tonnes,Potatoes,1971,303900
+Queensland,tonnes,Potatoes,1971,110400
+South Australia,tonnes,Potatoes,1971,72600
+Western Australia,tonnes,Potatoes,1971,69200
+Tasmania,tonnes,Potatoes,1971,72600
+Northern Territory,tonnes,Potatoes,1971,0
+Australian Capital Territory,tonnes,Potatoes,1971,0
+New South Wales,tonnes,Barley,1972,347000
+Victoria,tonnes,Barley,1972,390900
+Queensland,tonnes,Barley,1972,248700
+South Australia,tonnes,Barley,1972,1046800
+Western Australia,tonnes,Barley,1972,1000400
+Tasmania,tonnes,Barley,1972,27800
+Northern Territory,tonnes,Barley,1972,0
+Australian Capital Territory,tonnes,Barley,1972,0
+New South Wales,tonnes,Maize,1972,114400
+Victoria,tonnes,Maize,1972,1900
+Queensland,tonnes,Maize,1972,97500
+South Australia,tonnes,Maize,1972,0
+Western Australia,tonnes,Maize,1972,0
+Tasmania,tonnes,Maize,1972,0
+Northern Territory,tonnes,Maize,1972,0
+Australian Capital Territory,tonnes,Maize,1972,0
+New South Wales,tonnes,Oats,1972,221200
+Victoria,tonnes,Oats,1972,449400
+Queensland,tonnes,Oats,1972,17600
+South Australia,tonnes,Oats,1972,165800
+Western Australia,tonnes,Oats,1972,413900
+Tasmania,tonnes,Oats,1972,7100
+Northern Territory,tonnes,Oats,1972,0
+Australian Capital Territory,tonnes,Oats,1972,0
+New South Wales,tonnes,Wheat,1972,2409800
+Victoria,tonnes,Wheat,1972,1797300
+Queensland,tonnes,Wheat,1972,721800
+South Australia,tonnes,Wheat,1972,1406100
+Western Australia,tonnes,Wheat,1972,2165100
+Tasmania,tonnes,Wheat,1972,8300
+Northern Territory,tonnes,Wheat,1972,0
+Australian Capital Territory,tonnes,Wheat,1972,0
+New South Wales,tonnes,Potatoes,1972,171800
+Victoria,tonnes,Potatoes,1972,306700
+Queensland,tonnes,Potatoes,1972,132600
+South Australia,tonnes,Potatoes,1972,71700
+Western Australia,tonnes,Potatoes,1972,68400
+Tasmania,tonnes,Potatoes,1972,70400
+Northern Territory,tonnes,Potatoes,1972,0
+Australian Capital Territory,tonnes,Potatoes,1972,0
+New South Wales,tonnes,Barley,1973,265900
+Victoria,tonnes,Barley,1973,213600
+Queensland,tonnes,Barley,1973,79900
+South Australia,tonnes,Barley,1973,508700
+Western Australia,tonnes,Barley,1973,640400
+Tasmania,tonnes,Barley,1973,18700
+Northern Territory,tonnes,Barley,1973,0
+Australian Capital Territory,tonnes,Barley,1973,0
+New South Wales,tonnes,Maize,1973,67300
+Victoria,tonnes,Maize,1973,1500
+Queensland,tonnes,Maize,1973,70000
+South Australia,tonnes,Maize,1973,0
+Western Australia,tonnes,Maize,1973,0
+Tasmania,tonnes,Maize,1973,0
+Northern Territory,tonnes,Maize,1973,0
+Australian Capital Territory,tonnes,Maize,1973,0
+New South Wales,tonnes,Oats,1973,196500
+Victoria,tonnes,Oats,1973,238200
+Queensland,tonnes,Oats,1973,8200
+South Australia,tonnes,Oats,1973,74300
+Western Australia,tonnes,Oats,1973,212000
+Tasmania,tonnes,Oats,1973,7100
+Northern Territory,tonnes,Oats,1973,0
+Australian Capital Territory,tonnes,Oats,1973,0
+New South Wales,tonnes,Wheat,1973,1954100
+Victoria,tonnes,Wheat,1973,1249300
+Queensland,tonnes,Wheat,1973,404900
+South Australia,tonnes,Wheat,1973,815000
+Western Australia,tonnes,Wheat,1973,2003000
+Tasmania,tonnes,Wheat,1973,7700
+Northern Territory,tonnes,Wheat,1973,0
+Australian Capital Territory,tonnes,Wheat,1973,0
+New South Wales,tonnes,Potatoes,1973,130300
+Victoria,tonnes,Potatoes,1973,287000
+Queensland,tonnes,Potatoes,1973,92200
+South Australia,tonnes,Potatoes,1973,69500
+Western Australia,tonnes,Potatoes,1973,63300
+Tasmania,tonnes,Potatoes,1973,78300
+Northern Territory,tonnes,Potatoes,1973,0
+Australian Capital Territory,tonnes,Potatoes,1973,0
+New South Wales,tonnes,Barley,1974,448100
+Victoria,tonnes,Barley,1974,285400
+Queensland,tonnes,Barley,1974,221100
+South Australia,tonnes,Barley,1974,793000
+Western Australia,tonnes,Barley,1974,626200
+Tasmania,tonnes,Barley,1974,23800
+Northern Territory,tonnes,Barley,1974,0
+Australian Capital Territory,tonnes,Barley,1974,0
+New South Wales,tonnes,Maize,1974,47900
+Victoria,tonnes,Maize,1974,1900
+Queensland,tonnes,Maize,1974,56000
+South Australia,tonnes,Maize,1974,0
+Western Australia,tonnes,Maize,1974,0
+Tasmania,tonnes,Maize,1974,0
+Northern Territory,tonnes,Maize,1974,0
+Australian Capital Territory,tonnes,Maize,1974,0
+New South Wales,tonnes,Oats,1974,327600
+Victoria,tonnes,Oats,1974,232700
+Queensland,tonnes,Oats,1974,13300
+South Australia,tonnes,Oats,1974,142300
+Western Australia,tonnes,Oats,1974,383100
+Tasmania,tonnes,Oats,1974,8200
+Northern Territory,tonnes,Oats,1974,0
+Australian Capital Territory,tonnes,Oats,1974,0
+New South Wales,tonnes,Wheat,1974,3961500
+Victoria,tonnes,Wheat,1974,1405400
+Queensland,tonnes,Wheat,1974,525900
+South Australia,tonnes,Wheat,1974,1795000
+Western Australia,tonnes,Wheat,1974,4210800
+Tasmania,tonnes,Wheat,1974,3500
+Northern Territory,tonnes,Wheat,1974,0
+Australian Capital Territory,tonnes,Wheat,1974,0
+New South Wales,tonnes,Potatoes,1974,124600
+Victoria,tonnes,Potatoes,1974,254000
+Queensland,tonnes,Potatoes,1974,86500
+South Australia,tonnes,Potatoes,1974,60500
+Western Australia,tonnes,Potatoes,1974,60600
+Tasmania,tonnes,Potatoes,1974,62900
+Northern Territory,tonnes,Potatoes,1974,0
+Australian Capital Territory,tonnes,Potatoes,1974,0
+New South Wales,tonnes,Barley,1975,407600
+Victoria,tonnes,Barley,1975,319400
+Queensland,tonnes,Barley,1975,297300
+South Australia,tonnes,Barley,1975,1134500
+Western Australia,tonnes,Barley,1975,329100
+Tasmania,tonnes,Barley,1975,27300
+Northern Territory,tonnes,Barley,1975,0
+Australian Capital Territory,tonnes,Barley,1975,0
+New South Wales,tonnes,Maize,1975,59600
+Victoria,tonnes,Maize,1975,1900
+Queensland,tonnes,Maize,1975,71800
+South Australia,tonnes,Maize,1975,0
+Western Australia,tonnes,Maize,1975,0
+Tasmania,tonnes,Maize,1975,0
+Northern Territory,tonnes,Maize,1975,0
+Australian Capital Territory,tonnes,Maize,1975,0
+New South Wales,tonnes,Oats,1975,293100
+Victoria,tonnes,Oats,1975,186000
+Queensland,tonnes,Oats,1975,28500
+South Australia,tonnes,Oats,1975,111700
+Western Australia,tonnes,Oats,1975,249500
+Tasmania,tonnes,Oats,1975,5500
+Northern Territory,tonnes,Oats,1975,0
+Australian Capital Territory,tonnes,Oats,1975,0
+New South Wales,tonnes,Wheat,1975,3808700
+Victoria,tonnes,Wheat,1975,2091300
+Queensland,tonnes,Wheat,1975,692100
+South Australia,tonnes,Wheat,1975,1485600
+Western Australia,tonnes,Wheat,1975,3277100
+Tasmania,tonnes,Wheat,1975,2300
+Northern Territory,tonnes,Wheat,1975,0
+Australian Capital Territory,tonnes,Wheat,1975,0
+New South Wales,tonnes,Potatoes,1975,117900
+Victoria,tonnes,Potatoes,1975,282500
+Queensland,tonnes,Potatoes,1975,107600
+South Australia,tonnes,Potatoes,1975,70800
+Western Australia,tonnes,Potatoes,1975,67500
+Tasmania,tonnes,Potatoes,1975,95600
+Northern Territory,tonnes,Potatoes,1975,0
+Australian Capital Territory,tonnes,Potatoes,1975,0
+New South Wales,tonnes,Barley,1976,697400
+Victoria,tonnes,Barley,1976,444600
+Queensland,tonnes,Barley,1976,419100
+South Australia,tonnes,Barley,1976,1094400
+Western Australia,tonnes,Barley,1976,505000
+Tasmania,tonnes,Barley,1976,18400
+Northern Territory,tonnes,Barley,1976,0
+Australian Capital Territory,tonnes,Barley,1976,0
+New South Wales,tonnes,Maize,1976,50600
+Victoria,tonnes,Maize,1976,2500
+Queensland,tonnes,Maize,1976,78300
+South Australia,tonnes,Maize,1976,0
+Western Australia,tonnes,Maize,1976,0
+Tasmania,tonnes,Maize,1976,0
+Northern Territory,tonnes,Maize,1976,0
+Australian Capital Territory,tonnes,Maize,1976,0
+New South Wales,tonnes,Oats,1976,349900
+Victoria,tonnes,Oats,1976,337200
+Queensland,tonnes,Oats,1976,13000
+South Australia,tonnes,Oats,1976,107300
+Western Australia,tonnes,Oats,1976,385700
+Tasmania,tonnes,Oats,1976,3500
+Northern Territory,tonnes,Oats,1976,0
+Australian Capital Territory,tonnes,Oats,1976,0
+New South Wales,tonnes,Wheat,1976,4310500
+Victoria,tonnes,Wheat,1976,1578500
+Queensland,tonnes,Wheat,1976,830000
+South Australia,tonnes,Wheat,1976,1139000
+Western Australia,tonnes,Wheat,1976,4122000
+Tasmania,tonnes,Wheat,1976,1700
+Northern Territory,tonnes,Wheat,1976,0
+Australian Capital Territory,tonnes,Wheat,1976,0
+New South Wales,tonnes,Potatoes,1976,117900
+Victoria,tonnes,Potatoes,1976,244500
+Queensland,tonnes,Potatoes,1976,99800
+South Australia,tonnes,Potatoes,1976,70700
+Western Australia,tonnes,Potatoes,1976,68000
+Tasmania,tonnes,Potatoes,1976,95600
+Northern Territory,tonnes,Potatoes,1976,0
+Australian Capital Territory,tonnes,Potatoes,1976,0
+New South Wales,tonnes,Barley,1977,571300
+Victoria,tonnes,Barley,1977,401800
+Queensland,tonnes,Barley,1977,407000
+South Australia,tonnes,Barley,1977,889100
+Western Australia,tonnes,Barley,1977,553100
+Tasmania,tonnes,Barley,1977,24600
+Northern Territory,tonnes,Barley,1977,0
+Australian Capital Territory,tonnes,Barley,1977,0
+New South Wales,tonnes,Maize,1977,65400
+Victoria,tonnes,Maize,1977,1700
+Queensland,tonnes,Maize,1977,77000
+South Australia,tonnes,Maize,1977,0
+Western Australia,tonnes,Maize,1977,0
+Tasmania,tonnes,Maize,1977,0
+Northern Territory,tonnes,Maize,1977,0
+Australian Capital Territory,tonnes,Maize,1977,0
+New South Wales,tonnes,Oats,1977,307100
+Victoria,tonnes,Oats,1977,309000
+Queensland,tonnes,Oats,1977,9100
+South Australia,tonnes,Oats,1977,90300
+Western Australia,tonnes,Oats,1977,347400
+Tasmania,tonnes,Oats,1977,8800
+Northern Territory,tonnes,Oats,1977,0
+Australian Capital Territory,tonnes,Oats,1977,0
+New South Wales,tonnes,Wheat,1977,5141000
+Victoria,tonnes,Wheat,1977,1779600
+Queensland,tonnes,Wheat,1977,794500
+South Australia,tonnes,Wheat,1977,831900
+Western Australia,tonnes,Wheat,1977,3248800
+Tasmania,tonnes,Wheat,1977,3900
+Northern Territory,tonnes,Wheat,1977,0
+Australian Capital Territory,tonnes,Wheat,1977,0
+New South Wales,tonnes,Potatoes,1977,111900
+Victoria,tonnes,Potatoes,1977,243600
+Queensland,tonnes,Potatoes,1977,106300
+South Australia,tonnes,Potatoes,1977,83400
+Western Australia,tonnes,Potatoes,1977,70900
+Tasmania,tonnes,Potatoes,1977,112300
+Northern Territory,tonnes,Potatoes,1977,0
+Australian Capital Territory,tonnes,Potatoes,1977,0
+New South Wales,tonnes,Barley,1978,446000
+Victoria,tonnes,Barley,1978,358600
+Queensland,tonnes,Barley,1978,216300
+South Australia,tonnes,Barley,1978,591800
+Western Australia,tonnes,Barley,1978,751300
+Tasmania,tonnes,Barley,1978,19400
+Northern Territory,tonnes,Barley,1978,0
+Australian Capital Territory,tonnes,Barley,1978,0
+New South Wales,tonnes,Maize,1978,48400
+Victoria,tonnes,Maize,1978,1800
+Queensland,tonnes,Maize,1978,79600
+South Australia,tonnes,Maize,1978,0
+Western Australia,tonnes,Maize,1978,0
+Tasmania,tonnes,Maize,1978,0
+Northern Territory,tonnes,Maize,1978,0
+Australian Capital Territory,tonnes,Maize,1978,0
+New South Wales,tonnes,Oats,1978,241800
+Victoria,tonnes,Oats,1978,268500
+Queensland,tonnes,Oats,1978,4800
+South Australia,tonnes,Oats,1978,55400
+Western Australia,tonnes,Oats,1978,415600
+Tasmania,tonnes,Oats,1978,4300
+Northern Territory,tonnes,Oats,1978,0
+Australian Capital Territory,tonnes,Oats,1978,0
+New South Wales,tonnes,Wheat,1978,3846200
+Victoria,tonnes,Wheat,1978,1496700
+Queensland,tonnes,Wheat,1978,569200
+South Australia,tonnes,Wheat,1978,510800
+Western Australia,tonnes,Wheat,1978,2945500
+Tasmania,tonnes,Wheat,1978,1500
+Northern Territory,tonnes,Wheat,1978,0
+Australian Capital Territory,tonnes,Wheat,1978,0
+New South Wales,tonnes,Potatoes,1978,114800
+Victoria,tonnes,Potatoes,1978,303400
+Queensland,tonnes,Potatoes,1978,103700
+South Australia,tonnes,Potatoes,1978,90300
+Western Australia,tonnes,Potatoes,1978,53300
+Tasmania,tonnes,Potatoes,1978,107200
+Northern Territory,tonnes,Potatoes,1978,0
+Australian Capital Territory,tonnes,Potatoes,1978,0
+New South Wales,tonnes,Barley,1979,675900
+Victoria,tonnes,Barley,1979,519100
+Queensland,tonnes,Barley,1979,583300
+South Australia,tonnes,Barley,1979,1422700
+Western Australia,tonnes,Barley,1979,778400
+Tasmania,tonnes,Barley,1979,27000
+Northern Territory,tonnes,Barley,1979,0
+Australian Capital Territory,tonnes,Barley,1979,0
+New South Wales,tonnes,Maize,1979,55400
+Victoria,tonnes,Maize,1979,2000
+Queensland,tonnes,Maize,1979,111100
+South Australia,tonnes,Maize,1979,0
+Western Australia,tonnes,Maize,1979,0
+Tasmania,tonnes,Maize,1979,0
+Northern Territory,tonnes,Maize,1979,0
+Australian Capital Territory,tonnes,Maize,1979,0
+New South Wales,tonnes,Oats,1979,594300
+Victoria,tonnes,Oats,1979,446200
+Queensland,tonnes,Oats,1979,43200
+South Australia,tonnes,Oats,1979,176800
+Western Australia,tonnes,Oats,1979,490900
+Tasmania,tonnes,Oats,1979,11800
+Northern Territory,tonnes,Oats,1979,0
+Australian Capital Territory,tonnes,Oats,1979,0
+New South Wales,tonnes,Wheat,1979,6640400
+Victoria,tonnes,Wheat,1979,2998500
+Queensland,tonnes,Wheat,1979,1962200
+South Australia,tonnes,Wheat,1979,2085700
+Western Australia,tonnes,Wheat,1979,4399500
+Tasmania,tonnes,Wheat,1979,2900
+Northern Territory,tonnes,Wheat,1979,0
+Australian Capital Territory,tonnes,Wheat,1979,0
+New South Wales,tonnes,Potatoes,1979,124200
+Victoria,tonnes,Potatoes,1979,279600
+Queensland,tonnes,Potatoes,1979,114500
+South Australia,tonnes,Potatoes,1979,89400
+Western Australia,tonnes,Potatoes,1979,62600
+Tasmania,tonnes,Potatoes,1979,124400
+Northern Territory,tonnes,Potatoes,1979,0
+Australian Capital Territory,tonnes,Potatoes,1979,0
+New South Wales,tonnes,Barley,1980,686300
+Victoria,tonnes,Barley,1980,494100
+Queensland,tonnes,Barley,1980,346500
+South Australia,tonnes,Barley,1980,1527500
+Western Australia,tonnes,Barley,1980,631600
+Tasmania,tonnes,Barley,1980,17300
+Northern Territory,tonnes,Barley,1980,0
+Australian Capital Territory,tonnes,Barley,1980,0
+New South Wales,tonnes,Maize,1980,49900
+Victoria,tonnes,Maize,1980,2900
+Queensland,tonnes,Maize,1980,97900
+South Australia,tonnes,Maize,1980,0
+Western Australia,tonnes,Maize,1980,0
+Tasmania,tonnes,Maize,1980,0
+Northern Territory,tonnes,Maize,1980,0
+Australian Capital Territory,tonnes,Maize,1980,0
+New South Wales,tonnes,Oats,1980,460700
+Victoria,tonnes,Oats,1980,390300
+Queensland,tonnes,Oats,1980,8700
+South Australia,tonnes,Oats,1980,144100
+Western Australia,tonnes,Oats,1980,399300
+Tasmania,tonnes,Oats,1980,7900
+Northern Territory,tonnes,Oats,1980,0
+Australian Capital Territory,tonnes,Oats,1980,0
+New South Wales,tonnes,Wheat,1980,6000000
+Victoria,tonnes,Wheat,1980,3249600
+Queensland,tonnes,Wheat,1980,846000
+South Australia,tonnes,Wheat,1980,2349600
+Western Australia,tonnes,Wheat,1980,3739100
+Tasmania,tonnes,Wheat,1980,3700
+Northern Territory,tonnes,Wheat,1980,0
+Australian Capital Territory,tonnes,Wheat,1980,0
+New South Wales,tonnes,Potatoes,1980,102400
+Victoria,tonnes,Potatoes,1980,333600
+Queensland,tonnes,Potatoes,1980,127400
+South Australia,tonnes,Potatoes,1980,91500
+Western Australia,tonnes,Potatoes,1980,66200
+Tasmania,tonnes,Potatoes,1980,136200
+Northern Territory,tonnes,Potatoes,1980,0
+Australian Capital Territory,tonnes,Potatoes,1980,0
+New South Wales,tonnes,Barley,1981,413300
+Victoria,tonnes,Barley,1981,418000
+Queensland,tonnes,Barley,1981,170300
+South Australia,tonnes,Barley,1981,1158100
+Western Australia,tonnes,Barley,1981,504000
+Tasmania,tonnes,Barley,1981,18300
+Northern Territory,tonnes,Barley,1981,0
+Australian Capital Territory,tonnes,Barley,1981,0
+New South Wales,tonnes,Maize,1981,45500
+Victoria,tonnes,Maize,1981,3000
+Queensland,tonnes,Maize,1981,123200
+South Australia,tonnes,Maize,1981,0
+Western Australia,tonnes,Maize,1981,0
+Tasmania,tonnes,Maize,1981,0
+Northern Territory,tonnes,Maize,1981,0
+Australian Capital Territory,tonnes,Maize,1981,0
+New South Wales,tonnes,Oats,1981,309900
+Victoria,tonnes,Oats,1981,321700
+Queensland,tonnes,Oats,1981,5900
+South Australia,tonnes,Oats,1981,96100
+Western Australia,tonnes,Oats,1981,383600
+Tasmania,tonnes,Oats,1981,11100
+Northern Territory,tonnes,Oats,1981,0
+Australian Capital Territory,tonnes,Oats,1981,0
+New South Wales,tonnes,Wheat,1981,2865000
+Victoria,tonnes,Wheat,1981,2538000
+Queensland,tonnes,Wheat,1981,485300
+South Australia,tonnes,Wheat,1981,1650400
+Western Australia,tonnes,Wheat,1981,3315200
+Tasmania,tonnes,Wheat,1981,2500
+Northern Territory,tonnes,Wheat,1981,0
+Australian Capital Territory,tonnes,Wheat,1981,0
+New South Wales,tonnes,Potatoes,1981,86500
+Victoria,tonnes,Potatoes,1981,349000
+Queensland,tonnes,Potatoes,1981,113300
+South Australia,tonnes,Potatoes,1981,96700
+Western Australia,tonnes,Potatoes,1981,64300
+Tasmania,tonnes,Potatoes,1981,156000
+Northern Territory,tonnes,Potatoes,1981,0
+Australian Capital Territory,tonnes,Potatoes,1981,0
+New South Wales,tonnes,Barley,1982,766400
+Victoria,tonnes,Barley,1982,459400
+Queensland,tonnes,Barley,1982,397500
+South Australia,tonnes,Barley,1982,1227100
+Western Australia,tonnes,Barley,1982,576500
+Tasmania,tonnes,Barley,1982,23300
+Northern Territory,tonnes,Barley,1982,0
+Australian Capital Territory,tonnes,Barley,1982,0
+New South Wales,tonnes,Maize,1982,58500
+Victoria,tonnes,Maize,1982,2400
+Queensland,tonnes,Maize,1982,150400
+South Australia,tonnes,Maize,1982,0
+Western Australia,tonnes,Maize,1982,0
+Tasmania,tonnes,Maize,1982,0
+Northern Territory,tonnes,Maize,1982,0
+Australian Capital Territory,tonnes,Maize,1982,0
+New South Wales,tonnes,Oats,1982,741300
+Victoria,tonnes,Oats,1982,306000
+Queensland,tonnes,Oats,1982,16400
+South Australia,tonnes,Oats,1982,97900
+Western Australia,tonnes,Oats,1982,441800
+Tasmania,tonnes,Oats,1982,13400
+Northern Territory,tonnes,Oats,1982,0
+Australian Capital Territory,tonnes,Oats,1982,0
+New South Wales,tonnes,Wheat,1982,5910000
+Victoria,tonnes,Wheat,1982,2466800
+Queensland,tonnes,Wheat,1982,1482300
+South Australia,tonnes,Wheat,1982,1694700
+Western Australia,tonnes,Wheat,1982,4803000
+Tasmania,tonnes,Wheat,1982,2300
+Northern Territory,tonnes,Wheat,1982,0
+Australian Capital Territory,tonnes,Wheat,1982,0
+New South Wales,tonnes,Potatoes,1982,107500
+Victoria,tonnes,Potatoes,1982,354200
+Queensland,tonnes,Potatoes,1982,128600
+South Australia,tonnes,Potatoes,1982,100200
+Western Australia,tonnes,Potatoes,1982,67300
+Tasmania,tonnes,Potatoes,1982,160800
+Northern Territory,tonnes,Potatoes,1982,0
+Australian Capital Territory,tonnes,Potatoes,1982,0
+New South Wales,tonnes,Barley,1983,189400
+Victoria,tonnes,Barley,1983,74600
+Queensland,tonnes,Barley,1983,268500
+South Australia,tonnes,Barley,1983,667500
+Western Australia,tonnes,Barley,1983,716900
+Tasmania,tonnes,Barley,1983,21900
+Northern Territory,tonnes,Barley,1983,0
+Australian Capital Territory,tonnes,Barley,1983,0
+New South Wales,tonnes,Maize,1983,47700
+Victoria,tonnes,Maize,1983,2400
+Queensland,tonnes,Maize,1983,87400
+South Australia,tonnes,Maize,1983,0
+Western Australia,tonnes,Maize,1983,1400
+Tasmania,tonnes,Maize,1983,0
+Northern Territory,tonnes,Maize,1983,200
+Australian Capital Territory,tonnes,Maize,1983,0
+New South Wales,tonnes,Oats,1983,134900
+Victoria,tonnes,Oats,1983,97600
+Queensland,tonnes,Oats,1983,8600
+South Australia,tonnes,Oats,1983,64500
+Western Australia,tonnes,Oats,1983,533600
+Tasmania,tonnes,Oats,1983,8900
+Northern Territory,tonnes,Oats,1983,0
+Australian Capital Territory,tonnes,Oats,1983,0
+New South Wales,tonnes,Wheat,1983,1623200
+Victoria,tonnes,Wheat,1983,422300
+Queensland,tonnes,Wheat,1983,754400
+South Australia,tonnes,Wheat,1983,681200
+Western Australia,tonnes,Wheat,1983,5322100
+Tasmania,tonnes,Wheat,1983,1500
+Northern Territory,tonnes,Wheat,1983,0
+Australian Capital Territory,tonnes,Wheat,1983,0
+New South Wales,tonnes,Potatoes,1983,108800
+Victoria,tonnes,Potatoes,1983,287200
+Queensland,tonnes,Potatoes,1983,120200
+South Australia,tonnes,Potatoes,1983,95500
+Western Australia,tonnes,Potatoes,1983,69300
+Tasmania,tonnes,Potatoes,1983,173100
+Northern Territory,tonnes,Potatoes,1983,0
+Australian Capital Territory,tonnes,Potatoes,1983,0
+New South Wales,tonnes,Barley,1984,941100
+Victoria,tonnes,Barley,1984,758400
+Queensland,tonnes,Barley,1984,541800
+South Australia,tonnes,Barley,1984,1816900
+Western Australia,tonnes,Barley,1984,797200
+Tasmania,tonnes,Barley,1984,34100
+Northern Territory,tonnes,Barley,1984,0
+Australian Capital Territory,tonnes,Barley,1984,0
+New South Wales,tonnes,Maize,1984,55600
+Victoria,tonnes,Maize,1984,5000
+Queensland,tonnes,Maize,1984,174800
+South Australia,tonnes,Maize,1984,100
+Western Australia,tonnes,Maize,1984,1800
+Tasmania,tonnes,Maize,1984,0
+Northern Territory,tonnes,Maize,1984,900
+Australian Capital Territory,tonnes,Maize,1984,0
+New South Wales,tonnes,Oats,1984,1120400
+Victoria,tonnes,Oats,1984,494800
+Queensland,tonnes,Oats,1984,19400
+South Australia,tonnes,Oats,1984,180500
+Western Australia,tonnes,Oats,1984,455600
+Tasmania,tonnes,Oats,1984,24700
+Northern Territory,tonnes,Oats,1984,0
+Australian Capital Territory,tonnes,Oats,1984,300
+New South Wales,tonnes,Wheat,1984,8220800
+Victoria,tonnes,Wheat,1984,3862500
+Queensland,tonnes,Wheat,1984,1922400
+South Australia,tonnes,Wheat,1984,2590300
+Western Australia,tonnes,Wheat,1984,4188600
+Tasmania,tonnes,Wheat,1984,2800
+Northern Territory,tonnes,Wheat,1984,0
+Australian Capital Territory,tonnes,Wheat,1984,500
+New South Wales,tonnes,Potatoes,1984,129600
+Victoria,tonnes,Potatoes,1984,362400
+Queensland,tonnes,Potatoes,1984,124000
+South Australia,tonnes,Potatoes,1984,120700
+Western Australia,tonnes,Potatoes,1984,69600
+Tasmania,tonnes,Potatoes,1984,213100
+Northern Territory,tonnes,Potatoes,1984,0
+Australian Capital Territory,tonnes,Potatoes,1984,0
+New South Wales,tonnes,Barley,1985,915000
+Victoria,tonnes,Barley,1985,637700
+Queensland,tonnes,Barley,1985,704300
+South Australia,tonnes,Barley,1985,1836400
+Western Australia,tonnes,Barley,1985,1431200
+Tasmania,tonnes,Barley,1985,29700
+Northern Territory,tonnes,Barley,1985,0
+Australian Capital Territory,tonnes,Barley,1985,0
+New South Wales,tonnes,Maize,1985,74200
+Victoria,tonnes,Maize,1985,6300
+Queensland,tonnes,Maize,1985,206900
+South Australia,tonnes,Maize,1985,400
+Western Australia,tonnes,Maize,1985,1500
+Tasmania,tonnes,Maize,1985,0
+Northern Territory,tonnes,Maize,1985,2200
+Australian Capital Territory,tonnes,Maize,1985,0
+New South Wales,tonnes,Oats,1985,401800
+Victoria,tonnes,Oats,1985,343200
+Queensland,tonnes,Oats,1985,14300
+South Australia,tonnes,Oats,1985,132300
+Western Australia,tonnes,Oats,1985,459900
+Tasmania,tonnes,Oats,1985,15900
+Northern Territory,tonnes,Oats,1985,0
+Australian Capital Territory,tonnes,Oats,1985,0
+New South Wales,tonnes,Wheat,1985,5610200
+Victoria,tonnes,Wheat,1985,2694300
+Queensland,tonnes,Wheat,1985,1579100
+South Australia,tonnes,Wheat,1985,1899600
+Western Australia,tonnes,Wheat,1985,6284200
+Tasmania,tonnes,Wheat,1985,4400
+Northern Territory,tonnes,Wheat,1985,0
+Australian Capital Territory,tonnes,Wheat,1985,100
+New South Wales,tonnes,Potatoes,1985,109300
+Victoria,tonnes,Potatoes,1985,379100
+Queensland,tonnes,Potatoes,1985,117200
+South Australia,tonnes,Potatoes,1985,112200
+Western Australia,tonnes,Potatoes,1985,70400
+Tasmania,tonnes,Potatoes,1985,203500
+Northern Territory,tonnes,Potatoes,1985,0
+Australian Capital Territory,tonnes,Potatoes,1985,0
+New South Wales,tonnes,Barley,1986,821400
+Victoria,tonnes,Barley,1986,475800
+Queensland,tonnes,Barley,1986,809900
+South Australia,tonnes,Barley,1986,1709300
+Western Australia,tonnes,Barley,1986,1024300
+Tasmania,tonnes,Barley,1986,27700
+Northern Territory,tonnes,Barley,1986,0
+Australian Capital Territory,tonnes,Barley,1986,0
+New South Wales,tonnes,Maize,1986,90100
+Victoria,tonnes,Maize,1986,5000
+Queensland,tonnes,Maize,1986,175800
+South Australia,tonnes,Maize,1986,700
+Western Australia,tonnes,Maize,1986,4800
+Tasmania,tonnes,Maize,1986,0
+Northern Territory,tonnes,Maize,1986,1200
+Australian Capital Territory,tonnes,Maize,1986,0
+New South Wales,tonnes,Oats,1986,538300
+Victoria,tonnes,Oats,1986,300000
+Queensland,tonnes,Oats,1986,26100
+South Australia,tonnes,Oats,1986,110200
+Western Australia,tonnes,Oats,1986,338200
+Tasmania,tonnes,Oats,1986,16500
+Northern Territory,tonnes,Oats,1986,0
+Australian Capital Territory,tonnes,Oats,1986,300
+New South Wales,tonnes,Wheat,1986,5915500
+Victoria,tonnes,Wheat,1986,2342400
+Queensland,tonnes,Wheat,1986,1691000
+South Australia,tonnes,Wheat,1986,1793100
+Western Australia,tonnes,Wheat,1986,4316300
+Tasmania,tonnes,Wheat,1986,4000
+Northern Territory,tonnes,Wheat,1986,0
+Australian Capital Territory,tonnes,Wheat,1986,300
+New South Wales,tonnes,Potatoes,1986,108600
+Victoria,tonnes,Potatoes,1986,367000
+Queensland,tonnes,Potatoes,1986,113200
+South Australia,tonnes,Potatoes,1986,113000
+Western Australia,tonnes,Potatoes,1986,69300
+Tasmania,tonnes,Potatoes,1986,193500
+Northern Territory,tonnes,Potatoes,1986,0
+Australian Capital Territory,tonnes,Potatoes,1986,0
+New South Wales,tonnes,Barley,1987,613600
+Victoria,tonnes,Barley,1987,443900
+Queensland,tonnes,Barley,1987,275900
+South Australia,tonnes,Barley,1987,1592300
+Western Australia,tonnes,Barley,1987,601400
+Tasmania,tonnes,Barley,1987,20700
+Northern Territory,tonnes,Barley,1987,0
+Australian Capital Territory,tonnes,Barley,1987,0
+New South Wales,tonnes,Maize,1987,77100
+Victoria,tonnes,Maize,1987,3200
+Queensland,tonnes,Maize,1987,118000
+South Australia,tonnes,Maize,1987,500
+Western Australia,tonnes,Maize,1987,5800
+Tasmania,tonnes,Maize,1987,0
+Northern Territory,tonnes,Maize,1987,1800
+Australian Capital Territory,tonnes,Maize,1987,0
+New South Wales,tonnes,Oats,1987,635200
+Victoria,tonnes,Oats,1987,355900
+Queensland,tonnes,Oats,1987,18800
+South Australia,tonnes,Oats,1987,149100
+Western Australia,tonnes,Oats,1987,413600
+Tasmania,tonnes,Oats,1987,11200
+Northern Territory,tonnes,Oats,1987,0
+Australian Capital Territory,tonnes,Oats,1987,200
+New South Wales,tonnes,Wheat,1987,4855200
+Victoria,tonnes,Wheat,1987,2794600
+Queensland,tonnes,Wheat,1987,833100
+South Australia,tonnes,Wheat,1987,2254900
+Western Australia,tonnes,Wheat,1987,5376800
+Tasmania,tonnes,Wheat,1987,4700
+Northern Territory,tonnes,Wheat,1987,0
+Australian Capital Territory,tonnes,Wheat,1987,0
+New South Wales,tonnes,Potatoes,1987,121600
+Victoria,tonnes,Potatoes,1987,364300
+Queensland,tonnes,Potatoes,1987,132700
+South Australia,tonnes,Potatoes,1987,105400
+Western Australia,tonnes,Potatoes,1987,67600
+Tasmania,tonnes,Potatoes,1987,223400
+Northern Territory,tonnes,Potatoes,1987,0
+Australian Capital Territory,tonnes,Potatoes,1987,0
+New South Wales,tonnes,Barley,1988,743900
+Victoria,tonnes,Barley,1988,529500
+Queensland,tonnes,Barley,1988,244200
+South Australia,tonnes,Barley,1988,1260500
+Western Australia,tonnes,Barley,1988,617100
+Tasmania,tonnes,Barley,1988,21500
+Northern Territory,tonnes,Barley,1988,0
+Australian Capital Territory,tonnes,Barley,1988,0
+New South Wales,tonnes,Maize,1988,72100
+Victoria,tonnes,Maize,1988,5500
+Queensland,tonnes,Maize,1988,124200
+South Australia,tonnes,Maize,1988,400
+Western Australia,tonnes,Maize,1988,4800
+Tasmania,tonnes,Maize,1988,0
+Northern Territory,tonnes,Maize,1988,1200
+Australian Capital Territory,tonnes,Maize,1988,0
+New South Wales,tonnes,Oats,1988,707400
+Victoria,tonnes,Oats,1988,325200
+Queensland,tonnes,Oats,1988,13600
+South Australia,tonnes,Oats,1988,134600
+Western Australia,tonnes,Oats,1988,501600
+Tasmania,tonnes,Oats,1988,15600
+Northern Territory,tonnes,Oats,1988,0
+Australian Capital Territory,tonnes,Oats,1988,200
+New South Wales,tonnes,Wheat,1988,3996900
+Victoria,tonnes,Wheat,1988,1882400
+Queensland,tonnes,Wheat,1988,718400
+South Australia,tonnes,Wheat,1988,1803000
+Western Australia,tonnes,Wheat,1988,3882300
+Tasmania,tonnes,Wheat,1988,3800
+Northern Territory,tonnes,Wheat,1988,0
+Australian Capital Territory,tonnes,Wheat,1988,0
+New South Wales,tonnes,Potatoes,1988,119900
+Victoria,tonnes,Potatoes,1988,398200
+Queensland,tonnes,Potatoes,1988,120000
+South Australia,tonnes,Potatoes,1988,122800
+Western Australia,tonnes,Potatoes,1988,72300
+Tasmania,tonnes,Potatoes,1988,248300
+Northern Territory,tonnes,Potatoes,1988,0
+Australian Capital Territory,tonnes,Potatoes,1988,0
+New South Wales,tonnes,Barley,1989,712300
+Victoria,tonnes,Barley,1989,544800
+Queensland,tonnes,Barley,1989,374100
+South Australia,tonnes,Barley,1989,1035900
+Western Australia,tonnes,Barley,1989,552400
+Tasmania,tonnes,Barley,1989,22000
+Northern Territory,tonnes,Barley,1989,0
+Australian Capital Territory,tonnes,Barley,1989,0
+New South Wales,tonnes,Maize,1989,78300
+Victoria,tonnes,Maize,1989,1400
+Queensland,tonnes,Maize,1989,132100
+South Australia,tonnes,Maize,1989,0
+Western Australia,tonnes,Maize,1989,4000
+Tasmania,tonnes,Maize,1989,0
+Northern Territory,tonnes,Maize,1989,800
+Australian Capital Territory,tonnes,Maize,1989,0
+New South Wales,tonnes,Oats,1989,779600
+Victoria,tonnes,Oats,1989,276100
+Queensland,tonnes,Oats,1989,14500
+South Australia,tonnes,Oats,1989,131400
+Western Australia,tonnes,Oats,1989,618500
+Tasmania,tonnes,Oats,1989,17900
+Northern Territory,tonnes,Oats,1989,0
+Australian Capital Territory,tonnes,Oats,1989,100
+New South Wales,tonnes,Wheat,1989,4105300
+Victoria,tonnes,Wheat,1989,1691400
+Queensland,tonnes,Wheat,1989,1550000
+South Australia,tonnes,Wheat,1989,1361100
+Western Australia,tonnes,Wheat,1989,5225100
+Tasmania,tonnes,Wheat,1989,2200
+Northern Territory,tonnes,Wheat,1989,0
+Australian Capital Territory,tonnes,Wheat,1989,0
+New South Wales,tonnes,Potatoes,1989,110100
+Victoria,tonnes,Potatoes,1989,368300
+Queensland,tonnes,Potatoes,1989,115100
+South Australia,tonnes,Potatoes,1989,119100
+Western Australia,tonnes,Potatoes,1989,78500
+Tasmania,tonnes,Potatoes,1989,256800
+Northern Territory,tonnes,Potatoes,1989,0
+Australian Capital Territory,tonnes,Potatoes,1989,0
+New South Wales,tonnes,Barley,1990,655600
+Victoria,tonnes,Barley,1990,696000
+Queensland,tonnes,Barley,1990,320700
+South Australia,tonnes,Barley,1990,1724500
+Western Australia,tonnes,Barley,1990,628000
+Tasmania,tonnes,Barley,1990,19300
+Northern Territory,tonnes,Barley,1990,0
+Australian Capital Territory,tonnes,Barley,1990,0
+New South Wales,tonnes,Maize,1990,97600
+Victoria,tonnes,Maize,1990,1000
+Queensland,tonnes,Maize,1990,114600
+South Australia,tonnes,Maize,1990,0
+Western Australia,tonnes,Maize,1990,4800
+Tasmania,tonnes,Maize,1990,0
+Northern Territory,tonnes,Maize,1990,600
+Australian Capital Territory,tonnes,Maize,1990,0
+New South Wales,tonnes,Oats,1990,503500
+Victoria,tonnes,Oats,1990,330400
+Queensland,tonnes,Oats,1990,14300
+South Australia,tonnes,Oats,1990,249900
+Western Australia,tonnes,Oats,1990,529400
+Tasmania,tonnes,Oats,1990,12800
+Northern Territory,tonnes,Oats,1990,0
+Australian Capital Territory,tonnes,Oats,1990,0
+New South Wales,tonnes,Wheat,1990,3423300
+Victoria,tonnes,Wheat,1990,1961400
+Queensland,tonnes,Wheat,1990,1420000
+South Australia,tonnes,Wheat,1990,2607200
+Western Australia,tonnes,Wheat,1990,4800000
+Tasmania,tonnes,Wheat,1990,2700
+Northern Territory,tonnes,Wheat,1990,0
+Australian Capital Territory,tonnes,Wheat,1990,0
+New South Wales,tonnes,Potatoes,1990,130100
+Victoria,tonnes,Potatoes,1990,368400
+Queensland,tonnes,Potatoes,1990,121900
+South Australia,tonnes,Potatoes,1990,161300
+Western Australia,tonnes,Potatoes,1990,98700
+Tasmania,tonnes,Potatoes,1990,297500
+Northern Territory,tonnes,Potatoes,1990,0
+Australian Capital Territory,tonnes,Potatoes,1990,0
+New South Wales,tonnes,Barley,1991,822500
+Victoria,tonnes,Barley,1991,650600
+Queensland,tonnes,Barley,1991,360800
+South Australia,tonnes,Barley,1991,1505700
+Western Australia,tonnes,Barley,1991,742200
+Tasmania,tonnes,Barley,1991,26000
+Northern Territory,tonnes,Barley,1991,0
+Australian Capital Territory,tonnes,Barley,1991,0
+New South Wales,tonnes,Maize,1991,90600
+Victoria,tonnes,Maize,1991,2000
+Queensland,tonnes,Maize,1991,94900
+South Australia,tonnes,Maize,1991,0
+Western Australia,tonnes,Maize,1991,5400
+Tasmania,tonnes,Maize,1991,0
+Northern Territory,tonnes,Maize,1991,700
+Australian Capital Territory,tonnes,Maize,1991,0
+New South Wales,tonnes,Oats,1991,538400
+Victoria,tonnes,Oats,1991,301100
+Queensland,tonnes,Oats,1991,27100
+South Australia,tonnes,Oats,1991,147600
+Western Australia,tonnes,Oats,1991,496800
+Tasmania,tonnes,Oats,1991,18800
+Northern Territory,tonnes,Oats,1991,0
+Australian Capital Territory,tonnes,Oats,1991,0
+New South Wales,tonnes,Wheat,1991,4127600
+Victoria,tonnes,Wheat,1991,1493000
+Queensland,tonnes,Wheat,1991,1973200
+South Australia,tonnes,Wheat,1991,2020800
+Western Australia,tonnes,Wheat,1991,5449100
+Tasmania,tonnes,Wheat,1991,2400
+Northern Territory,tonnes,Wheat,1991,0
+Australian Capital Territory,tonnes,Wheat,1991,0
+New South Wales,tonnes,Potatoes,1991,119500
+Victoria,tonnes,Potatoes,1991,376700
+Queensland,tonnes,Potatoes,1991,119000
+South Australia,tonnes,Potatoes,1991,175300
+Western Australia,tonnes,Potatoes,1991,110100
+Tasmania,tonnes,Potatoes,1991,235500
+Northern Territory,tonnes,Potatoes,1991,0
+Australian Capital Territory,tonnes,Potatoes,1991,0
+New South Wales,tonnes,Barley,1992,748700
+Victoria,tonnes,Barley,1992,897900
+Queensland,tonnes,Barley,1992,70100
+South Australia,tonnes,Barley,1992,1881500
+Western Australia,tonnes,Barley,1992,899600
+Tasmania,tonnes,Barley,1992,31800
+Northern Territory,tonnes,Barley,1992,0
+Australian Capital Territory,tonnes,Barley,1992,0
+New South Wales,tonnes,Maize,1992,119100
+Victoria,tonnes,Maize,1992,3000
+Queensland,tonnes,Maize,1992,141200
+South Australia,tonnes,Maize,1992,0
+Western Australia,tonnes,Maize,1992,4900
+Tasmania,tonnes,Maize,1992,0
+Northern Territory,tonnes,Maize,1992,700
+Australian Capital Territory,tonnes,Maize,1992,0
+New South Wales,tonnes,Oats,1992,578800
+Victoria,tonnes,Oats,1992,300400
+Queensland,tonnes,Oats,1992,5200
+South Australia,tonnes,Oats,1992,172500
+Western Australia,tonnes,Oats,1992,614300
+Tasmania,tonnes,Oats,1992,18600
+Northern Territory,tonnes,Oats,1992,0
+Australian Capital Territory,tonnes,Oats,1992,0
+New South Wales,tonnes,Wheat,1992,2183000
+Victoria,tonnes,Wheat,1992,1150400
+Queensland,tonnes,Wheat,1992,343700
+South Australia,tonnes,Wheat,1992,2141000
+Western Australia,tonnes,Wheat,1992,4736000
+Tasmania,tonnes,Wheat,1992,3200
+Northern Territory,tonnes,Wheat,1992,0
+Australian Capital Territory,tonnes,Wheat,1992,0
+New South Wales,tonnes,Potatoes,1992,122500
+Victoria,tonnes,Potatoes,1992,368800
+Queensland,tonnes,Potatoes,1992,112600
+South Australia,tonnes,Potatoes,1992,198600
+Western Australia,tonnes,Potatoes,1992,97800
+Tasmania,tonnes,Potatoes,1992,249800
+Northern Territory,tonnes,Potatoes,1992,0
+Australian Capital Territory,tonnes,Potatoes,1992,0
+New South Wales,tonnes,Barley,1993,1043800
+Victoria,tonnes,Barley,1993,1116300
+Queensland,tonnes,Barley,1993,285200
+South Australia,tonnes,Barley,1993,1855300
+Western Australia,tonnes,Barley,1993,1060900
+Tasmania,tonnes,Barley,1993,35300
+Northern Territory,tonnes,Barley,1993,0
+Australian Capital Territory,tonnes,Barley,1993,0
+New South Wales,tonnes,Maize,1993,107900
+Victoria,tonnes,Maize,1993,2800
+Queensland,tonnes,Maize,1993,74600
+South Australia,tonnes,Maize,1993,0
+Western Australia,tonnes,Maize,1993,12900
+Tasmania,tonnes,Maize,1993,0
+Northern Territory,tonnes,Maize,1993,600
+Australian Capital Territory,tonnes,Maize,1993,0
+New South Wales,tonnes,Oats,1993,761500
+Victoria,tonnes,Oats,1993,403800
+Queensland,tonnes,Oats,1993,9700
+South Australia,tonnes,Oats,1993,164500
+Western Australia,tonnes,Oats,1993,577900
+Tasmania,tonnes,Oats,1993,19000
+Northern Territory,tonnes,Oats,1993,0
+Australian Capital Territory,tonnes,Oats,1993,200
+New South Wales,tonnes,Wheat,1993,3582700
+Victoria,tonnes,Wheat,1993,2015100
+Queensland,tonnes,Wheat,1993,735200
+South Australia,tonnes,Wheat,1993,2421200
+Western Australia,tonnes,Wheat,1993,5978900
+Tasmania,tonnes,Wheat,1993,5500
+Northern Territory,tonnes,Wheat,1993,0
+Australian Capital Territory,tonnes,Wheat,1993,100
+New South Wales,tonnes,Potatoes,1993,137400
+Victoria,tonnes,Potatoes,1993,309200
+Queensland,tonnes,Potatoes,1993,125200
+South Australia,tonnes,Potatoes,1993,179300
+Western Australia,tonnes,Potatoes,1993,108200
+Tasmania,tonnes,Potatoes,1993,269900
+Northern Territory,tonnes,Potatoes,1993,0
+Australian Capital Territory,tonnes,Potatoes,1993,0
+New South Wales,tonnes,Barley,1994,1357000
+Victoria,tonnes,Barley,1994,1386200
+Queensland,tonnes,Barley,1994,260500
+South Australia,tonnes,Barley,1994,2242400
+Western Australia,tonnes,Barley,1994,1381400
+Tasmania,tonnes,Barley,1994,40800
+Northern Territory,tonnes,Barley,1994,0
+Australian Capital Territory,tonnes,Barley,1994,0
+New South Wales,tonnes,Maize,1994,100000
+Victoria,tonnes,Maize,1994,1700
+Queensland,tonnes,Maize,1994,87100
+South Australia,tonnes,Maize,1994,0
+Western Australia,tonnes,Maize,1994,14600
+Tasmania,tonnes,Maize,1994,0
+Northern Territory,tonnes,Maize,1994,700
+Australian Capital Territory,tonnes,Maize,1994,0
+New South Wales,tonnes,Oats,1994,617800
+Victoria,tonnes,Oats,1994,362000
+Queensland,tonnes,Oats,1994,7800
+South Australia,tonnes,Oats,1994,135100
+Western Australia,tonnes,Oats,1994,511100
+Tasmania,tonnes,Oats,1994,12700
+Northern Territory,tonnes,Oats,1994,0
+Australian Capital Territory,tonnes,Oats,1994,100
+New South Wales,tonnes,Wheat,1994,5086100
+Victoria,tonnes,Wheat,1994,2021900
+Queensland,tonnes,Wheat,1994,555400
+South Australia,tonnes,Wheat,1994,2121100
+Western Australia,tonnes,Wheat,1994,6689300
+Tasmania,tonnes,Wheat,1994,5300
+Northern Territory,tonnes,Wheat,1994,0
+Australian Capital Territory,tonnes,Wheat,1994,100
+New South Wales,tonnes,Potatoes,1994,138700
+Victoria,tonnes,Potatoes,1994,322100
+Queensland,tonnes,Potatoes,1994,118000
+South Australia,tonnes,Potatoes,1994,202600
+Western Australia,tonnes,Potatoes,1994,111800
+Tasmania,tonnes,Potatoes,1994,291400
+Northern Territory,tonnes,Potatoes,1994,0
+Australian Capital Territory,tonnes,Potatoes,1994,0
+New South Wales,tonnes,Barley,1995,291500
+Victoria,tonnes,Barley,1995,448100
+Queensland,tonnes,Barley,1995,72800
+South Australia,tonnes,Barley,1995,1158700
+Western Australia,tonnes,Barley,1995,914900
+Tasmania,tonnes,Barley,1995,27100
+Northern Territory,tonnes,Barley,1995,0
+Australian Capital Territory,tonnes,Barley,1995,0
+New South Wales,tonnes,Maize,1995,145300
+Victoria,tonnes,Maize,1995,5100
+Queensland,tonnes,Maize,1995,79900
+South Australia,tonnes,Maize,1995,0
+Western Australia,tonnes,Maize,1995,11400
+Tasmania,tonnes,Maize,1995,0
+Northern Territory,tonnes,Maize,1995,600
+Australian Capital Territory,tonnes,Maize,1995,0
+New South Wales,tonnes,Oats,1995,197300
+Victoria,tonnes,Oats,1995,200600
+Queensland,tonnes,Oats,1995,3200
+South Australia,tonnes,Oats,1995,87000
+Western Australia,tonnes,Oats,1995,424800
+Tasmania,tonnes,Oats,1995,11300
+Northern Territory,tonnes,Oats,1995,0
+Australian Capital Territory,tonnes,Oats,1995,0
+New South Wales,tonnes,Wheat,1995,874600
+Victoria,tonnes,Wheat,1995,933600
+Queensland,tonnes,Wheat,1995,225100
+South Australia,tonnes,Wheat,1995,1487400
+Western Australia,tonnes,Wheat,1995,5437900
+Tasmania,tonnes,Wheat,1995,2800
+Northern Territory,tonnes,Wheat,1995,0
+Australian Capital Territory,tonnes,Wheat,1995,0
+New South Wales,tonnes,Potatoes,1995,126800
+Victoria,tonnes,Potatoes,1995,279900
+Queensland,tonnes,Potatoes,1995,109000
+South Australia,tonnes,Potatoes,1995,247400
+Western Australia,tonnes,Potatoes,1995,103600
+Tasmania,tonnes,Potatoes,1995,255700
+Northern Territory,tonnes,Potatoes,1995,0
+Australian Capital Territory,tonnes,Potatoes,1995,0
+New South Wales,tonnes,Barley,1996,1073600
+Victoria,tonnes,Barley,1996,1341700
+Queensland,tonnes,Barley,1996,195000
+South Australia,tonnes,Barley,1996,1851100
+Western Australia,tonnes,Barley,1996,1322800
+Tasmania,tonnes,Barley,1996,38500
+Northern Territory,tonnes,Barley,1996,0
+Australian Capital Territory,tonnes,Barley,1996,0
+New South Wales,tonnes,Maize,1996,190000
+Victoria,tonnes,Maize,1996,6800
+Queensland,tonnes,Maize,1996,113600
+South Australia,tonnes,Maize,1996,0
+Western Australia,tonnes,Maize,1996,500
+Tasmania,tonnes,Maize,1996,0
+Northern Territory,tonnes,Maize,1996,200
+Australian Capital Territory,tonnes,Maize,1996,0
+New South Wales,tonnes,Oats,1996,711200
+Victoria,tonnes,Oats,1996,391700
+Queensland,tonnes,Oats,1996,6900
+South Australia,tonnes,Oats,1996,161900
+Western Australia,tonnes,Oats,1996,584800
+Tasmania,tonnes,Oats,1996,18400
+Northern Territory,tonnes,Oats,1996,0
+Australian Capital Territory,tonnes,Oats,1996,100
+New South Wales,tonnes,Wheat,1996,4508400
+Victoria,tonnes,Wheat,1996,1921200
+Queensland,tonnes,Wheat,1996,519500
+South Australia,tonnes,Wheat,1996,2724000
+Western Australia,tonnes,Wheat,1996,6826700
+Tasmania,tonnes,Wheat,1996,4100
+Northern Territory,tonnes,Wheat,1996,0
+Australian Capital Territory,tonnes,Wheat,1996,0
+New South Wales,tonnes,Potatoes,1996,162500
+Victoria,tonnes,Potatoes,1996,335600
+Queensland,tonnes,Potatoes,1996,103800
+South Australia,tonnes,Potatoes,1996,282600
+Western Australia,tonnes,Potatoes,1996,121500
+Tasmania,tonnes,Potatoes,1996,302000
+Northern Territory,tonnes,Potatoes,1996,0
+Australian Capital Territory,tonnes,Potatoes,1996,0
+New South Wales,tonnes,Barley,1997,1483000
+Victoria,tonnes,Barley,1997,1189400
+Queensland,tonnes,Barley,1997,428600
+South Australia,tonnes,Barley,1997,1923200
+Western Australia,tonnes,Barley,1997,1635300
+Tasmania,tonnes,Barley,1997,35200
+Northern Territory,tonnes,Barley,1997,1300
+Australian Capital Territory,tonnes,Barley,1997,0
+New South Wales,tonnes,Maize,1997,255900
+Victoria,tonnes,Maize,1997,6500
+Queensland,tonnes,Maize,1997,129900
+South Australia,tonnes,Maize,1997,0
+Western Australia,tonnes,Maize,1997,5100
+Tasmania,tonnes,Maize,1997,0
+Northern Territory,tonnes,Maize,1997,200
+Australian Capital Territory,tonnes,Maize,1997,0
+New South Wales,tonnes,Oats,1997,607200
+Victoria,tonnes,Oats,1997,304000
+Queensland,tonnes,Oats,1997,25700
+South Australia,tonnes,Oats,1997,155800
+Western Australia,tonnes,Oats,1997,546100
+Tasmania,tonnes,Oats,1997,14000
+Northern Territory,tonnes,Oats,1997,0
+Australian Capital Territory,tonnes,Oats,1997,100
+New South Wales,tonnes,Wheat,1997,8363400
+Victoria,tonnes,Wheat,1997,2262300
+Queensland,tonnes,Wheat,1997,1979500
+South Australia,tonnes,Wheat,1997,2794900
+Western Australia,tonnes,Wheat,1997,7516000
+Tasmania,tonnes,Wheat,1997,7500
+Northern Territory,tonnes,Wheat,1997,600
+Australian Capital Territory,tonnes,Wheat,1997,0
+New South Wales,tonnes,Potatoes,1997,136200
+Victoria,tonnes,Potatoes,1997,315700
+Queensland,tonnes,Potatoes,1997,115400
+South Australia,tonnes,Potatoes,1997,285300
+Western Australia,tonnes,Potatoes,1997,116000
+Tasmania,tonnes,Potatoes,1997,317400
+Northern Territory,tonnes,Potatoes,1997,0
+Australian Capital Territory,tonnes,Potatoes,1997,0
+New South Wales,tonnes,Barley,1998,1364700
+Victoria,tonnes,Barley,1998,928300
+Queensland,tonnes,Barley,1998,204500
+South Australia,tonnes,Barley,1998,2027100
+Western Australia,tonnes,Barley,1998,1926300
+Tasmania,tonnes,Barley,1998,30900
+Northern Territory,tonnes,Barley,1998,0
+Australian Capital Territory,tonnes,Barley,1998,0
+New South Wales,tonnes,Maize,1998,161200
+Victoria,tonnes,Maize,1998,10200
+Queensland,tonnes,Maize,1998,96900
+South Australia,tonnes,Maize,1998,0
+Western Australia,tonnes,Maize,1998,3100
+Tasmania,tonnes,Maize,1998,0
+Northern Territory,tonnes,Maize,1998,300
+Australian Capital Territory,tonnes,Maize,1998,0
+New South Wales,tonnes,Oats,1998,488200
+Victoria,tonnes,Oats,1998,369100
+Queensland,tonnes,Oats,1998,13000
+South Australia,tonnes,Oats,1998,153000
+Western Australia,tonnes,Oats,1998,596100
+Tasmania,tonnes,Oats,1998,14900
+Northern Territory,tonnes,Oats,1998,0
+Australian Capital Territory,tonnes,Oats,1998,100
+New South Wales,tonnes,Wheat,1998,5906400
+Victoria,tonnes,Wheat,1998,1502800
+Queensland,tonnes,Wheat,1998,1392100
+South Australia,tonnes,Wheat,1998,2689200
+Western Australia,tonnes,Wheat,1998,7724500
+Tasmania,tonnes,Wheat,1998,11700
+Northern Territory,tonnes,Wheat,1998,0
+Australian Capital Territory,tonnes,Wheat,1998,0
+New South Wales,tonnes,Potatoes,1998,146500
+Victoria,tonnes,Potatoes,1998,295100
+Queensland,tonnes,Potatoes,1998,121600
+South Australia,tonnes,Potatoes,1998,306600
+Western Australia,tonnes,Potatoes,1998,128200
+Tasmania,tonnes,Potatoes,1998,373600
+Northern Territory,tonnes,Potatoes,1998,0
+Australian Capital Territory,tonnes,Potatoes,1998,0
+New South Wales,tonnes,Barley,1999,1247400
+Victoria,tonnes,Barley,1999,869800
+Queensland,tonnes,Barley,1999,320400
+South Australia,tonnes,Barley,1999,2051000
+Western Australia,tonnes,Barley,1999,1468600
+Tasmania,tonnes,Barley,1999,30000
+Northern Territory,tonnes,Barley,1999,0
+Australian Capital Territory,tonnes,Barley,1999,0
+New South Wales,tonnes,Maize,1999,186200
+Victoria,tonnes,Maize,1999,2500
+Queensland,tonnes,Maize,1999,144900
+South Australia,tonnes,Maize,1999,0
+Western Australia,tonnes,Maize,1999,3600
+Tasmania,tonnes,Maize,1999,100
+Northern Territory,tonnes,Maize,1999,700
+Australian Capital Territory,tonnes,Maize,1999,0
+New South Wales,tonnes,Oats,1999,669100
+Victoria,tonnes,Oats,1999,458000
+Queensland,tonnes,Oats,1999,15300
+South Australia,tonnes,Oats,1999,178100
+Western Australia,tonnes,Oats,1999,463400
+Tasmania,tonnes,Oats,1999,14400
+Northern Territory,tonnes,Oats,1999,0
+Australian Capital Territory,tonnes,Oats,1999,100
+New South Wales,tonnes,Wheat,1999,6563300
+Victoria,tonnes,Wheat,1999,1462300
+Queensland,tonnes,Wheat,1999,1941200
+South Australia,tonnes,Wheat,1999,3310400
+Western Australia,tonnes,Wheat,1999,8170100
+Tasmania,tonnes,Wheat,1999,17500
+Northern Territory,tonnes,Wheat,1999,0
+Australian Capital Territory,tonnes,Wheat,1999,0
+New South Wales,tonnes,Potatoes,1999,162100
+Victoria,tonnes,Potatoes,1999,319200
+Queensland,tonnes,Potatoes,1999,108100
+South Australia,tonnes,Potatoes,1999,301000
+Western Australia,tonnes,Potatoes,1999,108900
+Tasmania,tonnes,Potatoes,1999,327500
+Northern Territory,tonnes,Potatoes,1999,0
+Australian Capital Territory,tonnes,Potatoes,1999,0
+New South Wales,tonnes,Barley,2000,1040300
+Victoria,tonnes,Barley,2000,1189300
+Queensland,tonnes,Barley,2000,253800
+South Australia,tonnes,Barley,2000,1409200
+Western Australia,tonnes,Barley,2000,1117300
+Tasmania,tonnes,Barley,2000,22200
+Northern Territory,tonnes,Barley,2000,0
+Australian Capital Territory,tonnes,Barley,2000,0
+New South Wales,tonnes,Maize,2000,177800
+Victoria,tonnes,Maize,2000,4000
+Queensland,tonnes,Maize,2000,223600
+South Australia,tonnes,Maize,2000,0
+Western Australia,tonnes,Maize,2000,400
+Tasmania,tonnes,Maize,2000,0
+Northern Territory,tonnes,Maize,2000,200
+Australian Capital Territory,tonnes,Maize,2000,0
+New South Wales,tonnes,Oats,2000,283700
+Victoria,tonnes,Oats,2000,296300
+Queensland,tonnes,Oats,2000,11800
+South Australia,tonnes,Oats,2000,77500
+Western Australia,tonnes,Oats,2000,438700
+Tasmania,tonnes,Oats,2000,9700
+Northern Territory,tonnes,Oats,2000,0
+Australian Capital Territory,tonnes,Oats,2000,100
+New South Wales,tonnes,Wheat,2000,8601900
+Victoria,tonnes,Wheat,2000,2642100
+Queensland,tonnes,Wheat,2000,1904000
+South Australia,tonnes,Wheat,2000,2585500
+Western Australia,tonnes,Wheat,2000,9004100
+Tasmania,tonnes,Wheat,2000,19800
+Northern Territory,tonnes,Wheat,2000,0
+Australian Capital Territory,tonnes,Wheat,2000,0
+New South Wales,tonnes,Potatoes,2000,156400
+Victoria,tonnes,Potatoes,2000,294700
+Queensland,tonnes,Potatoes,2000,118800
+South Australia,tonnes,Potatoes,2000,280600
+Western Australia,tonnes,Potatoes,2000,82100
+Tasmania,tonnes,Potatoes,2000,267200
+Northern Territory,tonnes,Potatoes,2000,0
+Australian Capital Territory,tonnes,Potatoes,2000,0
+New South Wales,tonnes,Barley,2001,1253300
+Victoria,tonnes,Barley,2001,1670500
+Queensland,tonnes,Barley,2001,115000
+South Australia,tonnes,Barley,2001,2320300
+Western Australia,tonnes,Barley,2001,1358400
+Tasmania,tonnes,Barley,2001,26000
+Northern Territory,tonnes,Barley,2001,0
+Australian Capital Territory,tonnes,Barley,2001,0
+New South Wales,tonnes,Maize,2001,177600
+Victoria,tonnes,Maize,2001,7600
+Queensland,tonnes,Maize,2001,159100
+South Australia,tonnes,Maize,2001,0
+Western Australia,tonnes,Maize,2001,300
+Tasmania,tonnes,Maize,2001,0
+Northern Territory,tonnes,Maize,2001,400
+Australian Capital Territory,tonnes,Maize,2001,0
+New South Wales,tonnes,Oats,2001,245700
+Victoria,tonnes,Oats,2001,351400
+Queensland,tonnes,Oats,2001,5900
+South Australia,tonnes,Oats,2001,117200
+Western Australia,tonnes,Oats,2001,317000
+Tasmania,tonnes,Oats,2001,12600
+Northern Territory,tonnes,Oats,2001,0
+Australian Capital Territory,tonnes,Oats,2001,100
+New South Wales,tonnes,Wheat,2001,7867300
+Victoria,tonnes,Wheat,2001,3079700
+Queensland,tonnes,Wheat,2001,1157000
+South Australia,tonnes,Wheat,2001,4162400
+Western Australia,tonnes,Wheat,2001,5814400
+Tasmania,tonnes,Wheat,2001,25600
+Northern Territory,tonnes,Wheat,2001,0
+Australian Capital Territory,tonnes,Wheat,2001,1800
+New South Wales,tonnes,Potatoes,2001,160100
+Victoria,tonnes,Potatoes,2001,297000
+Queensland,tonnes,Potatoes,2001,115800
+South Australia,tonnes,Potatoes,2001,322700
+Western Australia,tonnes,Potatoes,2001,75500
+Tasmania,tonnes,Potatoes,2001,331000
+Northern Territory,tonnes,Potatoes,2001,0
+Australian Capital Territory,tonnes,Potatoes,2001,0
+New South Wales,tonnes,Barley,2002,1382300
+Victoria,tonnes,Barley,2002,1655700
+Queensland,tonnes,Barley,2002,170700
+South Australia,tonnes,Barley,2002,2781800
+Western Australia,tonnes,Barley,2002,2262800
+Tasmania,tonnes,Barley,2002,26400
+Northern Territory,tonnes,Barley,2002,0
+Australian Capital Territory,tonnes,Barley,2002,0
+New South Wales,tonnes,Maize,2002,245800
+Victoria,tonnes,Maize,2002,9100
+Queensland,tonnes,Maize,2002,198400
+South Australia,tonnes,Maize,2002,0
+Western Australia,tonnes,Maize,2002,0
+Tasmania,tonnes,Maize,2002,0
+Northern Territory,tonnes,Maize,2002,600
+Australian Capital Territory,tonnes,Maize,2002,0
+New South Wales,tonnes,Oats,2002,320400
+Victoria,tonnes,Oats,2002,333900
+Queensland,tonnes,Oats,2002,7500
+South Australia,tonnes,Oats,2002,202900
+Western Australia,tonnes,Oats,2002,556900
+Tasmania,tonnes,Oats,2002,11900
+Northern Territory,tonnes,Oats,2002,0
+Australian Capital Territory,tonnes,Oats,2002,100
+New South Wales,tonnes,Wheat,2002,8042800
+Victoria,tonnes,Wheat,2002,2791400
+Queensland,tonnes,Wheat,2002,901400
+South Australia,tonnes,Wheat,2002,4778500
+Western Australia,tonnes,Wheat,2002,7759900
+Tasmania,tonnes,Wheat,2002,25300
+Northern Territory,tonnes,Wheat,2002,0
+Australian Capital Territory,tonnes,Wheat,2002,100
+New South Wales,tonnes,Potatoes,2002,158500
+Victoria,tonnes,Potatoes,2002,294500
+Queensland,tonnes,Potatoes,2002,117900
+South Australia,tonnes,Potatoes,2002,334700
+Western Australia,tonnes,Potatoes,2002,77300
+Tasmania,tonnes,Potatoes,2002,350100
+Northern Territory,tonnes,Potatoes,2002,0
+Australian Capital Territory,tonnes,Potatoes,2002,0
+New South Wales,tonnes,Barley,2003,428000
+Victoria,tonnes,Barley,2003,478400
+Queensland,tonnes,Barley,2003,148300
+South Australia,tonnes,Barley,2003,1439900
+Western Australia,tonnes,Barley,2003,1349000
+Tasmania,tonnes,Barley,2003,21200
+Northern Territory,tonnes,Barley,2003,0
+Australian Capital Territory,tonnes,Barley,2003,0
+New South Wales,tonnes,Maize,2003,163500
+Victoria,tonnes,Maize,2003,15200
+Queensland,tonnes,Maize,2003,130900
+South Australia,tonnes,Maize,2003,0
+Western Australia,tonnes,Maize,2003,400
+Tasmania,tonnes,Maize,2003,0
+Northern Territory,tonnes,Maize,2003,100
+Australian Capital Territory,tonnes,Maize,2003,0
+New South Wales,tonnes,Oats,2003,149300
+Victoria,tonnes,Oats,2003,250100
+Queensland,tonnes,Oats,2003,3500
+South Australia,tonnes,Oats,2003,69900
+Western Australia,tonnes,Oats,2003,476700
+Tasmania,tonnes,Oats,2003,7500
+Northern Territory,tonnes,Oats,2003,0
+Australian Capital Territory,tonnes,Oats,2003,100
+New South Wales,tonnes,Wheat,2003,2494900
+Victoria,tonnes,Wheat,2003,890200
+Queensland,tonnes,Wheat,2003,600900
+South Australia,tonnes,Wheat,2003,2071800
+Western Australia,tonnes,Wheat,2003,4046900
+Tasmania,tonnes,Wheat,2003,25300
+Northern Territory,tonnes,Wheat,2003,0
+Australian Capital Territory,tonnes,Wheat,2003,1800
+New South Wales,tonnes,Potatoes,2003,134100
+Victoria,tonnes,Potatoes,2003,270900
+Queensland,tonnes,Potatoes,2003,118600
+South Australia,tonnes,Potatoes,2003,328000
+Western Australia,tonnes,Potatoes,2003,75500
+Tasmania,tonnes,Potatoes,2003,320300
+Northern Territory,tonnes,Potatoes,2003,0
+Australian Capital Territory,tonnes,Potatoes,2003,0
+New South Wales,tonnes,Barley,2004,1955200
+Victoria,tonnes,Barley,2004,2274500
+Queensland,tonnes,Barley,2004,263100
+South Australia,tonnes,Barley,2004,2691100
+Western Australia,tonnes,Barley,2004,3169900
+Tasmania,tonnes,Barley,2004,28000
+Northern Territory,tonnes,Barley,2004,0
+Australian Capital Territory,tonnes,Barley,2004,0
+New South Wales,tonnes,Maize,2004,177500
+Victoria,tonnes,Maize,2004,6600
+Queensland,tonnes,Maize,2004,210600
+South Australia,tonnes,Maize,2004,0
+Western Australia,tonnes,Maize,2004,300
+Tasmania,tonnes,Maize,2004,0
+Northern Territory,tonnes,Maize,2004,0
+Australian Capital Territory,tonnes,Maize,2004,0
+New South Wales,tonnes,Oats,2004,610200
+Victoria,tonnes,Oats,2004,507300
+Queensland,tonnes,Oats,2004,4900
+South Australia,tonnes,Oats,2004,137400
+Western Australia,tonnes,Oats,2004,751500
+Tasmania,tonnes,Oats,2004,6600
+Northern Territory,tonnes,Oats,2004,0
+Australian Capital Territory,tonnes,Oats,2004,200
+New South Wales,tonnes,Wheat,2004,7288200
+Victoria,tonnes,Wheat,2004,3145500
+Queensland,tonnes,Wheat,2004,1109700
+South Australia,tonnes,Wheat,2004,3490400
+Western Australia,tonnes,Wheat,2004,11070000
+Tasmania,tonnes,Wheat,2004,26100
+Northern Territory,tonnes,Wheat,2004,0
+Australian Capital Territory,tonnes,Wheat,2004,1900
+New South Wales,tonnes,Potatoes,2004,119100
+Victoria,tonnes,Potatoes,2004,337900
+Queensland,tonnes,Potatoes,2004,119200
+South Australia,tonnes,Potatoes,2004,330700
+Western Australia,tonnes,Potatoes,2004,75900
+Tasmania,tonnes,Potatoes,2004,327600
+Northern Territory,tonnes,Potatoes,2004,0
+Australian Capital Territory,tonnes,Potatoes,2004,0
+New South Wales,tonnes,Barley,2005,1760700
+Victoria,tonnes,Barley,2005,1305100
+Queensland,tonnes,Barley,2005,177800
+South Australia,tonnes,Barley,2005,1979200
+Western Australia,tonnes,Barley,2005,2489200
+Tasmania,tonnes,Barley,2005,27800
+Northern Territory,tonnes,Barley,2005,0
+Australian Capital Territory,tonnes,Barley,2005,0
+New South Wales,tonnes,Maize,2005,242100
+Victoria,tonnes,Maize,2005,2200
+Queensland,tonnes,Maize,2005,173500
+South Australia,tonnes,Maize,2005,0
+Western Australia,tonnes,Maize,2005,1400
+Tasmania,tonnes,Maize,2005,0
+Northern Territory,tonnes,Maize,2005,0
+Australian Capital Territory,tonnes,Maize,2005,0
+New South Wales,tonnes,Oats,2005,429200
+Victoria,tonnes,Oats,2005,284500
+Queensland,tonnes,Oats,2005,9700
+South Australia,tonnes,Oats,2005,89700
+Western Australia,tonnes,Oats,2005,460300
+Tasmania,tonnes,Oats,2005,9100
+Northern Territory,tonnes,Oats,2005,0
+Australian Capital Territory,tonnes,Oats,2005,100
+New South Wales,tonnes,Wheat,2005,7537400
+Victoria,tonnes,Wheat,2005,1927100
+Queensland,tonnes,Wheat,2005,1170400
+South Australia,tonnes,Wheat,2005,2620800
+Western Australia,tonnes,Wheat,2005,8618900
+Tasmania,tonnes,Wheat,2005,30500
+Northern Territory,tonnes,Wheat,2005,0
+Australian Capital Territory,tonnes,Wheat,2005,0
+New South Wales,tonnes,Potatoes,2005,130500
+Victoria,tonnes,Potatoes,2005,271400
+Queensland,tonnes,Potatoes,2005,119900
+South Australia,tonnes,Potatoes,2005,364500
+Western Australia,tonnes,Potatoes,2005,81200
+Tasmania,tonnes,Potatoes,2005,320800
+Northern Territory,tonnes,Potatoes,2005,0
+Australian Capital Territory,tonnes,Potatoes,2005,0
+New South Wales,tonnes,Barley,2006,2336400
+Victoria,tonnes,Barley,2006,2003600
+Queensland,tonnes,Barley,2006,166000
+South Australia,tonnes,Barley,2006,2547800
+Western Australia,tonnes,Barley,2006,2399800
+Tasmania,tonnes,Barley,2006,28200
+Northern Territory,tonnes,Barley,2006,0
+Australian Capital Territory,tonnes,Barley,2006,0
+New South Wales,tonnes,Maize,2006,211900
+Victoria,tonnes,Maize,2006,19200
+Queensland,tonnes,Maize,2006,129100
+South Australia,tonnes,Maize,2006,0
+Western Australia,tonnes,Maize,2006,1700
+Tasmania,tonnes,Maize,2006,0
+Northern Territory,tonnes,Maize,2006,75
+Australian Capital Territory,tonnes,Maize,2006,0
+New South Wales,tonnes,Oats,2006,633000
+Victoria,tonnes,Oats,2006,328100
+Queensland,tonnes,Oats,2006,7500
+South Australia,tonnes,Oats,2006,119600
+Western Australia,tonnes,Oats,2006,591300
+Tasmania,tonnes,Oats,2006,8500
+Northern Territory,tonnes,Oats,2006,0
+Australian Capital Territory,tonnes,Oats,2006,0
+New South Wales,tonnes,Wheat,2006,8049000
+Victoria,tonnes,Wheat,2006,2908900
+Queensland,tonnes,Wheat,2006,1217600
+South Australia,tonnes,Wheat,2006,3852800
+Western Australia,tonnes,Wheat,2006,9088100
+Tasmania,tonnes,Wheat,2006,34000
+Northern Territory,tonnes,Wheat,2006,0
+Australian Capital Territory,tonnes,Wheat,2006,0
+New South Wales,tonnes,Potatoes,2006,130900
+Victoria,tonnes,Potatoes,2006,289300
+Queensland,tonnes,Potatoes,2006,93600
+South Australia,tonnes,Potatoes,2006,357800
+Western Australia,tonnes,Potatoes,2006,89400
+Tasmania,tonnes,Potatoes,2006,288600
+Northern Territory,tonnes,Potatoes,2006,0
+Australian Capital Territory,tonnes,Potatoes,2006,0
+New South Wales,tonnes,Barley,2007,753000
+Victoria,tonnes,Barley,2007,604500
+Queensland,tonnes,Barley,2007,79000
+South Australia,tonnes,Barley,2007,996000
+Western Australia,tonnes,Barley,2007,1808400
+Tasmania,tonnes,Barley,2007,16200
+Northern Territory,tonnes,Barley,2007,0
+Australian Capital Territory,tonnes,Barley,2007,0
+New South Wales,tonnes,Maize,2007,143200
+Victoria,tonnes,Maize,2007,2500
+Queensland,tonnes,Maize,2007,92400
+South Australia,tonnes,Maize,2007,0
+Western Australia,tonnes,Maize,2007,1200
+Tasmania,tonnes,Maize,2007,0
+Northern Territory,tonnes,Maize,2007,400
+Australian Capital Territory,tonnes,Maize,2007,0
+New South Wales,tonnes,Oats,2007,114600
+Victoria,tonnes,Oats,2007,134200
+Queensland,tonnes,Oats,2007,3600
+South Australia,tonnes,Oats,2007,51500
+Western Australia,tonnes,Oats,2007,441000
+Tasmania,tonnes,Oats,2007,3400
+Northern Territory,tonnes,Oats,2007,0
+Australian Capital Territory,tonnes,Oats,2007,0
+New South Wales,tonnes,Wheat,2007,2567700
+Victoria,tonnes,Wheat,2007,879300
+Queensland,tonnes,Wheat,2007,776700
+South Australia,tonnes,Wheat,2007,1446000
+Western Australia,tonnes,Wheat,2007,5134300
+Tasmania,tonnes,Wheat,2007,17700
+Northern Territory,tonnes,Wheat,2007,0
+Australian Capital Territory,tonnes,Wheat,2007,0
+New South Wales,tonnes,Potatoes,2007,122700
+Victoria,tonnes,Potatoes,2007,256500
+Queensland,tonnes,Potatoes,2007,88100
+South Australia,tonnes,Potatoes,2007,364300
+Western Australia,tonnes,Potatoes,2007,78700
+Tasmania,tonnes,Potatoes,2007,301700
+Northern Territory,tonnes,Potatoes,2007,0
+Australian Capital Territory,tonnes,Potatoes,2007,0
+New South Wales,tonnes,Barley,2008,814300
+Victoria,tonnes,Barley,2008,1789200
+Queensland,tonnes,Barley,2008,142800
+South Australia,tonnes,Barley,2008,1672400
+Western Australia,tonnes,Barley,2008,2719400
+Tasmania,tonnes,Barley,2008,22000
+Northern Territory,tonnes,Barley,2008,0
+Australian Capital Territory,tonnes,Barley,2008,0
+New South Wales,tonnes,Maize,2008,0
+Victoria,tonnes,Maize,2008,0
+Queensland,tonnes,Maize,2008,0
+South Australia,tonnes,Maize,2008,0
+Western Australia,tonnes,Maize,2008,0
+Tasmania,tonnes,Maize,2008,0
+Northern Territory,tonnes,Maize,2008,0
+Australian Capital Territory,tonnes,Maize,2008,0
+New South Wales,tonnes,Oats,2008,193200
+Victoria,tonnes,Oats,2008,334700
+Queensland,tonnes,Oats,2008,11800
+South Australia,tonnes,Oats,2008,115300
+Western Australia,tonnes,Oats,2008,839500
+Tasmania,tonnes,Oats,2008,7900
+Northern Territory,tonnes,Oats,2008,0
+Australian Capital Territory,tonnes,Oats,2008,0
+New South Wales,tonnes,Wheat,2008,2477100
+Victoria,tonnes,Wheat,2008,1995300
+Queensland,tonnes,Wheat,2008,953900
+South Australia,tonnes,Wheat,2008,2296000
+Western Australia,tonnes,Wheat,2008,5820200
+Tasmania,tonnes,Wheat,2008,26800
+Northern Territory,tonnes,Wheat,2008,100
+Australian Capital Territory,tonnes,Wheat,2008,0
+New South Wales,tonnes,Potatoes,2008,104400
+Victoria,tonnes,Potatoes,2008,322400
+Queensland,tonnes,Potatoes,2008,99200
+South Australia,tonnes,Potatoes,2008,477100
+Western Australia,tonnes,Potatoes,2008,85800
+Tasmania,tonnes,Potatoes,2008,311200
+Northern Territory,tonnes,Potatoes,2008,0
+Australian Capital Territory,tonnes,Potatoes,2008,0
+New South Wales,tonnes,Barley,2009,1449400
+Victoria,tonnes,Barley,2009,1461400
+Queensland,tonnes,Barley,2009,173000
+South Australia,tonnes,Barley,2009,1876800
+Western Australia,tonnes,Barley,2009,3007400
+Tasmania,tonnes,Barley,2009,28500
+Northern Territory,tonnes,Barley,2009,0
+Australian Capital Territory,tonnes,Barley,2009,0
+New South Wales,tonnes,Maize,2009,115100
+Victoria,tonnes,Maize,2009,3000
+Queensland,tonnes,Maize,2009,254900
+South Australia,tonnes,Maize,2009,0
+Western Australia,tonnes,Maize,2009,2100
+Tasmania,tonnes,Maize,2009,500
+Northern Territory,tonnes,Maize,2009,0
+Australian Capital Territory,tonnes,Maize,2009,0
+New South Wales,tonnes,Oats,2009,260600
+Victoria,tonnes,Oats,2009,236300
+Queensland,tonnes,Oats,2009,7000
+South Australia,tonnes,Oats,2009,81300
+Western Australia,tonnes,Oats,2009,568300
+Tasmania,tonnes,Oats,2009,6500
+Northern Territory,tonnes,Oats,2009,0
+Australian Capital Territory,tonnes,Oats,2009,0
+New South Wales,tonnes,Wheat,2009,6963300
+Victoria,tonnes,Wheat,2009,1755700
+Queensland,tonnes,Wheat,2009,2016000
+South Australia,tonnes,Wheat,2009,2376100
+Western Australia,tonnes,Wheat,2009,8274000
+Tasmania,tonnes,Wheat,2009,34900
+Northern Territory,tonnes,Wheat,2009,0
+Australian Capital Territory,tonnes,Wheat,2009,100
+New South Wales,tonnes,Potatoes,2009,75400
+Victoria,tonnes,Potatoes,2009,255500
+Queensland,tonnes,Potatoes,2009,97600
+South Australia,tonnes,Potatoes,2009,383200
+Western Australia,tonnes,Potatoes,2009,88500
+Tasmania,tonnes,Potatoes,2009,278400
+Northern Territory,tonnes,Potatoes,2009,0
+Australian Capital Territory,tonnes,Potatoes,2009,0
+New South Wales,tonnes,Barley,2010,1236200
+Victoria,tonnes,Barley,2010,1864500
+Queensland,tonnes,Barley,2010,113100
+South Australia,tonnes,Barley,2010,2068200
+Western Australia,tonnes,Barley,2010,2553700
+Tasmania,tonnes,Barley,2010,28800
+Northern Territory,tonnes,Barley,2010,0
+Australian Capital Territory,tonnes,Barley,2010,0
+New South Wales,tonnes,Maize,2010,0
+Victoria,tonnes,Maize,2010,0
+Queensland,tonnes,Maize,2010,0
+South Australia,tonnes,Maize,2010,0
+Western Australia,tonnes,Maize,2010,0
+Tasmania,tonnes,Maize,2010,0
+Northern Territory,tonnes,Maize,2010,0
+Australian Capital Territory,tonnes,Maize,2010,0
+New South Wales,tonnes,Oats,2010,210900
+Victoria,tonnes,Oats,2010,300100
+Queensland,tonnes,Oats,2010,6600
+South Australia,tonnes,Oats,2010,144000
+Western Australia,tonnes,Oats,2010,493300
+Tasmania,tonnes,Oats,2010,6600
+Northern Territory,tonnes,Oats,2010,0
+Australian Capital Territory,tonnes,Oats,2010,100
+New South Wales,tonnes,Wheat,2010,5349800
+Victoria,tonnes,Wheat,2010,2994900
+Queensland,tonnes,Wheat,2010,1346300
+South Australia,tonnes,Wheat,2010,4001300
+Western Australia,tonnes,Wheat,2010,8114100
+Tasmania,tonnes,Wheat,2010,27300
+Northern Territory,tonnes,Wheat,2010,0
+Australian Capital Territory,tonnes,Wheat,2010,300
+New South Wales,tonnes,Potatoes,2010,131800
+Victoria,tonnes,Potatoes,2010,275000
+Queensland,tonnes,Potatoes,2010,95300
+South Australia,tonnes,Potatoes,2010,358700
+Western Australia,tonnes,Potatoes,2010,84600
+Tasmania,tonnes,Potatoes,2010,332700
+Northern Territory,tonnes,Potatoes,2010,0
+Australian Capital Territory,tonnes,Potatoes,2010,0
+New South Wales,tonnes,Barley,2011,2193600
+Victoria,tonnes,Barley,2011,1944900
+Queensland,tonnes,Barley,2011,146200
+South Australia,tonnes,Barley,2011,2122400
+Western Australia,tonnes,Barley,2011,1548600
+Tasmania,tonnes,Barley,2011,39100
+Northern Territory,tonnes,Barley,2011,0
+Australian Capital Territory,tonnes,Barley,2011,0
+New South Wales,tonnes,Maize,2011,171100
+Victoria,tonnes,Maize,2011,11600
+Queensland,tonnes,Maize,2011,171500
+South Australia,tonnes,Maize,2011,1200
+Western Australia,tonnes,Maize,2011,1600
+Tasmania,tonnes,Maize,2011,0
+Northern Territory,tonnes,Maize,2011,0
+Australian Capital Territory,tonnes,Maize,2011,0
+New South Wales,tonnes,Oats,2011,468600
+Victoria,tonnes,Oats,2011,237000
+Queensland,tonnes,Oats,2011,7300
+South Australia,tonnes,Oats,2011,124600
+Western Australia,tonnes,Oats,2011,283300
+Tasmania,tonnes,Oats,2011,7000
+Northern Territory,tonnes,Oats,2011,0
+Australian Capital Territory,tonnes,Oats,2011,0
+New South Wales,tonnes,Wheat,2011,10488400
+Victoria,tonnes,Wheat,2011,4412400
+Queensland,tonnes,Wheat,2011,1523600
+South Australia,tonnes,Wheat,2011,5948700
+Western Australia,tonnes,Wheat,2011,5004600
+Tasmania,tonnes,Wheat,2011,31900
+Northern Territory,tonnes,Wheat,2011,0
+Australian Capital Territory,tonnes,Wheat,2011,400
+New South Wales,tonnes,Potatoes,2011,110800
+Victoria,tonnes,Potatoes,2011,236700
+Queensland,tonnes,Potatoes,2011,87700
+South Australia,tonnes,Potatoes,2011,356500
+Western Australia,tonnes,Potatoes,2011,84800
+Tasmania,tonnes,Potatoes,2011,251800
+Northern Territory,tonnes,Potatoes,2011,0
+Australian Capital Territory,tonnes,Potatoes,2011,0
+New South Wales,tonnes,Barley,2012,1425036
+Victoria,tonnes,Barley,2012,2005065
+Queensland,tonnes,Barley,2012,191021
+South Australia,tonnes,Barley,2012,1815510
+Western Australia,tonnes,Barley,2012,2761114
+Tasmania,tonnes,Barley,2012,23115
+Northern Territory,tonnes,Barley,2012,0
+Australian Capital Territory,tonnes,Barley,2012,0
+New South Wales,tonnes,Maize,2012,206850
+Victoria,tonnes,Maize,2012,20880
+Queensland,tonnes,Maize,2012,216916
+South Australia,tonnes,Maize,2012,1998
+Western Australia,tonnes,Maize,2012,2292
+Tasmania,tonnes,Maize,2012,0
+Northern Territory,tonnes,Maize,2012,1600
+Australian Capital Territory,tonnes,Maize,2012,0
+New South Wales,tonnes,Oats,2012,257557
+Victoria,tonnes,Oats,2012,234090
+Queensland,tonnes,Oats,2012,22762
+South Australia,tonnes,Oats,2012,78033
+Western Australia,tonnes,Oats,2012,661965
+Tasmania,tonnes,Oats,2012,7624
+Northern Territory,tonnes,Oats,2012,0
+Australian Capital Territory,tonnes,Oats,2012,0
+New South Wales,tonnes,Wheat,2012,8472914
+Victoria,tonnes,Wheat,2012,3943311
+Queensland,tonnes,Wheat,2012,1886303
+South Australia,tonnes,Wheat,2012,4524803
+Western Australia,tonnes,Wheat,2012,11045107
+Tasmania,tonnes,Wheat,2012,32252
+Northern Territory,tonnes,Wheat,2012,0
+Australian Capital Territory,tonnes,Wheat,2012,319
+New South Wales,tonnes,Potatoes,2012,66078
+Victoria,tonnes,Potatoes,2012,295878
+Queensland,tonnes,Potatoes,2012,90967
+South Australia,tonnes,Potatoes,2012,384204
+Western Australia,tonnes,Potatoes,2012,89537
+Tasmania,tonnes,Potatoes,2012,361521
+Northern Territory,tonnes,Potatoes,2012,0
+Australian Capital Territory,tonnes,Potatoes,2012,0
+New South Wales,tonnes,Barley,2013,1286325
+Victoria,tonnes,Barley,2013,1952219
+Queensland,tonnes,Barley,2013,170208
+South Australia,tonnes,Barley,2013,1794436
+Western Australia,tonnes,Barley,2013,2251680
+Tasmania,tonnes,Barley,2013,16513
+Northern Territory,tonnes,Barley,2013,0
+Australian Capital Territory,tonnes,Barley,2013,210
+New South Wales,tonnes,Maize,2013,261232
+Victoria,tonnes,Maize,2013,28216
+Queensland,tonnes,Maize,2013,213117
+South Australia,tonnes,Maize,2013,897
+Western Australia,tonnes,Maize,2013,3262
+Tasmania,tonnes,Maize,2013,0
+Northern Territory,tonnes,Maize,2013,0
+Australian Capital Territory,tonnes,Maize,2013,0
+New South Wales,tonnes,Oats,2013,275517
+Victoria,tonnes,Oats,2013,233159
+Queensland,tonnes,Oats,2013,14355
+South Australia,tonnes,Oats,2013,88430
+Western Australia,tonnes,Oats,2013,502281
+Tasmania,tonnes,Oats,2013,7393
+Northern Territory,tonnes,Oats,2013,0
+Australian Capital Territory,tonnes,Oats,2013,0
+New South Wales,tonnes,Wheat,2013,7364882
+Victoria,tonnes,Wheat,2013,3422865
+Queensland,tonnes,Wheat,2013,1613964
+South Australia,tonnes,Wheat,2013,3678962
+Western Australia,tonnes,Wheat,2013,6744055
+Tasmania,tonnes,Wheat,2013,30440
+Northern Territory,tonnes,Wheat,2013,0
+Australian Capital Territory,tonnes,Wheat,2013,410
+New South Wales,tonnes,Potatoes,2013,112757
+Victoria,tonnes,Potatoes,2013,250668
+Queensland,tonnes,Potatoes,2013,113078
+South Australia,tonnes,Potatoes,2013,367141
+Western Australia,tonnes,Potatoes,2013,79129
+Tasmania,tonnes,Potatoes,2013,350470
+Northern Territory,tonnes,Potatoes,2013,0
+Australian Capital Territory,tonnes,Potatoes,2013,0
+New South Wales,tonnes,Barley,2014,1485537
+Victoria,tonnes,Barley,2014,2035814
+Queensland,tonnes,Barley,2014,179535
+South Australia,tonnes,Barley,2014,1892284
+Western Australia,tonnes,Barley,2014,3555662
+Tasmania,tonnes,Barley,2014,25375
+Northern Territory,tonnes,Barley,2014,0
+Australian Capital Territory,tonnes,Barley,2014,210
+New South Wales,tonnes,Maize,2014,209303
+Victoria,tonnes,Maize,2014,38061
+Queensland,tonnes,Maize,2014,137245
+South Australia,tonnes,Maize,2014,0
+Western Australia,tonnes,Maize,2014,4923
+Tasmania,tonnes,Maize,2014,832
+Northern Territory,tonnes,Maize,2014,0
+Australian Capital Territory,tonnes,Maize,2014,0
+New South Wales,tonnes,Oats,2014,283326
+Victoria,tonnes,Oats,2014,213071
+Queensland,tonnes,Oats,2014,2988
+South Australia,tonnes,Oats,2014,82175
+Western Australia,tonnes,Oats,2014,661401
+Tasmania,tonnes,Oats,2014,11697
+Northern Territory,tonnes,Oats,2014,0
+Australian Capital Territory,tonnes,Oats,2014,0
+New South Wales,tonnes,Wheat,2014,6595626
+Victoria,tonnes,Wheat,2014,3395892
+Queensland,tonnes,Wheat,2014,1036450
+South Australia,tonnes,Wheat,2014,4254313
+Western Australia,tonnes,Wheat,2014,9976941
+Tasmania,tonnes,Wheat,2014,43484
+Northern Territory,tonnes,Wheat,2014,0
+Australian Capital Territory,tonnes,Wheat,2014,330
+New South Wales,tonnes,Potatoes,2014,120440
+Victoria,tonnes,Potatoes,2014,292178
+Queensland,tonnes,Potatoes,2014,77318
+South Australia,tonnes,Potatoes,2014,351816
+Western Australia,tonnes,Potatoes,2014,77904
+Tasmania,tonnes,Potatoes,2014,251602
+Northern Territory,tonnes,Potatoes,2014,0
+Australian Capital Territory,tonnes,Potatoes,2014,0
+New South Wales,tonnes,Barley,2015,1868860
+Victoria,tonnes,Barley,2015,1373833
+Queensland,tonnes,Barley,2015,253191
+South Australia,tonnes,Barley,2015,1941042
+Western Australia,tonnes,Barley,2015,3192452
+Tasmania,tonnes,Barley,2015,16942
+Northern Territory,tonnes,Barley,2015,0
+Australian Capital Territory,tonnes,Barley,2015,0
+New South Wales,tonnes,Maize,2015,245789
+Victoria,tonnes,Maize,2015,58897
+Queensland,tonnes,Maize,2015,182983
+South Australia,tonnes,Maize,2015,0
+Western Australia,tonnes,Maize,2015,6612
+Tasmania,tonnes,Maize,2015,307
+Northern Territory,tonnes,Maize,2015,0
+Australian Capital Territory,tonnes,Maize,2015,0
+New South Wales,tonnes,Oats,2015,350434
+Victoria,tonnes,Oats,2015,179468
+Queensland,tonnes,Oats,2015,14789
+South Australia,tonnes,Oats,2015,89434
+Western Australia,tonnes,Oats,2015,557595
+Tasmania,tonnes,Oats,2015,6287
+Northern Territory,tonnes,Oats,2015,0
+Australian Capital Territory,tonnes,Oats,2015,0
+New South Wales,tonnes,Wheat,2015,6653670
+Victoria,tonnes,Wheat,2015,2631301
+Queensland,tonnes,Wheat,2015,986855
+South Australia,tonnes,Wheat,2015,4602087
+Western Australia,tonnes,Wheat,2015,8824410
+Tasmania,tonnes,Wheat,2015,44237
+Northern Territory,tonnes,Wheat,2015,0
+Australian Capital Territory,tonnes,Wheat,2015,0
+New South Wales,tonnes,Potatoes,2015,111038
+Victoria,tonnes,Potatoes,2015,238297
+Queensland,tonnes,Potatoes,2015,101598
+South Australia,tonnes,Potatoes,2015,341283
+Western Australia,tonnes,Potatoes,2015,65713
+Tasmania,tonnes,Potatoes,2015,296573
+Northern Territory,tonnes,Potatoes,2015,0
+Australian Capital Territory,tonnes,Potatoes,2015,0
+New South Wales,tonnes,Barley,2016,2527655
+Victoria,tonnes,Barley,2016,1107380
+Queensland,tonnes,Barley,2016,372361
+South Australia,tonnes,Barley,2016,1719367
+Western Australia,tonnes,Barley,2016,3247933
+Tasmania,tonnes,Barley,2016,16453
+Northern Territory,tonnes,Barley,2016,1119
+Australian Capital Territory,tonnes,Barley,2016,6
+New South Wales,tonnes,Maize,2016,169800
+Victoria,tonnes,Maize,2016,61202
+Queensland,tonnes,Maize,2016,163901
+South Australia,tonnes,Maize,2016,681
+Western Australia,tonnes,Maize,2016,4180
+Tasmania,tonnes,Maize,2016,257
+Northern Territory,tonnes,Maize,2016,11
+Australian Capital Territory,tonnes,Maize,2016,0
+New South Wales,tonnes,Oats,2016,382563
+Victoria,tonnes,Oats,2016,185291
+Queensland,tonnes,Oats,2016,23371
+South Australia,tonnes,Oats,2016,102548
+Western Australia,tonnes,Oats,2016,601410
+Tasmania,tonnes,Oats,2016,4496
+Northern Territory,tonnes,Oats,2016,0
+Australian Capital Territory,tonnes,Oats,2016,0
+New South Wales,tonnes,Wheat,2016,6897527
+Victoria,tonnes,Wheat,2016,1814868
+Queensland,tonnes,Wheat,2016,1315912
+South Australia,tonnes,Wheat,2016,3679342
+Western Australia,tonnes,Wheat,2016,8510577
+Tasmania,tonnes,Wheat,2016,53361
+Northern Territory,tonnes,Wheat,2016,2861
+Australian Capital Territory,tonnes,Wheat,2016,68
+New South Wales,tonnes,Potatoes,2016,137247
+Victoria,tonnes,Potatoes,2016,237881
+Queensland,tonnes,Potatoes,2016,68358
+South Australia,tonnes,Potatoes,2016,347502
+Western Australia,tonnes,Potatoes,2016,87747
+Tasmania,tonnes,Potatoes,2016,251439
+Northern Territory,tonnes,Potatoes,2016,0
+Australian Capital Territory,tonnes,Potatoes,2016,0
+New South Wales,tonnes,Barley,2017,2832124
+Victoria,tonnes,Barley,2017,3082850
+Queensland,tonnes,Barley,2017,435727
+South Australia,tonnes,Barley,2017,3002007
+Western Australia,tonnes,Barley,2017,4119831
+Tasmania,tonnes,Barley,2017,33430
+Northern Territory,tonnes,Barley,2017,0
+Australian Capital Territory,tonnes,Barley,2017,20
+New South Wales,tonnes,Maize,2017,202507
+Victoria,tonnes,Maize,2017,68650
+Queensland,tonnes,Maize,2017,146237
+South Australia,tonnes,Maize,2017,583
+Western Australia,tonnes,Maize,2017,16525
+Tasmania,tonnes,Maize,2017,1147
+Northern Territory,tonnes,Maize,2017,544
+Australian Capital Territory,tonnes,Maize,2017,0
+New South Wales,tonnes,Oats,2017,495657
+Victoria,tonnes,Oats,2017,492994
+Queensland,tonnes,Oats,2017,56470
+South Australia,tonnes,Oats,2017,179374
+Western Australia,tonnes,Oats,2017,1035754
+Tasmania,tonnes,Oats,2017,5254
+Northern Territory,tonnes,Oats,2017,0
+Australian Capital Territory,tonnes,Oats,2017,0
+New South Wales,tonnes,Wheat,2017,9819120
+Victoria,tonnes,Wheat,2017,4664824
+Queensland,tonnes,Wheat,2017,1501600
+South Australia,tonnes,Wheat,2017,6132504
+Western Australia,tonnes,Wheat,2017,9644881
+Tasmania,tonnes,Wheat,2017,55780
+Northern Territory,tonnes,Wheat,2017,0
+Australian Capital Territory,tonnes,Wheat,2017,35
+New South Wales,tonnes,Potatoes,2017,107698
+Victoria,tonnes,Potatoes,2017,245219
+Queensland,tonnes,Potatoes,2017,61755
+South Australia,tonnes,Potatoes,2017,297371
+Western Australia,tonnes,Potatoes,2017,73845
+Tasmania,tonnes,Potatoes,2017,319306
+Northern Territory,tonnes,Potatoes,2017,0
+Australian Capital Territory,tonnes,Potatoes,2017,0
+New South Wales,tonnes,Barley,2018,1304643
+Victoria,tonnes,Barley,2018,2109687
+Queensland,tonnes,Barley,2018,187837
+South Australia,tonnes,Barley,2018,1860785
+Western Australia,tonnes,Barley,2018,3774555
+Tasmania,tonnes,Barley,2018,16319
+Northern Territory,tonnes,Barley,2018,0
+Australian Capital Territory,tonnes,Barley,2018,26
+New South Wales,tonnes,Maize,2018,190204
+Victoria,tonnes,Maize,2018,59766
+Queensland,tonnes,Maize,2018,114642
+South Australia,tonnes,Maize,2018,0
+Western Australia,tonnes,Maize,2018,18389
+Tasmania,tonnes,Maize,2018,4238
+Northern Territory,tonnes,Maize,2018,0
+Australian Capital Territory,tonnes,Maize,2018,0
+New South Wales,tonnes,Oats,2018,229353
+Victoria,tonnes,Oats,2018,188467
+Queensland,tonnes,Oats,2018,12380
+South Australia,tonnes,Oats,2018,93916
+Western Australia,tonnes,Oats,2018,697234
+Tasmania,tonnes,Oats,2018,6036
+Northern Territory,tonnes,Oats,2018,0
+Australian Capital Territory,tonnes,Oats,2018,0
+New South Wales,tonnes,Wheat,2018,4702842
+Victoria,tonnes,Wheat,2018,3682083
+Queensland,tonnes,Wheat,2018,765413
+South Australia,tonnes,Wheat,2018,4051954
+Western Australia,tonnes,Wheat,2018,7698552
+Tasmania,tonnes,Wheat,2018,np
+Northern Territory,tonnes,Wheat,2018,0
+Australian Capital Territory,tonnes,Wheat,2018,np
+New South Wales,tonnes,Potatoes,2018,109301
+Victoria,tonnes,Potatoes,2018,224876
+Queensland,tonnes,Potatoes,2018,59397
+South Australia,tonnes,Potatoes,2018,401455
+Western Australia,tonnes,Potatoes,2018,66847
+Tasmania,tonnes,Potatoes,2018,326779
+Northern Territory,tonnes,Potatoes,2018,0
+Australian Capital Territory,tonnes,Potatoes,2018,0
+New South Wales,tonnes,Barley,2019,909089
+Victoria,tonnes,Barley,2019,1337317
+Queensland,tonnes,Barley,2019,132008
+South Australia,tonnes,Barley,2019,1614987
+Western Australia,tonnes,Barley,2019,4798004
+Tasmania,tonnes,Barley,2019,27540
+Northern Territory,tonnes,Barley,2019,0
+Australian Capital Territory,tonnes,Barley,2019,0
+New South Wales,tonnes,Maize,2019,147444
+Victoria,tonnes,Maize,2019,66173
+Queensland,tonnes,Maize,2019,88033
+South Australia,tonnes,Maize,2019,0
+Western Australia,tonnes,Maize,2019,25443
+Tasmania,tonnes,Maize,2019,114
+Northern Territory,tonnes,Maize,2019,0
+Australian Capital Territory,tonnes,Maize,2019,0
+New South Wales,tonnes,Oats,2019,126262
+Victoria,tonnes,Oats,2019,165344
+Queensland,tonnes,Oats,2019,10624
+South Australia,tonnes,Oats,2019,140275
+Western Australia,tonnes,Oats,2019,687050
+Tasmania,tonnes,Oats,2019,5063
+Northern Territory,tonnes,Oats,2019,0
+Australian Capital Territory,tonnes,Oats,2019,0
+New South Wales,tonnes,Wheat,2019,1850335
+Victoria,tonnes,Wheat,2019,2276598
+Queensland,tonnes,Wheat,2019,419675
+South Australia,tonnes,Wheat,2019,3024524
+Western Australia,tonnes,Wheat,2019,9979220
+Tasmania,tonnes,Wheat,2019,np
+Northern Territory,tonnes,Wheat,2019,0
+Australian Capital Territory,tonnes,Wheat,2019,np
+New South Wales,tonnes,Potatoes,2019,82463
+Victoria,tonnes,Potatoes,2019,257876
+Queensland,tonnes,Potatoes,2019,79311
+South Australia,tonnes,Potatoes,2019,382981
+Western Australia,tonnes,Potatoes,2019,79555
+Tasmania,tonnes,Potatoes,2019,343088
+Northern Territory,tonnes,Potatoes,2019,0
+Australian Capital Territory,tonnes,Potatoes,2019,0
+New South Wales,tonnes,Barley,2020,916300
+Victoria,tonnes,Barley,2020,3116609
+Queensland,tonnes,Barley,2020,80075
+South Australia,tonnes,Barley,2020,1995135
+Western Australia,tonnes,Barley,2020,3996150
+Tasmania,tonnes,Barley,2020,22906
+Northern Territory,tonnes,Barley,2020,0
+Australian Capital Territory,tonnes,Barley,2020,0
+New South Wales,tonnes,Maize,2020,95173
+Victoria,tonnes,Maize,2020,53626
+Queensland,tonnes,Maize,2020,57715
+South Australia,tonnes,Maize,2020,0
+Western Australia,tonnes,Maize,2020,56038
+Tasmania,tonnes,Maize,2020,np
+Northern Territory,tonnes,Maize,2020,np
+Australian Capital Territory,tonnes,Maize,2020,0
+New South Wales,tonnes,Oats,2020,183159
+Victoria,tonnes,Oats,2020,197027
+Queensland,tonnes,Oats,2020,24990
+South Australia,tonnes,Oats,2020,91794
+Western Australia,tonnes,Oats,2020,643167
+Tasmania,tonnes,Oats,2020,np
+Northern Territory,tonnes,Oats,2020,0
+Australian Capital Territory,tonnes,Oats,2020,np
+New South Wales,tonnes,Wheat,2020,1772365
+Victoria,tonnes,Wheat,2020,3714313
+Queensland,tonnes,Wheat,2020,418475
+South Australia,tonnes,Wheat,2020,2689074
+Western Australia,tonnes,Wheat,2020,5842187
+Tasmania,tonnes,Wheat,2020,43805
+Northern Territory,tonnes,Wheat,2020,0
+Australian Capital Territory,tonnes,Wheat,2020,0
+New South Wales,tonnes,Potatoes,2020,51373
+Victoria,tonnes,Potatoes,2020,272767
+Queensland,tonnes,Potatoes,2020,60381
+South Australia,tonnes,Potatoes,2020,277221
+Western Australia,tonnes,Potatoes,2020,75581
+Tasmania,tonnes,Potatoes,2020,339458
+Northern Territory,tonnes,Potatoes,2020,0
+Australian Capital Territory,tonnes,Potatoes,2020,0
+New South Wales,tonnes,Barley,2021,4257988
+Victoria,tonnes,Barley,2021,2918480
+Queensland,tonnes,Barley,2021,434362
+South Australia,tonnes,Barley,2021,2395385
+Western Australia,tonnes,Barley,2021,4611219
+Tasmania,tonnes,Barley,2021,30840
+Northern Territory,tonnes,Barley,2021,305
+Australian Capital Territory,tonnes,Barley,2021,0
+New South Wales,tonnes,Maize,2021,180761
+Victoria,tonnes,Maize,2021,41230
+Queensland,tonnes,Maize,2021,65856
+South Australia,tonnes,Maize,2021,4487
+Western Australia,tonnes,Maize,2021,13122
+Tasmania,tonnes,Maize,2021,202
+Northern Territory,tonnes,Maize,2021,0
+Australian Capital Territory,tonnes,Maize,2021,0
+New South Wales,tonnes,Oats,2021,644979
+Victoria,tonnes,Oats,2021,334292
+Queensland,tonnes,Oats,2021,60976
+South Australia,tonnes,Oats,2021,161430
+Western Australia,tonnes,Oats,2021,688251
+Tasmania,tonnes,Oats,2021,7221
+Northern Territory,tonnes,Oats,2021,776
+Australian Capital Territory,tonnes,Oats,2021,64
+New South Wales,tonnes,Wheat,2021,12972151
+Victoria,tonnes,Wheat,2021,4525002
+Queensland,tonnes,Wheat,2021,1594192
+South Australia,tonnes,Wheat,2021,3982208
+Western Australia,tonnes,Wheat,2021,8792706
+Tasmania,tonnes,Wheat,2021,56295
+Northern Territory,tonnes,Wheat,2021,0
+Australian Capital Territory,tonnes,Wheat,2021,0
+New South Wales,tonnes,Potatoes,2021,86630
+Victoria,tonnes,Potatoes,2021,282034
+Queensland,tonnes,Potatoes,2021,113383
+South Australia,tonnes,Potatoes,2021,305652
+Western Australia,tonnes,Potatoes,2021,78899
+Tasmania,tonnes,Potatoes,2021,401041
+Northern Territory,tonnes,Potatoes,2021,0
+Australian Capital Territory,tonnes,Potatoes,2021,0
+New South Wales,tonnes,Barley,2022,3561719
+Victoria,tonnes,Barley,2022,2270503
+Queensland,tonnes,Barley,2022,617250
+South Australia,tonnes,Barley,2022,2145560
+Western Australia,tonnes,Barley,2022,5758301
+Tasmania,tonnes,Barley,2022,23951
+Northern Territory,tonnes,Barley,2022,0
+Australian Capital Territory,tonnes,Barley,2022,0
+New South Wales,tonnes,Maize,2022,0
+Victoria,tonnes,Maize,2022,0
+Queensland,tonnes,Maize,2022,0
+South Australia,tonnes,Maize,2022,0
+Western Australia,tonnes,Maize,2022,0
+Tasmania,tonnes,Maize,2022,0
+Northern Territory,tonnes,Maize,2022,0
+Australian Capital Territory,tonnes,Maize,2022,0
+New South Wales,tonnes,Oats,2022,344449
+Victoria,tonnes,Oats,2022,233846
+Queensland,tonnes,Oats,2022,66892
+South Australia,tonnes,Oats,2022,145667
+Western Australia,tonnes,Oats,2022,937443
+Tasmania,tonnes,Oats,2022,6577
+Northern Territory,tonnes,Oats,2022,0
+Australian Capital Territory,tonnes,Oats,2022,0
+New South Wales,tonnes,Wheat,2022,12029415
+Victoria,tonnes,Wheat,2022,4246433
+Queensland,tonnes,Wheat,2022,2222389
+South Australia,tonnes,Wheat,2022,4750113
+Western Australia,tonnes,Wheat,2022,12919145
+Tasmania,tonnes,Wheat,2022,69983
+Northern Territory,tonnes,Wheat,2022,0
+Australian Capital Territory,tonnes,Wheat,2022,0
+New South Wales,tonnes,Potatoes,2022,51164
+Victoria,tonnes,Potatoes,2022,269799
+Queensland,tonnes,Potatoes,2022,117574
+South Australia,tonnes,Potatoes,2022,228701
+Western Australia,tonnes,Potatoes,2022,85920
+Tasmania,tonnes,Potatoes,2022,355771
+Northern Territory,tonnes,Potatoes,2022,0
+Australian Capital Territory,tonnes,Potatoes,2022,0
