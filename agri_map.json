@@ -1,0 +1,64 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Total Oats Production in Australia (2013-2022)",
+    "anchor": "middle",
+    "fontSize": 18
+  },
+  "width": 700,
+  "height": 500,
+  "data": {
+    "url": "https://raw.githubusercontent.com/jeromejoeyy/FIT3179/refs/heads/main/tonnes_data.csv"
+  },
+  "transform": [
+    {
+      "filter": "datum.Commodity === 'Oats' && datum.Year >= 2013 && datum.Year <= 2022"
+    },
+    {
+      "aggregate": [
+        {
+          "op": "sum",
+          "field": "Value",
+          "as": "Total Production"
+        }
+      ],
+      "groupby": ["Region label"]
+    },
+    {
+      "lookup": "Region label",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/JiazhouLiu/FIT3179/refs/heads/main/oceania_states.json",
+          "format": {
+            "type": "topojson",
+            "feature": "STE_2016_AUST"
+          }
+        },
+        "key": "properties.STE_NAME16",
+        "fields": ["type", "geometry"]
+      }
+    },
+    {
+      "calculate": "isValid(datum['Total Production']) ? datum['Total Production'] : 0",
+      "as": "Total Production"
+    }
+  ],
+  "projection": {"type": "mercator"},
+  "mark": {
+    "type": "geoshape",
+    "stroke": "black",
+    "strokeWidth": 0.5
+  },
+  "encoding": {
+    "color": {
+      "field": "Total Production",
+      "type": "quantitative",
+      "title": "Total Production (tonnes)",
+      "scale": {"scheme": "blues"}
+    },
+    "tooltip": [
+      {"field": "Region label", "type": "nominal", "title": "State"},
+      {"field": "Total Production", "type": "quantitative", "title": "Production (tonnes)"}
+    ]
+  }
+}

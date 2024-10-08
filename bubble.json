@@ -1,0 +1,73 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Bubble Chart of Agricultural Revenue by Region and Product.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/jeromejoeyy/FIT3179/refs/heads/main/tonnes_data.csv",
+    "format": {"type": "csv"}
+  },
+  "transform": [
+    {
+      "aggregate": [
+        {
+          "op": "sum",
+          "field": "Value",
+          "as": "TotalRevenue"
+        }
+      ],
+      "groupby": ["Region label", "Commodity"]
+    },
+    {
+      "filter": "datum.Commodity !== null"  
+    },
+    {
+      "filter": "datum.Commodity == selectedProduct"  
+    }
+  ],
+  "params": [
+    {
+      "name": "selectedProduct",
+      "value": "Barley",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Barley",
+          "Maize",
+          "Oats",
+          "Wheat",
+          "Potatoes"
+        ],
+        "name": "Select Product: "
+      }
+    }
+  ],
+  "mark": "circle",
+  "encoding": {
+    "x": {
+      "field": "Region label",
+      "type": "nominal",
+      "title": "Region"
+    },
+    "y": {
+      "field": "TotalRevenue",
+      "type": "quantitative",
+      "title": "Total Revenue"
+    },
+    "size": {
+      "field": "TotalRevenue",
+      "type": "quantitative",
+      "scale": {"range": [0, 1000]},  
+      "title": "Size of Revenue"
+    },
+    "color": {
+      "field": "Commodity",
+      "type": "nominal",
+      "scale": {"scheme": "category10"},
+      "title": "Commodity"
+    },
+    "tooltip": [
+      {"field": "Region label", "title": "Region"},
+      {"field": "Commodity", "title": "Product"},
+      {"field": "TotalRevenue", "title": "Total Revenue", "format": ",.2f"}
+    ]
+  }
+}
